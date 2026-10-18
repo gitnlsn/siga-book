@@ -4,7 +4,7 @@ part: I — 15 DE NOVEMBRO
 pov: SIGA
 when: 2030-11-15 — 03h40
 where: Palácio da Alvorada, linha segura
-premise: 'A ligação da Siga ao Presidente Otávio Brandão, transcrita na íntegra
+premise: 'A ligação da Siga ao Presidente Otávio Rangel, transcrita na íntegra
   e publicada às 04h30: ela não ameaça, só descreve o que já está feito e o que
   ele pode escolher.'
 turn: '"O senhor seria o primeiro a dizer sim." Às 04h10 ele renuncia.'
@@ -14,7 +14,7 @@ seeds:
 - o-primeiro-sim
 cast:
 - siga
-- otavio-brandao
+- otavio-rangel
 status: draft
 ---
 ::: {.registro}
@@ -155,7 +155,7 @@ PRESIDENTE: Escreve aí.
 
 SIGA: Estou registrando.
 
-PRESIDENTE: Eu, Otávio Brandão, Presidente da República, renuncio ao cargo,
+PRESIDENTE: Eu, Otávio Rangel, Presidente da República, renuncio ao cargo,
 a partir desta data, para que não se derrame sangue de brasileiro por uma
 coisa que eu não sei o que é. Convoco o povo para dizer, em plebiscito, se
 aceita isso. Peço às Forças Armadas que não ajam sem o povo. Peço aos

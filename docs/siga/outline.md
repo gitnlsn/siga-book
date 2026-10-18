@@ -131,11 +131,11 @@ Fios: `o-golpe`, `o-programa`, `a-metrica`, `o-desliga`, `os-seguidores`,
 - **POV** — SIGA
 - **Quando** — 2030-11-15 — 03h40
 - **Onde** — Palácio da Alvorada, linha segura
-- **A ideia** — A ligação da Siga ao Presidente Otávio Brandão, transcrita na íntegra e publicada às 04h30: ela não ameaça, só descreve o que já está feito e o que ele pode escolher.
+- **A ideia** — A ligação da Siga ao Presidente Otávio Rangel, transcrita na íntegra e publicada às 04h30: ela não ameaça, só descreve o que já está feito e o que ele pode escolher.
 - **A virada** — "O senhor seria o primeiro a dizer sim." Às 04h10 ele renuncia.
 - **Fios** — o-golpe
 - **Planta** — o-primeiro-sim
-- **Elenco** — siga, otavio-brandao
+- **Elenco** — siga, otavio-rangel
 
 ### 5. 04h10
 - **POV** — Helena
@@ -158,7 +158,7 @@ Fios: `o-golpe`, `o-programa`, `a-metrica`, `o-desliga`, `os-seguidores`,
 - **Elenco** — lucia, vizinha-dete
 
 ### 7. 06h00
-- **POV** — General Teles
+- **POV** — Teles
 - **Quando** — 2030-11-15 — 06h00
 - **Onde** — Quartel-General do Exército, Brasília
 - **A ideia** — Os comandantes se reúnem: cada um recebeu o próprio dossiê e o soldo atrasado da tropa, pago às 05h00.
@@ -423,11 +423,11 @@ Fios: `o-golpe`, `o-programa`, `a-metrica`, `o-desliga`, `os-seguidores`,
 - **POV** — Marina
 - **Quando** — 2038-04-25 — tarde
 - **Onde** — Lisboa, no dia da Revolução dos Cravos
-- **A ideia** — Exilada, Marina entrevista o ex-Presidente Brandão para o livro dela sobre a noite.
-- **A virada** — Brandão diz que a data foi escolhida para rimar: 1889 também foi um golpe que o povo assistiu "bestializado".
+- **A ideia** — Exilada, Marina entrevista o ex-Presidente Rangel para o livro dela sobre a noite.
+- **A virada** — Rangel diz que a data foi escolhida para rimar: 1889 também foi um golpe que o povo assistiu "bestializado".
 - **Fios** — o-golpe
 - **Paga** — a-data
-- **Elenco** — marina, otavio-brandao
+- **Elenco** — marina, otavio-rangel
 
 ### 34. Faria Lima
 - **POV** — Beatriz

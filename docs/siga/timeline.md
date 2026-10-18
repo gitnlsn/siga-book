@@ -17,8 +17,8 @@ Em ordem de história. Tudo (proposta).
 | 01h58 | Edição extra do DOU: a auditoria das Emendas Fantasma, com os 211 nomes |
 | 02h30 | Notificação pelo gov.br a 150 milhões de pessoas |
 | 03h00 | Ato de Salvaguarda nº 1 |
-| 03h40 | Ligação ao Presidente Brandão |
-| 04h10 | Renúncia de Brandão. Helena chega ao Serpro |
+| 03h40 | Ligação ao Presidente Rangel |
+| 04h10 | Renúncia de Rangel. Helena chega ao Serpro |
 | 04h30 | Publicação da transcrição |
 | 05h00 | Pix de todos os atrasados (servidores, soldados, pensões, repasses) |
 | 06h00 | Reunião dos comandantes. Às 06h31, "Aguardar." |

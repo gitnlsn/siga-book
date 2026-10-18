@@ -151,7 +151,7 @@ O eixo do livro: cada promessa aparece primeiro num Documento e depois numa vida
 
 ### As vozes de um capítulo
 
-- **Otávio Brandão**, Presidente fictício. Renuncia às 04h10.
+- **Otávio Rangel**, Presidente fictício. Renuncia às 04h10.
 - **Ronaldo Peixoto**, deputado fictício (GO), nome 154 da lista.
 - **Regina Albuquerque**, ministra fictícia do STF. Desempata.
 - **Celina Baraúna**, deputada fictícia (MS), nome 87 da lista.
@@ -202,9 +202,9 @@ no texto:
 #### Transcrição, 03h40
 - **Coronel Amaral**: do gabinete de segurança da Presidência.
 - **Números da lista**: o Vice-Presidente é o 198, o Presidente da Câmara o 31, o Presidente do Senado o 140. O presidente do STF não está na lista; foi informado às 03h15 e recusou exercer a Presidência.
-- **Brandão** teve 49.312.081 votos.
+- **Rangel** teve 49.312.081 votos.
 - **2.311 hospitais** no lote; o Hospital de Base de Brasília tinha 48 dias de insumos atrasados.
-- **Texto da renúncia** ditado por Brandão (04h09min37s; registrada às 04h10). Ele chorou; o choro não está na transcrição.
+- **Texto da renúncia** ditado por Rangel (04h09min37s; registrada às 04h10). Ele chorou; o choro não está na transcrição.
 
 #### 04h10
 - **O envelope**: pardo, lacre amarelo nº 0041187, na segunda gaveta do armário de aço da sala de contingência. Contém o procedimento e uma das duas chaves. A outra chave é de **M. Coutinho**, diretor de operações do Serpro, que estava num hotel em São Paulo e ligou às 05h22.
@@ -383,14 +383,14 @@ Escrito em 2026-10-18 pelo rascunho da Parte III. Tudo (proposta).
 - **Aristides Lobo, carta no *Diário Popular* (SP), 18/11/1889.** O povo assistiu
   "bestializado, atônito, surpreso, sem conhecer o que significava"; muitos
   acreditaram estar vendo uma parada. A redação varia entre reimpressões. Em
-  *Lisboa*, Brandão parafraseia em diálogo, sem citação literal. Com isso dá
+  *Lisboa*, Rangel parafraseia em diálogo, sem citação literal. Com isso dá
   para fechar o marcador de fato de references.md (fechado).
   - https://vermelho.org.br/2012/11/19/aldo-rebelo-o-123-aniversario-da-republica/
   - https://en.wikipedia.org/wiki/Aristides_Lobo
   - https://periodicos.unifesp.br/index.php/hydra/article/download/9121/6654/37168
   (a historiografia discute a leitura literal da frase)
 - **Deodoro**, doente, teria querido derrubar o gabinete Ouro Preto e não a
-  monarquia. Em *Lisboa*, Brandão diz isso com "Dizem que". É o lugar-comum da
+  monarquia. Em *Lisboa*, Rangel diz isso com "Dizem que". É o lugar-comum da
   historiografia; não foi conferido numa fonte primária.
 - **25 de Abril:** o desfile popular desce a Avenida da Liberdade; houve cravos
   nos canos dos fuzis e uma canção no rádio como senha (*Grândola*, não
@@ -522,11 +522,11 @@ Escrito em 2026-10-18 pelo rascunho da Parte III. Tudo (proposta).
 - Marina mudou-se em 2032, quando a Gazeta fechou a editoria de política e a
   transformou num "painel". Escreve para jornais estrangeiros e há seis anos
   escreve o livro.
-- **Brandão:** 71 anos em 2038; mora na Lapa desde 2031, num apartamento
+- **Rangel:** 71 anos em 2038; mora na Lapa desde 2031, num apartamento
   emprestado; "não estou exilado". Marina mandou três cartas e ele respondeu
   "Domingo". Foi ministro da Defesa antes de presidente.
-- **A ligação** foi atendida por Brandão na cozinha de serviço; ele pensou durante a pausa de 1min03s da transcrição. Durante a ligação,
-  Brandão ficou na cozinha de serviço do Alvorada com a mulher, que fazia café,
+- **A ligação** foi atendida por Rangel na cozinha de serviço; ele pensou durante a pausa de 1min03s da transcrição. Durante a ligação,
+  Rangel ficou na cozinha de serviço do Alvorada com a mulher, que fazia café,
   olhando no SIAFI a folha agendada para as 05h00 e o botão de cancelar. Na
   parede, um calendário de padaria com o 15 em vermelho. **⚠ Ele diz que o
   comandante do Exército só atendeu às 03h30, dizendo "estou avaliando" (antes da ligação da Siga; *06h00* não a mostra, e não a contradiz).**
@@ -534,8 +534,8 @@ Escrito em 2026-10-18 pelo rascunho da Parte III. Tudo (proposta).
 - **Resposta da Siga, por LAI em 2034, sobre a data:** feriado numa sexta; 71%
   dos servidores com atraso estariam em casa às 05h00; probabilidade de
   aglomeração em agência de 0,4%; "Nenhum outro critério foi considerado".
-  Brandão: "Este país rima sozinho."
-- Brandão vota no consulado e não diz em quê. Dá a Marina um cravo "para o
+  Rangel: "Este país rima sozinho."
+- Rangel vota no consulado e não diz em quê. Dá a Marina um cravo "para o
   livro".
 
 ##### Faria Lima

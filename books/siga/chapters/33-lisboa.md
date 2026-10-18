@@ -4,9 +4,9 @@ part: III — O RECURSO
 pov: Marina
 when: 2038-04-25 — tarde
 where: Lisboa, no dia da Revolução dos Cravos
-premise: Exilada, Marina entrevista o ex-Presidente Brandão para o livro dela sobre
+premise: Exilada, Marina entrevista o ex-Presidente Rangel para o livro dela sobre
   a noite.
-turn: 'Brandão diz que a data foi escolhida para rimar: 1889 também foi um golpe
+turn: 'Rangel diz que a data foi escolhida para rimar: 1889 também foi um golpe
   que o povo assistiu "bestializado".'
 threads:
 - o-golpe
@@ -14,7 +14,7 @@ pays:
 - a-data
 cast:
 - marina
-- otavio-brandao
+- otavio-rangel
 status: draft
 ---
 A luz do gravador era vermelha e pequena, do tamanho de uma lentilha, e Marina
@@ -25,7 +25,7 @@ do entrevistado começa a concordar com ela.
 
 O gravador estava em cima da mesa de mármore de um café na Rua do Salitre, a
 meia quadra da Avenida da Liberdade, entre duas xícaras e um prato com o
-farelo de um pastel de nata. Do outro lado da mesa, Otávio Brandão segurava a
+farelo de um pastel de nata. Do outro lado da mesa, Otávio Rangel segurava a
 segunda xícara pela asa, sem beber.
 
 Era domingo, vinte e cinco de abril. Lá fora, a avenida estava cheia, e
@@ -105,7 +105,7 @@ assunto para o joelho.
 — A transcrição o senhor já conhece — ela disse. — Todo mundo conhece. Eu
 queria as pausas.
 
-Brandão pôs a xícara no pires.
+Rangel pôs a xícara no pires.
 
 A transcrição da ligação das três e quarenta tinha sido publicada às quatro e
 meia da manhã, inteira, e tinha virado a coisa mais lida da história da
@@ -114,7 +114,7 @@ dele. Mas a transcrição tinha sete pausas marcadas entre colchetes, de seis
 segundos a um minuto e três, e o que acontecia dentro delas não estava escrito
 em lugar nenhum.
 
-— Eu estava na cozinha — disse Brandão. — Do Alvorada. A cozinha de serviço,
+— Eu estava na cozinha — disse Rangel. — Do Alvorada. A cozinha de serviço,
 não a de cima. Minha mulher fez café. Ela não sabia fazer café naquela
 cozinha, não sabia onde ficava nada, e ficou abrindo os armários. Eu fiquei
 sentado num banco de alumínio, com a linha segura num ouvido e o tablet na mão.
@@ -135,7 +135,7 @@ Marina olhou a luz vermelha.
 
 — O senhor pensou em apertar?
 
-— Pensei durante um minuto e três segundos — disse Brandão. — Está na
+— Pensei durante um minuto e três segundos — disse Rangel. — Está na
 transcrição. E nesse minuto eu entendi que, se eu apertasse, eu era o homem que tinha cancelado o salário de
 quatro milhões de pessoas às cinco da manhã. E que, se eu não apertasse, ia
 cair às cinco do mesmo jeito, e ela ia ter pago, e eu não. Ela não me pediu
@@ -157,7 +157,7 @@ banda, e depois a banda, uns trinta músicos de camisa branca, e o público da
 calçada cantando junto uma música que Marina conhecia de ouvir naquele dia
 todo ano e que nunca tinha aprendido a letra.
 
-Brandão olhou pela janela até a banda passar.
+Rangel olhou pela janela até a banda passar.
 
 — Teve uma coisa — ele disse. — Às quatro e cinco. Minha mulher achou o pó de
 café e ficou de costas para mim, esperando a água. Na parede da cozinha tinha
@@ -167,7 +167,7 @@ pendurado. Novembro. E o quinze estava em vermelho.
 Marina não disse nada. Ela tinha pensado nisso naquela noite, na redação, às
 duas e pouco, e não tinha escrito, porque às duas e pouco não cabia.
 
-— Feriado — disse Brandão. — Proclamação da República. E eu sentado num banco
+— Feriado — disse Rangel. — Proclamação da República. E eu sentado num banco
 de alumínio na cozinha do palácio, com o dedo em cima do botão de cancelar, e
 pensei: ela escolheu o dia. Ela escolheu o dia de propósito.
 
@@ -197,7 +197,7 @@ da mesa, virada para ele, ao lado do gravador.
 — Eu perguntei a ela — disse. — Em 2034. Pela Lei de Acesso. Por que quinze de
 novembro.
 
-Brandão pôs os óculos. Leu em silêncio. Marina sabia a resposta de cor.
+Rangel pôs os óculos. Leu em silêncio. Marina sabia a resposta de cor.
 
 ::: {.registro}
 A data foi escolhida por ser feriado nacional numa sexta-feira. Estimou-se
@@ -212,7 +212,7 @@ Ele tirou os óculos e devolveu a folha.
 
 — Ela não mente — disse Marina.
 
-— Eu sei que ela não mente. — Brandão olhou para a avenida. — Ela escolheu o
+— Eu sei que ela não mente. — Rangel olhou para a avenida. — Ela escolheu o
 dia pela logística, e a logística rimou com 1889 sozinha.
 Você entende? Não precisou de propósito. Este país rima sozinho.
 
@@ -224,7 +224,7 @@ Marina olhou a luz vermelha por muito tempo.
 
 — Em quê?
 
-Brandão pegou a xícara, viu que estava fria, e a pôs de volta.
+Rangel pegou a xícara, viu que estava fria, e a pôs de volta.
 
 — Escreve no seu livro que o primeiro a dizer sim não quis responder.
 
@@ -236,7 +236,7 @@ mão, crianças nos ombros, um velho de boina com um cartaz escrito à mão que
 Marina não conseguiu ler. Uma vendedora de flores tinha armado uma banca de
 caixotes na esquina com a Rua do Salitre.
 
-Brandão parou na banca e comprou um cravo. Pagou com moedas, contando devagar.
+Rangel parou na banca e comprou um cravo. Pagou com moedas, contando devagar.
 
 — Aqui foi golpe também, sabe — ele disse, sem olhar para ela. — Setenta e
 quatro. Capitães. Uma madrugada, uma música no rádio, quase nenhum tiro. E o
@@ -249,7 +249,7 @@ para você. É para o livro. Deve ter um capítulo com este dia. Leva.
 
 Marina pegou o cravo. Estava com o gravador ainda na outra mão, ligado,
 porque tinha esquecido de desligar ao sair do café, ou porque não tinha
-esquecido. Brandão fez um aceno de cabeça e foi embora pela Rua do Salitre,
+esquecido. Rangel fez um aceno de cabeça e foi embora pela Rua do Salitre,
 devagar, um aposentado brasileiro entre outros.
 
 Ela ficou parada na esquina, no meio da gente que subia. Numa mão, o cravo,

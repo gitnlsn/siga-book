@@ -138,7 +138,8 @@ era o da conversa com ela.
 — Josué, você consegue puxar as imagens históricas do terreno? Desde o começo
 da série.
 
-— Consigo. Desde 1985 tem Landsat. Desde 2015 tem coisa melhor.
+— Consigo. Desde 1985 tem a série inteira, Landsat, ano a ano. Desde 2015 tem
+coisa melhor.
 
 — Puxa as roças antigas. Todas que der. Eu quero mostrar que o mato voltou em
 cada uma.

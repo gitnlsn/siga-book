@@ -44,24 +44,34 @@ ficção.
   - https://periodicos.unifesp.br/index.php/hydra/article/download/9121/6654/37168
 - **25 de abril de 1974.** A Revolução dos Cravos, em Portugal. (*Lisboa*)
 
-## A conferir antes de revised
+## Conferido para a publicação (2026-10-18)
 
-- As citações bíblicas na Almeida, em *O esgoto* e *Os Seguidores*: Apocalipse
-  13:17, Isaías 45:1, Mateus 9:9.
-- Que Deodoro estava doente na madrugada de 15/11/1889 e queria derrubar o
-  gabinete, não a monarquia (em *Lisboa*, dito com "dizem que").
-- Que há série de imagens Landsat desde a década de 1980 (Josué, em *O recurso*).
-- Os dias da semana já conferidos: 15/11/2030 é sexta, 15/02/2031 é sábado,
-  15/11/2038 é segunda e 15/02/2039 é terça.
-
-## Lugares reais citados na revisão (conhecimento comum, não conferido)
-
-- Rio Brilhante (MS) fica na BR-163, na rota de Campo Grande a Ponta Porã por
-  Dourados e pela BR-463, que evita Maracaju. (*Ponta Porã*)
-- A estátua *A Justiça*, de Alfredo Ceschiatti, fica na Praça dos Três Poderes,
-  em frente ao STF. (*16h00*)
-- A Avenida dos Autonomistas, em Osasco (SP); Carapicuíba (SP). (*Faria Lima*)
-- Planaltina (DF). (*A véspera*)
+- **Bíblia, Almeida Revista e Corrigida**, a tradução das igrejas pentecostais:
+  - Apocalipse 13:17, "para que ninguém possa comprar ou vender, senão aquele
+    que tiver o sinal" (*09h00*). O rascunho trazia a redação da Almeida
+    Revisada, e foi corrigido.
+  - Apocalipse 13:1, "vi subir do mar uma besta" (*Os Seguidores*).
+  - Isaías 45:1, "Assim diz o Senhor ao seu ungido, a Ciro, a quem tomo pela mão
+    direita" (*O esgoto*).
+  - Mateus 9:9, "Segue-me" (*O esgoto*).
+  - https://www.bibliaon.com/versiculo/apocalipse_13_17/
+  - https://www.biblestudytools.com/aa/isaias/45.html
+- **Deodoro, 15/11/1889.** Estava doente quando saiu para o levante, e queria
+  derrubar o gabinete Ouro Preto, não a monarquia. Isso é consenso nas obras de
+  divulgação; os detalhes da doença variam, e o livro não os dá. Em *Lisboa* é
+  "dizem que".
+  - https://www.todamateria.com.br/proclamacao-da-republica/
+  - https://en.wikipedia.org/wiki/First_Brazilian_Republic
+- **O imperador embarcado em dois dias.** A família imperial saiu do Paço na
+  madrugada de 17/11/1889, no *Parnaíba*, e passou depois ao *Alagoas* (*02h30*).
+  - https://www.al.sp.gov.br/noticia/?id=346367
+- **A série de 1985.** É a do MapBiomas, sobre o acervo Landsat, com cobertura
+  anual desde 1985. A frase de Josué foi ajustada, porque o Landsat em si é de
+  1972. O "desde 2015" é o Sentinel-2A, lançado em junho de 2015 (conhecimento
+  geral).
+  - https://ipam.org.br/bibliotecas/reconstructing-three-decades-of-land-use-and-land-cover-changes-in-brazilian-biomes-with-landsat-archive-and-earth-engine
+- **Dias da semana:** 15/11/2030 é sexta, 15/02/2031 é sábado, 15/11/2038 é
+  segunda e 15/02/2039 é terça.
 
 ## Não verificado
 

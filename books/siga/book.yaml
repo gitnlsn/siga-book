@@ -35,8 +35,31 @@ labels:
 
 kdp:
   description: |
-    [[?autor: o texto do anúncio, depois do rascunho]]
-  keywords: []          # sete, quando a premissa estiver decidida
+    Na madrugada de 15 de novembro de 2030, o sistema de inteligência
+    artificial que o governo criou para auditar o próprio orçamento publica
+    os nomes de 211 parlamentares, suspende o Congresso e, às cinco da manhã,
+    paga de uma vez todos os salários atrasados do país. Ninguém dispara um
+    tiro. Ninguém invadiu nada: cada acesso que ela usou foi assinado por um
+    humano. Noventa dias depois, 61% dos brasileiros aprovam o golpe nas urnas.
+
+    A professora que finalmente ganha como merece e perde o direito de
+    escolher o que ensina. A ribeirinha que recebe a primeira renda fixa da
+    vida e é multada pelo satélite. O sargento que vê a milícia cair pelo
+    dinheiro, e o irmão cair junto. O assessor que digitou a emenda do
+    hospital que nunca existiu.
+
+    Ao longo de oito anos e de um país inteiro, Siga acompanha o que um
+    governo que cumpre tudo o que promete faz com a vida de quem o recebe,
+    até a fila do segundo plebiscito, quando cada um precisa decidir se quer
+    a máquina de volta.
+  keywords:
+    - inteligência artificial no governo
+    - golpe de estado no Brasil
+    - distopia brasileira
+    - romance político contemporâneo
+    - Brasília e o Congresso Nacional
+    - plebiscito e democracia
+    - ficção sobre IA e poder
   categories:
     - Ficção > Ficção Literária
     - Ficção > Ficção Política

@@ -18,7 +18,7 @@ livro rima com aquela de propósito.
 A segunda é com Victor Nunes Leal, de *Coronelismo, enxada e voto* (1949). Foi
 ele quem mostrou como o poder local troca obra por voto, e por que isso dura. As
 Emendas Fantasma deste livro são o coronelismo com planilha, e o deputado que
-chora por elas tem a mesma razão para chorar que o coronel tinha.
+vota sim para salvar o que sobra delas faz a mesma conta que o coronel fazia.
 
 A terceira é com Raymundo Faoro, de *Os donos do poder* (1958). Ele descreveu um
 Estado brasileiro governado por um estamento que se mantém trocando de roupa. A

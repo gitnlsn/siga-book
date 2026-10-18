@@ -28,9 +28,9 @@ tinha tempo de escolher.
 
 — Tomate tá bonito, Kauã.
 
-— Me dá um quilo, seu Ivo.
+— Me dá um quilo, seu Amaro.
 
-Seu Ivo pesou, embrulhou no jornal e virou a maquininha para ele. Kauã encostou
+Seu Amaro pesou, embrulhou no jornal e virou a maquininha para ele. Kauã encostou
 o telefone. Na tela apareceu o que agora aparecia em toda compra desde julho,
 uma segunda linha embaixo do preço, em letra cinza:
 
@@ -38,12 +38,12 @@ uma segunda linha embaixo do preço, em letra cinza:
 
 Vinte e sete centavos. Em março do ano anterior, o mesmo quilo tinha custado
 nove e oitenta, e ninguém sabia quanto daquilo era imposto, porque o imposto
-estava escondido dentro do preço como o caroço dentro da azeitona. Seu Ivo
+estava escondido dentro do preço como o caroço dentro da azeitona. Seu Amaro
 explicava isso para todo freguês que perguntava e para muitos que não
 perguntavam. Tinha recortado do jornal a tabela do Ato Normativo nº 7 e colado
 com fita no toldo da barraca, ao lado do santinho de São Judas.
 
-— Tá vendo? — disse seu Ivo, batendo com o dedo na tabela, que já estava
+— Tá vendo? — disse seu Amaro, batendo com o dedo na tabela, que já estava
 amarelando. — Quatro por cento. Antes era tudo misturado. Agora o freguês vê.
 
 — Tô vendo — disse Kauã.
@@ -166,17 +166,18 @@ definido pela Portaria nº 112/2031.
 O seu índice é 71. Com um chamado aberto hoje, seria 68. Abaixo de 70, a
 prioridade de rota cai uma faixa.
 
-Chamados sobre agressão, acidente ou assédio não deveriam reduzir o índice. A
-Portaria não faz essa distinção. Você pode registrar uma contestação da
-Portaria. Contestações são contadas e publicadas.
+A Portaria não distingue chamados sobre agressão, acidente ou assédio dos
+demais. Em agosto, esses foram 38% dos chamados abertos na cidade de São Paulo.
+Você pode registrar uma contestação da Portaria. Contestações são contadas e
+publicadas.
 :::
 
 Kauã ficou parado no meio-fio, com a perna latejando e o sol batendo no
 capacete pendurado no retrovisor.
 
-Era tudo verdade. Era isso que dava raiva. Não tinha ninguém mentindo para ele,
-nem a plataforma, nem a máquina. A máquina dizia, numa letra limpa, que a regra
-estava errada, e que ele podia reclamar da regra, e que reclamar custava três
+Era tudo verdade. Ninguém estava mentindo para ele, nem a plataforma, nem a
+máquina. A máquina dizia, numa letra limpa, que a regra não separava cachorro
+de reclamação, e que ele podia reclamar da regra, e que reclamar custava três
 pontos, e que três pontos eram uma faixa, e que uma faixa era a diferença entre
 Pinheiros e a Marginal na hora do pico.
 
@@ -203,7 +204,7 @@ Ele abriu a bag em cima da mesa. O tomate tinha ficado amassado embaixo da
 caixa do restaurante, dois pelo menos, e o jornal estava úmido de vermelho. O
 frango estava bom. O cheiro-verde tinha murchado no calor da bag.
 
-— Tá tudo mais barato, mãe. O seu Ivo pôs a tabela no toldo.
+— Tá tudo mais barato, mãe. O seu Amaro pôs a tabela no toldo.
 
 — Eu vi — disse ela. — Ele mostra pra todo mundo.
 

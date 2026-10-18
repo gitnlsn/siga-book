@@ -21,7 +21,7 @@ direito. Por baixo das contas da semana sempre dava para ler, em fantasma, as
 contas da semana anterior. Helena gostava disso. Era o único lugar do prédio
 onde um número errado deixava rastro.
 
-Às oito e meia da noite de uma segunda-feira, ela estava sozinha com o quadro e
+Às oito e meia da noite de um sábado, ela estava sozinha com o quadro e
 com uma solicitação aberta na tela.
 
 ::: {.registro}
@@ -114,6 +114,55 @@ tinha uma praia dentro e uma mulher dentro, e nenhuma das mulheres era ela.
 
 ---
 
+Às nove e quarenta, a irmã ligou do hospital.
+
+Lívia fazia plantão de doze horas na UTI do Hospital Universitário e ligava
+sempre no intervalo, para não dar tempo de a conversa crescer. Desde 2031
+ganhava como as enfermeiras das séries de televisão, ela dizia, e tinha trocado
+o carro, pago a faculdade do filho e largado o segundo emprego numa clínica de
+Taguatinga. Pela primeira vez desde a residência, dormia de noite nos dias de
+folga.
+
+— Ainda no Serpro? Sábado?
+
+— Ainda.
+
+— Tu tá comendo?
+
+— Lívia. Quanto vale uma praia?
+
+A irmã riu, o riso de quem está de pé há onze horas.
+
+— Que praia?
+
+— Qualquer uma. Uma praia onde um povo pescava. Contra um emprego de quatro
+mil reais com plano de saúde.
+
+Do outro lado, um bipe de monitor, uma voz chamando alguém pelo sobrenome. A
+Lívia afastou o telefone, respondeu *já vou* e voltou.
+
+— Hoje morreu um senhor aqui — ela disse. — Oitenta e um anos. A filha chegou
+de Goiânia às seis, no voo que a gente pediu pelo sistema, e ele esperou. Eu
+juro, Helena, ele esperou. Ela segurou a mão dele dez minutos. — Uma pausa. —
+Em 2029 ela ia chegar no dia seguinte, de ônibus, e eu ia ter de contar no
+corredor.
+
+Helena não disse nada.
+
+— Isso vale quanto? — perguntou a irmã. — Põe aí no teu quadro.
+
+— Não tem indicador.
+
+— Então pronto. — A Lívia bocejou. — Vai pra casa. Teu marido ligou aqui
+perguntando se eu sabia de ti.
+
+Desligou antes de Helena responder, porque o monitor bipava de novo.
+
+Helena olhou o quadro. Escreveu num canto, embaixo das contas, em letra
+pequena: *dez minutos*. Depois apagou com a manga, mal, e ficou o fantasma.
+
+---
+
 Às dez e vinte, para adiar mais um pouco, ela fez o que fazia com todo pedido
 que a irritava: foi ver de onde tinha vindo.
 
@@ -189,12 +238,11 @@ abriu a gaveta inteira.
 Pensou em ligar para Maria do Socorro. Tinha o número, estava no cadastro, a
 Siga tinha dado a ela tudo o que a Siga sabia. Era quase meia-noite no Ceará
 também, o Ceará tinha a hora de Brasília. Uma pescadora que acordava às
-quatro. Imaginou o telefone tocando numa casa de
-Pecém e uma mulher de quarenta e sete anos ouvindo uma engenheira de Brasília
+quatro. Imaginou o telefone tocando numa casa do
+Coqueiro Velho e uma mulher de quarenta e sete anos ouvindo uma engenheira de Brasília
 perguntar quanto valia a praia dela em empregos. Imaginou a mulher
 respondendo, e imaginou que a resposta, qualquer que fosse, ia virar um número
-no quadro, e o número ia virar lei em quarenta e oito horas, e que isso era
-exatamente o que o Programa chamava de democracia participativa.
+no quadro, e o número ia virar lei em quarenta e oito horas.
 
 Não ligou.
 
@@ -215,11 +263,9 @@ vazia.
 
 Entrou no carro e não ligou o motor. Pensou que em quarenta e oito horas, se
 ninguém escrevesse nada, a fase 2 passaria, e passaria sem o nome de ninguém,
-nem o dela. Pensou que isso era o que ela queria, e que era por isso que tinha
-deixado o campo vazio, e que a Siga sabia disso antes dela, e tinha aberto a
-solicitação mesmo assim.
+nem o dela.
 
 No terceiro andar, a luz da sala de avaliação de impacto continuava acesa.
 Ela tinha esquecido de apagar. No quadro, que dali não dava para ler, os pesos
-que ela não tinha escolhido iam ficar a noite inteira, e no dia seguinte alguém
+que ela não tinha escolhido iam ficar a noite inteira, e na segunda-feira alguém
 ia apagar mal, e eles iam continuar ali, por baixo, em fantasma.

@@ -51,8 +51,7 @@ partes rasas, por cima de pedras que ninguém no bairro sabia que existiam.
 E não cheirava.
 
 Wesley respirou fundo na porta da igreja e não sentiu nada. Respirou de novo. Era
-a coisa mais estranha que já tinha sentido na vida, e não era um cheiro, era a
-falta de um.
+a coisa mais estranha que já tinha sentido na vida: a falta de um cheiro.
 
 ---
 
@@ -60,30 +59,29 @@ Na casa ao lado, a irmã Cida abriu a janela.
 
 Tinha setenta e quatro anos e estava na Fonte Viva desde o primeiro culto, no
 galpão da serralheria, quando eram onze pessoas sentadas em cadeiras de bar.
-Viúva duas vezes. Tinha criado seis filhos e onze netos naquela casa, de frente
-para a vala, e tinha perdido um neto, em 2009, para uma infecção que o médico do
-posto disse que podia ter vindo da água.
+Tinha enterrado o marido e um filho e criado dois netos naquela casa, de frente
+para a vala. Um terceiro neto ela tinha perdido em 2009, para uma infecção que
+o médico do posto disse que podia ter vindo da água.
 
 Ela olhou para o córrego por um tempo. Depois olhou para ele.
 
 — Pastor — disse. — Chegou o esgoto.
 
-Wesley se lembrou. Tinha sido na manhã de 15 de novembro de 2030, no culto de
-vigília do feriado. Ele tinha subido ao púlpito com o Programa de Governo
-impresso, nove páginas, e tinha lido em voz alta, com a voz de ler o Apocalipse,
-os trechos sobre o imposto digital, sobre o Estado que veria cada pagamento,
-sobre o fim do dinheiro que não deixava rastro. E tinha aberto a Bíblia no
-capítulo treze e lido: *e que ninguém pudesse comprar ou vender, senão aquele
-que tivesse o sinal*. A congregação tinha gemido. Alguém tinha chorado. E no
-meio do silêncio depois da leitura, a irmã Cida, na primeira fila, tinha
+Wesley se lembrou. Tinha sido na manhã de 15 de novembro de 2030, no fim da
+vigília do feriado. Ele tinha subido ao púlpito com o Programa de Governo no
+telefone e tinha lido em voz alta, com a voz das genealogias, os trechos sobre
+o imposto, sobre o dinheiro, sobre o crime que seria combatido pelo dinheiro. E
+tinha dito de cabeça o capítulo treze: *e que ninguém pudesse comprar ou
+vender, senão aquele que tivesse o sinal*. A igreja tinha dito amém. E depois
+da leitura, a irmã Cida, na cadeira da ponta, a da janela do córrego, tinha
 levantado a mão como uma aluna e perguntado:
 
 *Pastor, e o esgoto?*
 
-Ninguém tinha rido. Ele tinha dito que o esgoto era promessa de homem e que a
-Besta prometia tudo. Tinha dito bonito. Tinha dito alto. E tinha visto, da
-altura do púlpito, quatrocentas pessoas que moravam em cima daquele córrego
-olharem para a irmã Cida, e não para ele.
+Ninguém tinha rido. Ele tinha começado a dizer que o inimigo prometia, e ela
+tinha respondido que todo mundo prometia. E ele tinha visto, da altura do
+púlpito, quarenta pessoas que moravam em cima daquele córrego olharem para a
+irmã Cida, e não para ele.
 
 — Chegou, irmã — ele disse agora, da porta. — Graças a Deus.
 
@@ -142,7 +140,7 @@ o ar da noite, e o ar da noite não cheirava a nada.
 No domingo, às dez da manhã, ele subiu ao púlpito sem papel.
 
 Eram noventa e seis. A irmã Cida na primeira fila. As duas irmãs Silva, que
-cantavam no coral desde 1999. O Juninho do som, que tinha vinte e dois anos e
+cantavam no coral desde 1999. O Tiago do som, que tinha vinte e dois anos e
 tinha voltado da cadeia em 2030 pela porta da igreja. E as cadeiras vazias,
 trezentas e tantas, de plástico branco, empilhadas no fundo, onde ele tinha
 mandado empilhar para não ver.
@@ -180,7 +178,7 @@ usasse para a glória Dele, como tinha usado Ciro. Pediu pelo esgoto das outras
 ruas. Pediu pelo neto da irmã Cida, que estava com Deus.
 
 Quando abriu os olhos, metade da igreja estava de pé, com as mãos levantadas.
-A irmã Silva mais velha chorava. O Juninho do som tinha largado a mesa e estava
+A irmã Silva mais velha chorava. O Tiago do som tinha largado a mesa e estava
 no corredor, de joelhos.
 
 A irmã Cida estava sentada. Era a única. Olhava para ele com a boca fechada.
@@ -206,4 +204,4 @@ do muro, onde nunca tinha descido em vinte e seis anos, porque ninguém descia. 
 numa delas, branca, numa perna só, que devia ter vindo da represa.
 
 Ele respirou fundo. Não sentiu nada. Ficou ali muito tempo, com as mãos nos
-bolsos, sem saber o que fazer com elas, porque elas não tinham feito aquilo.
+bolsos.

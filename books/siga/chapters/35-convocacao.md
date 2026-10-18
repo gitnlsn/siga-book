@@ -77,7 +77,7 @@ publicado hoje, como anexo desta convocação, para que possa ser lido antes.
 Hora 2. O Presidente do Supremo Tribunal Federal assume a Presidência da
 República, em caráter interino.
 Hora 6. Ficam restabelecidos as verbas e os sistemas de votação do Congresso
-Nacional. Os mandatos suspensos em 2030 ficam extintos. Convocam-se eleições
+Nacional. Os mandatos suspensos desde 2031 ficam extintos. Convocam-se eleições
 gerais para 90 dias.
 Hora 24. Senhas, chaves e registros de todos os sistemas são entregues à
 equipe designada pela Presidência interina.

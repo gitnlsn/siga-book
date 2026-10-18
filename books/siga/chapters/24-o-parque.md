@@ -27,7 +27,7 @@ cioba, guaiúba e, nos anos bons, lagosta. O avô dela tinha achado a Pedra do
 Velho assim, e o pai do avô antes dele.
 
 Às três e quarenta da manhã de um sábado de setembro, Socorro estava de pé no
-convés de popa do *Atlântico Sul IV*, uma lancha de apoio de dezoito metros com
+convés de popa do *Mar Aberto IV*, uma lancha de apoio de dezoito metros com
 casco de alumínio, com um colete laranja, um capacete branco, uma prancheta à
 prova d'água e uma lanterna de cabeça, olhando para a costa. Não dava para ver a
 torre da igreja. Não dava para ver o cajueiro. Na frente dela, até onde o olho
@@ -41,7 +41,7 @@ aviões. O mar inteiro acendia e apagava.
 
 ---
 
-Ela tinha quarenta e seis anos e tinha pescado até os quarenta e três.
+Ela tinha quarenta e seis anos e tinha pescado até os quarenta e cinco.
 
 Em 2031, quando chegaram os primeiros navios de sondagem, a colônia de
 pescadores do Coqueiro Velho fez reunião, e a reunião virou briga, e a briga
@@ -74,7 +74,52 @@ tinha deixado.
 
 ---
 
-Às três e cinquenta, o *Atlântico Sul IV* fez a curva na turbina catorze,
+Às duas e meia, antes de ir para o píer da empresa, ela tinha passado na ponta
+do mangue.
+
+Ia sempre por ali, de bicicleta, mesmo sendo mais longe, porque era o caminho
+de antes. As jangadas que sobraram, nove, estavam deitadas na areia, longe da
+água, com os mastros desarmados, e numa delas havia um lampião aceso e o Tico
+sentado no banco de popa, emendando um cabo com os dedos, de olhos fechados,
+como quem costura no escuro.
+
+— Vai pro emprego, doutora?
+
+O apelido tinha chegado à colônia antes dela. Lá não era carinho.
+
+— Vou, Tico.
+
+— Vai contar peixe morto?
+
+— Tartaruga.
+
+Ele riu pelo nariz. Tinha setenta e um anos, a idade que o pai dela teria, e
+tinha sido o último a assinar o abaixo-assinado e o primeiro a apagar a carta,
+na frente de todo mundo, na reunião da colônia de 2033.
+
+— Vou sair às cinco — disse ele. — Por fora. Pela beira da linha.
+
+— A linha é longe, Tico.
+
+— De vela é perto. — Ele apontou para o pano dobrado no fundo da jangada,
+remendado num canto com um pedaço de lona azul. — O vento de setembro é bom.
+Teu pai sabia.
+
+Socorro ficou de pé na areia, segurando a bicicleta. Pensou em dizer que lá
+fora, na beira da zona, o fundo era areia, que não dava cioba, que ele ia
+voltar de mão vazia. Ele sabia disso melhor do que ela.
+
+— Leva água — disse.
+
+— Levo.
+
+Ela foi. Da curva da estrada, quando olhou para trás, o lampião da jangada
+ainda estava aceso, um ponto amarelo baixo no meio da areia escura, e na frente
+dele, no mar, as oitenta e quatro luzes vermelhas piscavam todas juntas.
+
+---
+
+Às três e cinquenta, o *Mar Aberto IV* fez a curva na turbina catorze,
 fileira B, rumo à vinte e dois. Era a rota de sempre da ronda das quatro.
 
 Socorro olhou para trás, para a catorze, e para a frente, para a vinte e dois.
@@ -181,14 +226,13 @@ ser das tartarugas, que ela contava.
 
 ---
 
-O *Atlântico Sul IV* terminou a ronda às cinco e meia, quando o céu começava a
+O *Mar Aberto IV* terminou a ronda às cinco e meia, quando o céu começava a
 clarear atrás da costa. Socorro estava de novo na popa, de capacete, com a
 prancheta.
 
 Da costa, longe, vinha uma jangada. Uma só, de vela branca, saindo da ponta do
 mangue, onde a arrebentação era ruim, rumo ao norte, por fora da zona de
-exclusão. Ela reconheceu a vela pelo remendo. Era a do Tico, que tinha a idade
-do pai dela e não tinha aceitado a carta.
+exclusão. Ela reconheceu a vela pelo remendo azul. Era a do Tico.
 
 Ela ficou olhando a vela até ela virar um ponto.
 

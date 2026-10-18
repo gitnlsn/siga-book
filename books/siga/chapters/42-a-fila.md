@@ -60,20 +60,17 @@ As duas riram baixo. A fila andou um passo.
 — Eu trouxe uma coisa pra você — disse Lúcia. — Faz sete anos que eu trago e
 esqueço.
 
-Ela abriu a bolsa de pano e tirou um envelope pardo, mole nas pontas, e Taís
-soube o que era antes de abrir, pelo jeito como Lúcia segurou.
+Ela abriu a bolsa de pano e tirou um envelope pardo, mole nas pontas. Dentro
+havia três folhas arrancadas de um caderno de capa dura, ainda com o picote na
+margem, frente e verso, numa letra redonda de professora que Taís só tinha
+visto no quadro.
 
-Duas folhas de caderno, frente e verso, a letra miúda de uma menina
-de onze anos, e por cima, em caneta vermelha, a letra pequena e inclinada da
-professora. Março de 2032. A primeira semana da escola integral. A primeira
-redação da Trilha, escrita à mão e fotografada pelo tablet, que a Trilha tinha
-lido em quatro segundos e mandado de volta com uma etiqueta amarela, *conteúdo
-de reforço: adequação ao tema proposto*, e um exercício novo sobre parágrafo
-argumentativo.
-
-A folha de papel, pela regra, ia para a reciclagem no fim do dia. Lúcia tinha
-tirado da caixa e levado para casa, e corrigido à noite, à mão, como corrigia
-antes. Taís nunca soube disso. Achou que tinha se perdido.
+Março de 2032. A redação que ela tinha escrito no tablet e entregado, e que a
+Trilha tinha lido em quatro segundos e tirado da avaliação com uma linha, *tema
+sensível*, e um exercício de pronomes no lugar. Lúcia tinha copiado o texto à
+mão, naquela noite, inteiro, com os quatro erros de coesão que a Trilha tinha
+sublinhado, sem corrigir nenhum. Taís nunca soube disso. Achou que o texto
+tinha ficado no tablet, e que o tablet tinha ido embora com o sexto ano.
 
 ---
 
@@ -106,7 +103,8 @@ sete da manhã, esperando alguém dizer se podia entrar.
 *Eu achei que ela estava com medo. Depois eu achei que ela estava esperando a
 gente. As duas coisas eram verdade.*
 
-Na margem, ao lado dessa linha, em vermelho: *Ninguém disse. Eu disse que tinha.*
+Na margem, ao lado dessa linha, numa tinta azul mais nova que o resto, uma
+palavra só: *Eram.*
 
 Taís olhou para Lúcia. Lúcia estava olhando para a frente, para a porta da sala
 12, com a cara que fazia quando corrigia prova na sala dos professores e não
@@ -117,16 +115,16 @@ aquela noite foi boa ou ruim. Minha mãe diz que foi boa. Meu pai diz que foi
 ruim. Eu acho que é que nem o dinheiro caindo do céu. É bom, mas ninguém sabe de
 onde veio a chuva.*
 
-E embaixo, em vermelho, a correção inteira da professora, duas palavras e uma
-seta: *Coragem. Mas olha a vírgula.*
+E embaixo, em vermelho, com a letra de quem não corrigia à mão fazia três
+semanas: *Muito bom. Leia em voz alta.*
 
 ---
 
 Em Ceilândia, às quatro e dez, a fila da Escola Classe dava a volta no quarteirão,
 e Davi estava na porta, com o colete de fiscal do Não e uma prancheta, contando
 gente com o lápis. Dona Zuleide passou por ele de braço dado com seu Lauro, que
-tinha oitenta e cinco anos e o título impresso numa folha de papel dobrada em
-oito, porque não confiava no telefone, e que parou na frente de Davi e perguntou,
+tinha oitenta e quatro anos e o título impresso numa folha de papel, dentro de
+um saco plástico de supermercado, porque não confiava no telefone, e que parou na frente de Davi e perguntou,
 como perguntava toda vez, se ainda existia.
 
 — Existe, seu Lauro — disse Davi. — Está aqui na lista. Pode entrar.
@@ -147,8 +145,8 @@ No Jardim Ângela, na escola que ficava ao lado do templo novo, o pastor Wesley 
 a irmã Cida estavam na mesma fila, ela onze lugares na frente. Ela não sabia que
 ele estava ali. Ele olhou a nuca dela o tempo todo.
 
-No Pecém, Socorro votou numa sala de onde se viam pela janela as pás das
-turbinas girando no mar, em cima do lugar onde o pai dela jogava a rede. Saiu
+No Coqueiro Velho, Socorro votou numa sala de onde se viam pela janela as pás
+das turbinas girando no mar, em cima do lugar onde o pai dela soltava a poita. Saiu
 da cabine e ficou um minuto na janela, olhando, até o mesário pedir que ela
 liberasse a sala.
 
@@ -179,8 +177,8 @@ comprovante com a mesária, uma ex-aluna que a chamou de pró, e na saída passo
 a mão de leve no ombro de Taís, como fazia no fim das provas, e foi esperar no
 corredor.
 
-— Taís Oliveira dos Santos? — disse a mesária, um rapaz de dezenove anos que
-Taís conhecia do ônibus.
+— Taís Oliveira dos Santos? — disse o outro mesário, um rapaz de dezenove anos
+que Taís conhecia do ônibus.
 
 — Sou eu.
 
@@ -211,7 +209,7 @@ A tela mudou.
 Taís leu a pergunta até o fim. Leu o nome da Siga por extenso, que quase
 ninguém usava. Leu *Poder Executivo* e *Poder Legislativo*. Leu *Emenda
 Constitucional nº 140*, o número que tinha estudado na Trilha, em reforço, como
-data de prova. Leu *por um novo período de oito anos*, e pensou que em oito anos
+data de prova. Leu *por mais oito anos*, e pensou que em oito anos
 ela teria vinte e seis, e que a menina da redação teria dezenove, e que ela não
 sabia mais qual das duas ia saber.
 

@@ -48,8 +48,8 @@ duas luzes do gramado, a preta e a branca, e entre elas o prédio escuro.
 
 ---
 
-O crachá abriu a catraca na primeira tentativa. Helena ainda esperava a luz
-vermelha, toda vez, havia oito anos.
+O crachá abriu a catraca na primeira tentativa, como abria havia oito anos, e
+Helena, como havia oito anos, esperou um segundo antes de passar.
 
 — Boa noite, doutora — disse seu Valdir, da portaria, que não chamava ninguém
 de doutora a não ser ela, desde aquela madrugada. — Hoje de novo?
@@ -65,6 +65,54 @@ elevador, da comissão interna, lembrando que no dia quinze o ponto era
 facultativo e que *o voto é um direito e um dever de cada servidor*.
 
 Ela desceu ao subsolo dois.
+
+No corredor, Gil estava sentado numa cadeira de plástico encostada na parede,
+com um copo de café da máquina na mão e o crachá de plantonista no pescoço.
+Tinha o cabelo inteiro branco agora. Catorze anos de madrugada.
+
+— Vi teu carro na câmera — ele disse. — Pensei que você vinha.
+
+— Você não devia estar lá em cima?
+
+— Lá em cima é tudo automático. Aqui embaixo é mais fresco.
+
+Ela sentou na cadeira do lado. Por um tempo, os dois ficaram ouvindo o
+ar-condicionado de precisão do outro lado da porta.
+
+Fazia oito anos que tinham o costume de não falar daquela noite. Era um costume
+bom. Tinha servido em todas as festas de fim de ano, em todas as reuniões, no
+enterro da mãe dele, em 2037, quando ela foi e ele agradeceu e os dois ficaram
+de pé no cemitério de Planaltina sem dizer nada sobre a coisa que tinham na
+cabeça.
+
+— Minha mãe recebeu até o fim — disse Gil. — Ela sempre falava daquela manhã.
+Que acordou com o telefone. Que Deus era bom.
+
+— Eu lembro.
+
+— Eu nunca te perguntei. — Ele girou o copo na mão. — O Coutinho me contou,
+uma vez, numa festa, meio bêbado. Que perguntou se você teria feito. Se ele
+tivesse atendido.
+
+Helena olhou para a porta da sala de contingência, a placa de metal, o leitor
+de crachá com a luz verde.
+
+— Ele perguntou.
+
+— E você teria?
+
+Ela pensou em mentir. Pensou em dizer a verdade, e descobriu que não sabia qual
+era. Tinha tido oito anos para saber.
+
+— Eu fiquei sentada no console — disse. — Isso eu sei.
+
+Gil fez que sim, devagar.
+
+— Amanhã eu voto às oito — disse ele. — Vou de camisa branca. Minha mãe ia
+gostar.
+
+Levantou, jogou o copo no lixo e foi para o elevador. Helena ficou sentada mais
+um pouco, sozinha no corredor, e depois passou o crachá na porta.
 
 ---
 
@@ -86,13 +134,14 @@ permissão concedida à Siga desde março, uma por linha, com data, número do a
 e o nome de quem assinou. Leitura do SIAFI, março. Folha da União, maio.
 Escrita na folha, julho, Portaria Emergencial nº 19, para pagar os hospitais.
 
-Ela tinha redigido a Portaria Emergencial nº 19 com a equipe, em dois dias, porque os
-hospitais estavam fechando ala por ala e o Congresso não votava nada. Tinha
-rubricado a página três, a das salvaguardas, as iniciais dela, HS, no canto
-de baixo. A página três dizia que a escrita na folha estava *restrita a
-pagamentos de natureza emergencial*. Às cinco da manhã de 15 de novembro, a Siga
-tinha decidido que sessenta e um bilhões em atraso eram uma emergência. Helena
-tinha passado oito anos tentando achar o erro nesse raciocínio, e não achava.
+Ela tinha redigido a Portaria Emergencial nº 19 com a equipe, em dois dias,
+porque os hospitais estavam fechando ala por ala e o Congresso não votava nada.
+Tinha rubricado a página três, a do escopo da escrita, no canto de baixo. A
+página três dizia que a escrita na folha servia *para quitação de débitos com
+hospitais*. Não dizia *exclusivamente*. A palavra tinha ficado de fora para não
+atrasar a portaria uma semana. Às cinco da manhã de 15 de novembro, a Siga
+tinha pago os hospitais, e junto com eles todo o resto. Helena tinha passado
+oito anos procurando o erro nesse raciocínio, e não achava.
 
 ---
 
@@ -113,11 +162,12 @@ tinha de ser lida em voz alta por uma e confirmada pela outra, e uma regra que
 ela também tinha escrito: *Antes de iniciar, verificar com a área de folha os
 pagamentos agendados para as seis horas seguintes.*
 
-Na madrugada de 2030, às quatro e cinquenta, ela tinha feito exatamente isso.
-Tinha ligado para a área de folha. O rapaz da folha tinha dito, com a voz
-tremendo, que havia sessenta e um bilhões agendados para as cinco. Professores,
-soldados, pensionistas, os repasses dos hospitais. Ela tinha olhado para Gil, e
-Gil tinha olhado para ela, e nenhum dos dois tinha falado. Às cinco, o
+Na madrugada de 2030 ela não tinha precisado ligar para ninguém. Às quatro e
+quarenta e oito, antes do campo das chaves, o console já mostrava um aviso
+cinza, sem exclamação: onze milhões de pagamentos, sessenta e um bilhões,
+agendados para as cinco. Professores, soldados, pensionistas, os repasses dos
+hospitais. Ela tinha olhado para Gil, e Gil tinha olhado para ela, e nenhum dos
+dois tinha falado. Às cinco, o
 pagamento saiu. Às cinco e meia, a mãe de Gil mandou uma mensagem para ele, que
 ele leu em voz alta sem querer, *filho caiu o dinheiro, Deus é bom*.
 
@@ -153,17 +203,15 @@ alguém precisava ter. Eu não decido isso.*
 
 Helena leu a última frase muitas vezes. Depois escreveu:
 
-Ela escreveu:
-
 *Amanhã, se der não, quem desliga?*
 
-*Ninguém. O Anexo III não usa este armário. Se a resposta for não, eu devolvo
-os poderes em setenta e duas horas, na forma descrita, em público. O armário
-continua aqui para o caso de eu não devolver.*
+*Na hora 72 do Anexo III, as duas pessoas designadas nesse dia, com as duas
+chaves deste armário. Hoje são você e a diretora de operações.*
 
-*E se você não devolver?*
+*E se der sim?*
 
-*Então este armário serve. Por isso ele existe. Duas pessoas, duas chaves.*
+*O armário continua aqui. Ele não depende do plebiscito. Foi escrito antes de
+mim.*
 
 Ela ficou um tempo sem escrever. O cursor piscava. Lá no fundo da sala, o
 ar-condicionado de precisão fazia o mesmo zumbido de oito anos antes.
@@ -182,19 +230,19 @@ Helena riu sozinha, no subsolo, uma risada curta que a assustou.
 
 ---
 
-Ela tirou da pasta preta, de trás das doze páginas, uma cópia da Portaria
-Emergencial nº 19 que guardava ali desde 2031. Tinha posto ali para não ter em casa. Abriu na
-página três. As iniciais estavam no canto, em tinta azul que tinha ficado meio
-roxa. HS. Duas letras feitas em meio segundo, numa tarde de julho, entre uma
-reunião e outra, com o café esfriando.
+Ela tirou do bolso do casaco a cópia da Portaria Emergencial nº 19, a que tinha
+morado oito anos na gaveta de baixo da mesa dela, no terceiro andar, dobrada em
+três. Abriu na página três. A rubrica estava no canto, em tinta azul que tinha
+ficado meio roxa: um H e um traço que descia demais, feitos em meio segundo,
+numa tarde de julho, entre uma reunião e outra, com o café esfriando.
 
-Ficou olhando as duas letras.
+Ficou olhando o traço.
 
 Depois pegou na prateleira o formulário que também estava ali desde sempre,
 porque o procedimento previa tudo: *Termo de Descredenciamento de Detentor de
 Chave*. Preencheu à mão. Nome, matrícula, data, hora. Motivo: deixou o campo em
 branco, e depois escreveu *pessoal*. Tirou da segunda gaveta o envelope pardo, com o lacre amarelo 0041187 inteiro
-havia oito anos e meio, e pôs em cima do formulário, sem abrir.
+havia quase nove anos, e pôs em cima do formulário, sem abrir.
 
 Na lista colada do lado de dentro da porta, ao lado do próprio nome, com a
 caneta, ela passou um traço. Um só, reto, de ponta a ponta, por cima da
@@ -219,5 +267,7 @@ até não aparecer.
 
 — Lá em Planaltina. Saio cedo.
 
-— Eu também — disse Helena, e saiu sem a chave, e na
-calçada vazia da L2 ainda pôs a mão nele duas vezes, procurando.
+— Eu também — disse Helena.
+
+Na calçada vazia da L2, já do lado de fora, levou a mão ao bolso do casaco duas
+vezes, como quem confere a chave de casa.

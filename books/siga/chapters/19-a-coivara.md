@@ -25,10 +25,10 @@ sem levantar a cabeça do prato de açaí com farinha:
 — Caiu, vó.
 
 Novecentos e vinte reais. *Pagamento por Serviço Ambiental — Modalidade
-Família Ribeirinha.* Josué tinha feito o cadastro em dezembro de 2030, três
-semanas depois de a notícia chegar de barco, com o celular dele, em cima do
-trapiche, porque era o único lugar do Furo Grande onde o sinal da antena da
-escola alcançava. Tinha tirado foto da casa, do quintal, do açaizal, do
+Família Ribeirinha.* Josué tinha feito o cadastro em novembro de 2030, na tarde
+em que a notícia chegou de barco, com o celular dele, de cima da castanheira
+velha, porque era o único lugar do roçado onde o sinal da antena da escola
+alcançava. Tinha tirado foto da casa, do quintal, do açaizal, do
 igarapé, da roça. Tinha marcado com o dedo, num mapa de satélite que ela nunca
 tinha visto, o contorno da terra da família, que era a terra que a mãe dela
 tinha deixado e a mãe da mãe antes. Raimunda tinha ficado olhando por cima do
@@ -107,9 +107,9 @@ A roça da família era como a de todo mundo no Furo: um pedaço de capoeira
 alta, mato que tinha crescido de novo em cima de uma roça antiga, que a gente
 derrubava em julho, deixava secar em agosto, queimava, e plantava de mandioca
 quando vinha a primeira chuva. Dava farinha para o ano e um pouco para vender.
-Depois de três colheitas, a terra cansava, e a roça ia para outro pedaço de
-capoeira, e o pedaço velho virava mato de novo, e em quinze anos era capoeira
-alta outra vez. A mãe dela fazia assim. A avó fazia assim. Era a coivara, e
+Depois de duas colheitas a terra cansava, e a roça ia para outro pedaço de
+capoeira, e o pedaço velho virava mato de novo, e em oito ou dez anos era
+capoeira alta outra vez. A mãe dela fazia assim. A avó fazia assim. Era a coivara, e
 ninguém no Furo achava que coivara era derrubar floresta, porque floresta era
 outra coisa: era a mata grossa do outro lado do igarapé, onde ninguém mexia.
 
@@ -143,7 +143,7 @@ A voz dele não era a voz de dizer que o dinheiro tinha caído.
 
 Ela se virou. Ele estava com a tela virada para ela, e na tela estava o mapa do
 céu, o verde todo, o rio como uma cobra marrom, o contorno da terra da família
-que ele tinha marcado com o dedo em dezembro de 2030. E dentro do contorno,
+que ele tinha marcado com o dedo em novembro de 2030. E dentro do contorno,
 onde era a roça, um quadradinho vermelho que piscava.
 
 Embaixo do mapa, uma mensagem.
@@ -198,8 +198,8 @@ quando lia alguma coisa difícil na escola, a testa franzida, a boca aberta.
 
 — Ninguém mandou, vó. É automático. Tá escrito aqui. Sanção imediata. É do
 Programa. — Ele virou a tela de novo para ela, sem perceber que ela não ia ler.
-— Olha. Desmatamento zero, monitoramento por satélite com aplicação imediata de
-sanção. Tá no Programa. É a mesma coisa do dinheiro. É a mesma lei.
+— Olha. Desmatamento ilegal zero. Monitoramento por satélite com sanção
+automática e imediata. Tá no Programa. É a mesma coisa do dinheiro. É a mesma lei.
 
 Raimunda não olhou a tela. Olhou o neto. Tinha vinte anos e o rosto da mãe dele,
 que tinha ido embora para Belém quando ele era pequeno, e estava lendo a lei que

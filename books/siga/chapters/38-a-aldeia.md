@@ -36,6 +36,49 @@ assembleia era às nove.
 
 ---
 
+Antes da casa grande, Tainá a esperava na porta da casa dela, com o aparelho de
+pressão do posto na mão.
+
+— Senta, vó.
+
+Iracema não era avó de Tainá, mas na aldeia todo mundo de mais de sessenta era
+vó de alguém. Sentou no banco de madeira. Tainá prendeu a braçadeira no braço
+dela com o cuidado de quem tinha aprendido aquilo em Santarém, numa sala com
+ar-condicionado, e apertou o botão. A braçadeira encheu, apertou, soltou.
+
+— Dezesseis por dez — disse Tainá. — Tá alta.
+
+— É a assembleia.
+
+— É o sal. — Tainá olhou o telefone, onde o número tinha aparecido sozinho
+assim que a braçadeira soltou. — E a senhora não foi na consulta de março.
+
+— Como tu sabe?
+
+— Tá aqui. — Tainá virou a tela. Havia uma linha do tempo com o nome de
+Iracema em cima, as pressões dos últimos dois anos em pontinhos azuis, as
+consultas pela tela do posto, as que ela tinha feito e uma, em março, com um
+círculo vazio. — Ela mandou três mensagens pro posto. Depois marcou de novo.
+
+— Em março eu estava no castanhal.
+
+— Eu sei, vó. Ela não briga. Só marca.
+
+Iracema olhou o círculo vazio no telefone da moça, no meio dos pontinhos azuis,
+como se olha uma pegada de bicho na lama, fresca, perto de casa.
+
+— Marca onde?
+
+Tainá não entendeu. Soltou a braçadeira, enrolou o fio, e disse que ia trazer
+o remédio novo da pressão no barco da Saúde, e que a vó tinha de tomar de
+manhã, com água, todo dia, e que se não tomasse ela ia saber.
+
+— Tu ou ela? — disse Iracema.
+
+Tainá riu, e não respondeu, porque estava rindo.
+
+---
+
 O tablet chegou às oito e meia, no barco da Saúde, embrulhado num saco de pano
 para não molhar. Era o mesmo que tinha vindo em 2032, quando ela escreveu pela
 primeira vez no Fale com o Governo, com a ajuda do neto, uma frase só, em
@@ -141,7 +184,7 @@ um homem da cidade com um papel da Siga dizendo que o lago sagrado tinha que ter
 um nome no cadastro. Ele diz que deram um nome. Ele diz que agora o lago tem
 dois nomes, e um deles é número.
 
-Ninguém riu. Seu Bento falou mais um pouco.
+A casa grande ficou quieta. Seu Bento falou mais um pouco.
 
 — Ele diz que vai votar não. Ele diz que quer morrer sem estar no cadastro.
 
@@ -175,8 +218,7 @@ Mas se um dia ela disser uma coisa sobre nós que não é boa, ela vai cumprir
 também. No dia que disser. E não vai ter barraca na frente de ninguém, porque
 não tem ninguém.
 
-Seu Bento disse uma palavra na língua, uma só. A neta não traduziu, e não
-precisava.
+Seu Bento disse uma palavra na língua, uma só. A neta não traduziu.
 
 ---
 
@@ -193,5 +235,5 @@ em volta, e dentro da linha, em letra pequena, as coordenadas do lago, o nome
 de antes e o número.
 
 Ela olhou muito tempo. Depois embrulhou o tablet no saco de pano, com cuidado,
-para não molhar, e desceu até a beira, onde o rio continuava verde, e a balsa
-velha encalhada na praia de baixo continuava com a árvore no meio, crescendo.
+para não molhar, e desceu até a beira, onde o rio corria verde, e a balsa
+velha, encalhada na praia de baixo, tinha a árvore no meio do convés, crescendo.

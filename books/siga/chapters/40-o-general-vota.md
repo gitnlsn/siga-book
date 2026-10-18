@@ -31,8 +31,9 @@ Na cozinha, Lourdes já tinha posto o café.
 — Eu sei. Parece que vai para formatura.
 
 Ele sentou na cabeceira, abriu o caderno de capa preta ao lado da xícara e
-destampou a caneta. Desde cadete escrevia, toda manhã, a ordem do dia. Não a do
-quartel, a dele. Três, quatro linhas. Na reforma, as linhas tinham ficado
+destampou a caneta. Desde Santa Maria, em 1991, escrevia a ordem do dia à mão
+antes de mandar datilografar. Na reforma, sem tropa, tinha continuado: toda
+manhã, a dele. Três, quatro linhas. Na reforma, as linhas tinham ficado
 pequenas: *Fisioterapia, 10h. Ligar para o Marcos. Trocar a resistência do
 chuveiro.* Hoje ele escreveu uma só, com a letra de sempre, inclinada:
 
@@ -49,8 +50,8 @@ Goiânia. Mandou um beijo.
 
 — Só perguntei.
 
-Lourdes sentou. O filho tinha perdido a consultoria em 2031, quando as onze
-páginas viraram processo administrativo e o processo virou um acordo de
+Lourdes sentou. O filho tinha perdido a consultoria em 2031, quando as páginas
+dele no anexo viraram processo administrativo e o processo virou um acordo de
 devolução. Tinha devolvido o dinheiro em quarenta parcelas. A última tinha
 caído em dezembro. Em oito anos, Marcos nunca tinha dito ao pai, nem uma vez,
 que aquelas páginas eram culpa dele, e era isso, mais do que qualquer
@@ -69,15 +70,16 @@ depois. Hoje é a minha vez de não contar.
 
 ---
 
-Em 15 de novembro de 2030, às cinco e quarenta da manhã, ele tinha recebido no
-telefone funcional uma nota informativa da Siga. Onze páginas. Os contratos de
-blindados assinados pelo Comando Logístico quando ele era o chefe, com o preço
-de cada um comparado ao preço do mesmo veículo vendido a outro exército do continente. Uma consultoria
-do filho, Marcos, contratada por uma empresa que vendia ao Exército. Uma viagem.
-Um imóvel. Nenhuma das onze páginas dizia que ele tinha cometido crime. Todas
-diziam exatamente o que tinha acontecido, com data. Nenhuma era mentira.
+Em 15 de novembro de 2030, às cinco e meia da manhã, ele tinha recebido no
+correio funcional o Anexo Reservado do Comando do Exército. Cento e quarenta
+páginas. Na décima sétima, o contrato de blindados de 2026, assinado quando ele
+chefiava o Departamento de Logística, onze por cento acima da média. Mais
+adiante, uma consultoria do filho, Marcos, contratada por uma empresa que
+vendia ao Exército. Uma viagem. Um imóvel. Nenhuma das páginas dizia que ele
+tinha cometido crime. Todas diziam exatamente o que tinha acontecido, com data.
+Nenhuma era mentira.
 
-Às cinco e quarenta e um tinham começado a chegar as outras mensagens. Dos
+Depois tinham começado a chegar as outras mensagens. Dos
 comandos militares de área, dos batalhões, dos grupamentos de fronteira. O
 soldo atrasado da tropa, três meses, tinha caído às cinco em ponto. Em
 Tabatinga, em Santa Maria, em Corumbá, nos quartéis de São Paulo e do Rio, a
@@ -86,30 +88,32 @@ tinha mandado um vídeo de quarenta segundos: soldados de bermuda e coturno,
 cantando o hino da Infantaria às cinco e meia da manhã, com o telefone na mão.
 
 Às seis, na sala de reuniões do Quartel-General, no Setor Militar Urbano,
-estavam ele, o almirante Vasco e o brigadeiro Souto. Cada um com o seu
-telefone virado para baixo na mesa.
+estavam ele, o almirante Vasco, o brigadeiro Souto e o chefe do Estado-Maior.
+Cada um com o seu telefone virado para baixo na mesa.
 
-Vasco queria uma nota conjunta dos três comandos repudiando a quebra da
-ordem constitucional. Souto disse que podia assinar a nota, mas que a Força
-Aérea não tinha querosene pago para tirar um avião do chão havia dois meses, e
-que às cinco da manhã o querosene tinha sido pago. Vasco disse que aquilo era
-compra. Souto disse que era o que se devia. Os dois olharam para Teles, porque
-o Exército era o Exército, e a resposta seria dele.
+Souto, de agasalho de corrida, queria ocupar o Serpro: um prédio, uma porta, um
+gerador. Vasco, de farda completa, perguntou com que ordem e assinada por quem,
+e disse aquela frase sobre o inimigo que entrega o mapa do próprio quartel, que
+depois correu oito anos pelos grupos de oficiais da reserva. Os dois olharam
+para Teles, porque o Exército era o Exército, e a resposta seria dele.
 
-Ele ficou um minuto inteiro em silêncio. Pensou na tropa no pátio. Pensou em
+Ele foi para o gabinete ao lado sem dizer nada. Pensou na tropa no pátio. Pensou em
 mandar alguém, um capitão de vinte e oito anos, cercar um prédio do Serpro em
 Brasília para desligar o que tinha acabado de pagar o soldo do capitão. Pensou
-nas onze páginas. Pensou, e disso ele só soube depois que tinha pensado, em
+na página dezessete. Pensou, e disso ele só soube depois que tinha pensado, em
 1889, no marechal que também tinha saído de casa doente numa madrugada de 15 de
 novembro sem saber direito o que ia proclamar.
 
+Escreveu a palavra a lápis, na folha pautada, e voltou à sala com ela na mão.
+
 — Aguardar — ele disse.
 
-Às seis e dezenove saiu o radiograma para todos os comandos militares de área,
-com a assinatura dele: *Tropa aquartelada. Manter normalidade. Aguardar
-ordens.*
+Às sete saiu a ordem do dia, datilografada, para todas as unidades do país, com
+a assinatura dele. A primeira palavra era aquela. Depois vinha o procedimento:
+*Manter a tropa aquartelada. Suspender licenças. Nenhuma unidade se desloca sem
+ordem escrita deste Comando.*
 
-As ordens nunca vieram. Ele pediu a reforma em março de 2031, um mês depois do
+Nenhuma unidade se deslocou. Ele pediu a reforma em março de 2031, um mês depois do
 plebiscito, e ninguém pediu que ficasse.
 
 ---
@@ -208,7 +212,7 @@ ao lado da costura da calça, o queixo levantado, o olhar num ponto fixo da
 parede acima da cabeça dela. Posição de sentido. A senhora do cachorro, atrás,
 na porta, olhava para ele.
 
-Ele lembrou do radiograma das seis e dezenove. A palavra no fim. Durante oito
+Ele lembrou da ordem do dia das sete. A palavra no começo. Durante oito
 anos tinha repetido para si mesmo, e para os poucos que perguntavam, que naquela
 manhã não tinha dado ordem nenhuma. Que tinha esperado. Que esperar não é
 mandar. E agora, parado em sentido na frente de uma moça de óculos porque ela
@@ -224,8 +228,8 @@ Ele desfez a posição. Foi.
 
 Votou depressa, como fazia tudo o que já estava decidido. Ninguém viu em
 quê. A moça de óculos entregou o comprovante e disse *obrigada, senhor*, e ele
-disse *obrigado a você*, e saiu para o sol do Lago Sul às oito e dezenove,
-a mesma hora, ele reparou, sem querer, em que tinha saído o radiograma.
+disse *obrigado a você*, e saiu para o sol do Lago Sul às oito e trinta e um, os mesmos minutos, ele
+reparou sem querer, em que tinha dito a palavra na sala ao lado do gabinete.
 
 O rapaz do Desliga estava na calçada, mexendo no telefone. Levantou a mão para
 ele, de longe. Teles respondeu do mesmo jeito.

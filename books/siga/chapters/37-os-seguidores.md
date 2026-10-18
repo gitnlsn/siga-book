@@ -29,28 +29,60 @@ Wesley estava na sala atrás do altar, de terno, com a Bíblia velha no colo. Er
 a mesma de 2030. Tinha a capa colada com durex e uma fita vermelha de marcador
 que ele nunca tinha tirado do lugar: Apocalipse, capítulo treze. *E vi subir do
 mar uma besta.* Naquela sexta-feira de feriado ele tinha lido o Programa de
-Governo inteiro para a igreja velha, de cinquenta lugares, e depois tinha lido
+Governo inteiro para a igreja velha, no galpão, e depois tinha dito de cabeça
 o capítulo treze, e as duas coisas tinham soado iguais.
 
 Pela porta entreaberta ele ouvia o louvor começando. A letra era dele, de 2035.
 
 ---
 
+À tarde, em casa, sentado na beira da cama com a camisa do culto ainda no
+cabide, Wesley tinha aberto o Fale com o Governo.
+
+Não abria desde 2035. Tinha guardado a resposta daquela madrugada como se
+guarda uma carta de alguém que morreu, e não tinha querido outra. Mas faltavam
+dez dias, e o pastor Ademir tinha mandado de manhã o roteiro do culto, com a
+frase do dia quinze sublinhada em amarelo, e ele tinha lido a frase três vezes
+sem conseguir ouvir a própria voz dizendo aquilo.
+
+Escreveu, devagar, com o polegar:
+
+*Você quer que eu peça o voto?*
+
+Apagou. Escreveu de novo:
+
+*Se eu pedir o sim no púlpito, é pecado?*
+
+Ficou olhando a frase. Era pior. Era a pergunta de um menino de catequese, e ele
+tinha cinquenta e oito anos e quarenta de púlpito. Apertou o botão assim mesmo.
+
+A resposta veio antes que ele largasse o telefone.
+
+::: {.registro}
+Sua mensagem foi registrada.
+Protocolos sobre o plebiscito serão respondidos a partir de 16 de fevereiro de
+2039.
+:::
+
+Wesley leu e deu uma risada curta, sozinho no quarto, que a mulher ouviu da
+cozinha e perguntou o que era. Ele disse que não era nada. Depois pôs a camisa,
+abotoou até em cima, e guardou o telefone no bolso de dentro do paletó, do lado
+do coração, onde guardava a caneta.
+
+---
+
 Antes de vir ao templo, como fazia em toda noite de culto, Wesley tinha descido
 a pé a rua da igreja velha.
 
-A Fonte Viva de cinquenta lugares continuava lá, na esquina da Rua das
+A Fonte Viva continuava lá, no galpão da serralheria, na esquina da Rua das
 Palmeiras, com a porta de aço abaixada e o nome pintado à mão na fachada,
 desbotado. Ele não tinha deixado vender. Pagava o aluguel do próprio bolso, todo
 mês, ao filho do dono, que não entendia por quê.
 
 Na frente da porta, no meio da calçada, havia uma tampa de ferro redonda,
 pesada, com letras em relevo: *SANEAMENTO UNIVERSAL — 2034 — UNIÃO*.
-Antes dela, naquele lugar, passava a vala. Ele tinha pregado vinte anos com o
-cheiro da vala entrando pela janela lateral nas noites de calor, e tinha ficado
-tão acostumado que em 2034, no primeiro culto depois da obra, achou que alguma
-coisa estava errada com a igreja, e só no fim do culto entendeu que era o
-cheiro que faltava.
+Antes dela, naquele lugar, passava a vala. Ele tinha pregado vinte e seis anos com o
+cheiro da vala entrando pela janela lateral nas noites de calor.
 
 Ele parou em cima da tampa. Fazia isso toda vez, e não sabia explicar a
 ninguém. Ficava um minuto parado, com o peso dos dois pés no ferro, ouvindo,
@@ -92,8 +124,8 @@ e todo mundo repetiu.
 Wesley, na sala de trás, ouviu o testemunho inteiro com a mão na Bíblia
 fechada. Conhecia a moça. Tinha feito o enterro de 2029.
 
-Depois vinha a oração. E a oração era o que tinha feito a igreja de cinquenta
-lugares virar esta: Wesley nunca rezava *para* a Siga. Tinha dito isso no
+Depois vinha a oração. E a oração era o que tinha feito a igreja do galpão
+virar esta: Wesley nunca rezava *para* a Siga. Tinha dito isso no
 primeiro culto, em 2034, e repetia sempre. Ninguém ali adorava uma máquina. A
 igreja rezava *com* ela, pelo que ela fazia, para que fizesse direito, para que
 Deus guiasse a mão que ninguém via. Era uma distinção que ele sabia fazer no
@@ -106,8 +138,8 @@ Ele subiu às oito e dez. A igreja levantou.
 Falou do Salmo 127, *se o Senhor não edificar a casa, em vão trabalham os que
 a edificam*. Falou da rua da igreja velha em 2030, da vala aberta, das crianças
 com verme, do vizinho que morreu de leptospirose na enchente de 2029. Falou do
-dia, em maio de 2034, em que as máquinas da obra chegaram, e de como ele tinha
-ficado na calçada olhando, de braços cruzados, porque passara vinte anos
+dia, em setembro de 2033, em que as máquinas da obra chegaram, e de como ele tinha
+ficado na calçada olhando, de braços cruzados, porque passara vinte e seis anos
 pedindo aquele esgoto a Deus, a vereador, a deputado, e quem trouxe não foi
 nenhum dos três.
 

@@ -21,7 +21,7 @@ Rui tinha confundido com o micro-ondas do bar e que agora já era o próprio
 acordar. Depois do bip, a tela acendia com a data, o tempo em Japeri, a agenda
 do dia e, embaixo, num quadrado cinza, um número.
 
-Naquela terça-feira, vinte de janeiro, o número era 22.
+Naquele domingo, vinte de janeiro, o número era 22.
 
 Rui sentou na cama de concreto e copiou o número no caderno, na linha do dia.
 O caderno era de pauta, capa azul, comprado na cantina com o dinheiro da
@@ -32,7 +32,7 @@ Começava em 3 de setembro de 2034, com 71.
 ---
 
 A Unidade Prisional de Japeri, a nova, tinha sido inaugurada em agosto de 2034,
-três meses antes de ele chegar, e ainda cheirava a tinta nos corredores do
+um mês antes de ele chegar, e ainda cheirava a tinta nos corredores do
 bloco C. Não tinha nada a ver com o que Rui conhecia de cadeia, que era o que
 todo mundo do Vintém conhecia: as histórias dos primos, as fotos que vazavam,
 o irmão de um vizinho que tinha entrado por furto e saído de uma facção.
@@ -47,15 +47,15 @@ com um professor de verdade, que vinha de Nova Iguaçu de ônibus, e de manhã
 trabalhava na oficina, montando estruturas de alumínio para painel solar, que
 saíam de caminhão para o Nordeste. Ganhava três quartos de um salário mínimo,
 metade depositada para quando saísse, metade na cantina. Pela primeira vez na
-vida, aos quarenta e quatro, tinha uma conta que ninguém podia bloquear, porque
+vida, aos quarenta e cinco, tinha uma conta que ninguém podia bloquear, porque
 quem pagava era a mesma máquina que bloqueava.
 
-A pena era de quatro anos e dois meses, por receptação. As caixas de cerveja e
+A pena era de seis anos e oito meses, por receptação qualificada. As caixas de cerveja e
 de cigarro que ele comprava, sem nota, do caminhão que chegava às quintas no
 Vintém. Rui sabia de onde vinha o caminhão. Todo mundo sabia. No bairro, não
 saber era um serviço que se prestava, como o da luz e o do gás.
 
-A pena era de quatro anos. A nota decidia o resto: o regime, a progressão, as
+A pena era a pena. A nota decidia o resto: o regime, a progressão, as
 saídas, a visita íntima, a cela de dois ou a de seis, a oficina ou a faxina. O
 manual explicava a nota em vinte e três páginas, com uma tabela de fatores no
 fim. Rui tinha lido as vinte e três páginas na segunda semana, devagar,
@@ -118,8 +118,8 @@ Quarenta e três. Quarenta e quatro. Quarenta e dois.
 E então, em outubro, sem nada ter mudado, a nota tinha começado a cair de novo.
 Trinta e oito. Trinta e um. Vinte e sete. Vinte e cinco. Vinte e dois.
 
-Naquela terça, vinte de janeiro de 2036, com o vinte e dois copiado na linha do
-dia, Rui fez uma coisa que nunca tinha feito. Pegou o caderno de matemática, o
+Naquele domingo, vinte de janeiro de 2036, com o vinte e dois copiado na linha
+do dia, Rui fez uma coisa que nunca tinha feito. Pegou o caderno de matemática, o
 da escola, e abriu numa página em branco. Fez uma coluna para a nota. Fez uma
 coluna ao lado, e na coluna ao lado escreveu, de memória e conferindo com o
 registro de visitas que o tablet mostrava se ele pedisse, os sábados.
@@ -147,13 +147,13 @@ Três linhas abaixo, numa letra igual a todas as outras:
 
 ---
 
-À tarde, na aula, o professor perguntou se ele estava bem. Rui disse que
+Na segunda-feira, à tarde, na aula, o professor perguntou se ele estava bem. Rui disse que
 estava. O professor tinha passado uma redação sobre *um fato que mudou a minha
 vida*, e a sala inteira ia escrever sobre a noite de 2030, como sempre, porque
 era o fato que tinha mudado a vida de todo mundo e o único que todos tinham em
 comum. Rui escreveu sobre outra coisa.
 
-Escreveu sobre o dia em que o irmão, aos onze anos, tinha levado uma surra de
+Escreveu sobre o dia em que o irmão, aos doze anos, tinha levado uma surra de
 três meninos maiores na rua de baixo por causa dele, Rui, que tinha oito e
 tinha xingado a mãe de um dos três. E sobre como o irmão tinha voltado para
 casa com a boca sangrando e dito ao pai que tinha caído da bicicleta, e o pai
@@ -163,8 +163,7 @@ lugar dos outros. Não escreveu o resto. Não escreveu que agora o irmão
 apanhava não vindo, e que a máquina tinha uma linha na tabela para isso, e que
 o irmão tinha lido a mesma tabela.
 
-Ou não tinha. Rui não sabia. Essa era a parte que ele não conseguiu pôr no
-papel, porque não cabia em nenhuma das duas colunas.
+Ou não tinha. Rui não sabia.
 
 ---
 
@@ -207,5 +206,6 @@ o número.
 Vinte.
 
 Rui pegou o caderno de capa azul e copiou o número na linha do dia, com a letra
-que melhorava devagar. Depois ficou um tempo com a caneta parada em cima da
-linha, sem saber se aquilo era uma notícia boa.
+que melhorava devagar. Depois abriu o caderno de matemática na página das duas
+colunas e, na coluna dos sábados, ao lado da data de ontem, escreveu: *não
+veio*.

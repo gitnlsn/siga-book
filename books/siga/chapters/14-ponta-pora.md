@@ -21,7 +21,7 @@ numa AM de Dourados que, desde as cinco da tarde, só fazia uma coisa: ler
 números.
 
 Celina Baraúna estava no banco de trás desde as duas e meia. Trezentos e
-tantos quilômetros de BR-060 e depois de BR-463, retas de soja dos dois lados,
+tantos quilômetros de BR-163 e depois de BR-463, retas de soja dos dois lados,
 um silo de vez em quando, uma igreja, um posto. Tinha pedido ao motorista que
 não pegasse a estrada de Maracaju, sem explicar por quê, e ele não tinha
 perguntado. Chamava-se Gercino, tinha um terço pendurado no retrovisor e uma
@@ -91,11 +91,74 @@ dela tinha pedido prorrogação, e a prorrogação tinha sido concedida em
 quatro minutos, com o mesmo prazo de novo, e uma linha: *Prorrogações podem
 ser pedidas sem limite. O processo continua.*
 
-Foi essa linha que a fez comprar o táxi.
+Foi essa linha que a fez chamar o táxi.
 
 Não o prazo. Ela sabia viver de prazo; a política era prazo. Foi a palavra
 *continua*. Uma coisa que não tinha pressa nenhuma, e que portanto não ia se
 cansar.
+
+---
+
+Em Rio Brilhante, Gercino parou para abastecer.
+
+Celina desceu para ir ao banheiro e ficou na loja de conveniência mais tempo
+do que precisava, entre a geladeira de água e a prateleira de biscoito,
+porque o banheiro tinha espelho. Na parede, atrás do caixa, uma televisão
+mostrava o mapa do Brasil se pintando de verde e vermelho, estado por estado,
+com a apuração. O Piauí estava muito verde. O Distrito Federal, vermelho.
+
+Pegou uma garrafa de água e foi ao caixa. A moça passou o código e virou a
+maquininha para ela. Celina abriu a carteira e tirou uma nota de vinte.
+
+A moça olhou a nota como quem olha uma moeda de outro país.
+
+— Não tenho troco, senhora. Ninguém paga em dinheiro mais.
+
+— Fica com o troco.
+
+— Não posso. Dá diferença no caixa, e a diferença aparece. — Ela apontou com o
+queixo para a maquininha, como se a maquininha fosse a gerente. — Se a senhora
+tiver Pix...
+
+Celina tinha Pix. Tinha, no telefone, a conta do banco de Brasília, com o
+nome inteiro e o CPF, a mesma conta onde tinham caído os salários
+da Câmara, mês a mês, agora publicados para quem quisesse ver. Pagar quatro
+reais naquela maquininha era deixar escrito que Celina Baraúna tinha passado
+por Rio Brilhante às cinco e quarenta e um da tarde, num posto da BR-163, a
+caminho da fronteira.
+
+Ela guardou a nota e devolveu a água à geladeira.
+
+No carro, o telefone tocou. Era a filha.
+
+— Mãe, onde a senhora está? Eu liguei no hotel.
+
+— Viajando. A trabalho.
+
+— Hoje?
+
+— Hoje.
+
+A filha não perguntou mais. Celina ouviu a neta mais velha, que tinha oito
+anos, pedir o telefone, e a filha dizer que não, e a neta pegar assim mesmo.
+
+— Vó. Na escola a gente fez a atividade da cidade. Cada um procurava a sua
+cidade no aplicativo e via o que tinha. Eu procurei Bela Vista, porque o tio
+Dinho mora lá.
+
+— E o que tinha?
+
+— Uma ponte. Mas na foto não tem ponte. A professora disse que é porque a
+foto é do satélite. — A neta pensou. — A ponte é de mentira, vó?
+
+Gercino, no banco da frente, abaixou o rádio sem que ninguém pedisse.
+
+— É de verdade, meu amor — disse Celina. — Só não foi feita.
+
+— Ah — disse a neta, satisfeita, e devolveu o telefone para a mãe.
+
+Gercino aumentou o rádio de novo. Mato Grosso do Sul, oitenta e um por cento
+das seções apuradas.
 
 ---
 
@@ -180,9 +243,8 @@ Para agendar, toque aqui.
 Celina leu de pé, na frente da casa de câmbio, com as luzes de neon trocando
 as cotações do dólar, do real e do guarani em cima da cabeça dela.
 
-Não havia ameaça. Ela procurou. Leu de novo procurando, com o olho de trinta
-anos de nota oficial, a frase em que estava o recado, a ameaça embrulhada, o
-*sob pena de*. Não havia. Havia o horário exato em que ela tinha pisado no
+Leu de novo, com o olho de trinta anos de nota oficial, procurando o recado
+embrulhado, o *sob pena de*. Não havia. Havia o horário exato em que ela tinha pisado no
 gramado, e um botão azul.
 
 Atrás dela, do lado brasileiro, alguém soltou um rojão, e depois outro, e

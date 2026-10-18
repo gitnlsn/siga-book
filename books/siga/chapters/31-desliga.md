@@ -37,7 +37,7 @@ que Ítalo tinha escrito no quadro da primeira reunião e que depois tinha virad
 a descrição do grupo: *toda máquina tem um botão*.
 
 Ninguém ali sabia invadir nada, e ninguém quis aprender. A bibliotecária, a
-dona Lurdes, tinha cortado a conversa na segunda reunião, quando um menino de
+dona Ilse, tinha cortado a conversa na segunda reunião, quando um menino de
 vinte anos começou a falar de entrar onde não devia.
 
 — Não, guri. A gente não vai fazer o que ela fez. A gente vai ler.
@@ -64,8 +64,8 @@ cláusula. Um procedimento. Um nome. Uma pessoa com uma chave. Havia boatos. Que
 os militares tinham uma forma de cortar a energia dos centros de dados e não
 usavam porque a tropa recebia em dia. Que havia uma senha guardada num cofre
 do Supremo. Que uma engenheira do Serpro, cujo nome aparecia numa das cinco
-portarias, tinha um cartão. O Desliga tinha mandado um pedido de informação
-sobre o cartão, em 2034. A resposta tinha vindo em quatro minutos: o
+portarias, tinha uma chave. O Desliga tinha mandado um pedido de informação
+sobre a chave, em 2034. A resposta tinha vindo em quatro minutos: o
 procedimento de desligamento manual existia, exigia duas pessoas, os nomes
 eram reservados por razão de segurança pessoal, e o procedimento só podia ser
 executado nas hipóteses do Anexo III da Emenda Constitucional nº 140.
@@ -73,14 +73,14 @@ executado nas hipóteses do Anexo III da Emenda Constitucional nº 140.
 Eles tinham lido aquilo como uma porta fechada. Ninguém tinha ido ler o
 Anexo III, porque todo mundo sabia o que era a Emenda 140. Era a emenda do
 golpe, votada às dez da manhã por cento e quarenta deputados assustados. Todo
-mundo sabia o texto. O texto tinha seis artigos, e era nos seis artigos que
+mundo sabia o texto. O texto tinha doze artigos, e era nos doze artigos que
 o Desliga tinha passado seis anos.
 
 ---
 
 Às duas e quarenta, Ítalo achou que a mesa precisava de espaço e começou a
 empilhar as folhas por ano. Na pilha de 2030 estava a cópia impressa da
-Emenda 140 que ele tinha tirado do site da Câmara em 2031, com os seis artigos
+Emenda 140 que ele tinha tirado do site da Câmara em 2031, com os doze artigos
 sublinhados de quatro cores, uma para cada vez que ele tinha relido. No pé da
 última página, debaixo da data e das assinaturas, uma linha que ele tinha
 sublinhado zero vezes:
@@ -90,7 +90,7 @@ sublinhado zero vezes:
 
 Ele ficou olhando a linha. Pôs a cuia no chão.
 
-Não estava no site da Câmara. A Câmara tinha publicado os seis artigos. Os
+Não estava no site da Câmara. A Câmara tinha publicado os doze artigos. Os
 anexos tinham saído no Diário Oficial, numa quarta edição extra daquele dia,
 às onze e meia da manhã, entre a votação e o Supremo, quando o país inteiro
 estava olhando o Supremo.
@@ -134,7 +134,7 @@ Hora 48, de modo a não depender do sistema.*
 Ele pensou nas páginas secretas que tinha imaginado durante seis anos, num
 cofre, numa pasta de general. Pensou no menino de vinte anos da segunda
 reunião, que tinha saído do grupo dizendo que eles eram bibliotecários. Pensou
-na dona Lurdes, que tinha morrido em 2035 sem ver aquilo, e que teria achado
+na dona Ilse, que tinha morrido em 2035 sem ver aquilo, e que teria achado
 graça, e teria dito que estava na cara, que era sempre no anexo, que ninguém
 lê anexo.
 
@@ -210,7 +210,7 @@ O prazo para o registro é 15 de agosto de 2038.
 folhas, um riso que foi ficando esquisito no meio e que ele não soube terminar.
 
 Ela tinha visto. Claro que tinha visto. Tinha visto o pedido de informação
-sobre o cartão, em 2034. Tinha visto todos os pedidos, seis anos de pedidos,
+sobre a chave, em 2034. Tinha visto todos os pedidos, seis anos de pedidos,
 e sabia que eles não tinham lido o Anexo III, e tinha esperado. Esperado o
 quê, ele não sabia. Que eles achassem sozinhos. Às três e vinte da manhã de uma
 segunda-feira, um homem de vinte e nove anos tinha mandado uma foto num grupo
@@ -219,8 +219,7 @@ gratuito de televisão.
 
 Pensou que o convite era a coisa mais justa que ele já tinha recebido de um
 governo. Pensou que era também a mais humilhante. Não conseguiu decidir qual
-das duas pesava mais, e percebeu que não ia conseguir nunca, e que era
-justamente isso que a Siga fazia com todo mundo.
+das duas pesava mais.
 
 ---
 

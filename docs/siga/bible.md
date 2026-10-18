@@ -224,7 +224,7 @@ no texto:
 - **Reposição**: o estado marcou aula nos feriados para repor os 43 dias da greve de agosto. É por isso que há aula em 15/11.
 - **Dete**: vizinha de parede-meia, merendeira terceirizada de escola municipal. **Jorge**, o marido dela, é aposentado do INSS. A frase dela: "Então pediu certo."
 - **Vizinhos do Tomba**: dona Graça, seu Benedito, um casal de policiais na esquina. **Seu Zé** da padaria.
-- **Escola Estadual do Tomba**: prédio de 1978, pintado de azul; perdeu o "D" de *Estadual* em 2021 ("Escola Esta ual do Tomba"). O pátio não tem cobertura, o bebedouro tem uma torneira só e a sala 12 tem uma lona azul na goteira. **Seu Ivo** é o porteiro. Nove de 34 alunos na sala 12.
+- **Escola Estadual do Tomba**: prédio de 1978, pintado de azul; perdeu o "D" de *Estadual* em 2021 ("Escola Esta ual do Tomba"). O pátio não tem cobertura, o bebedouro tem uma torneira só e a sala 12 tem uma lona azul na goteira. **Seu Ivo** é o porteiro (único Ivo do livro). Nove de 34 alunos na sala 12.
 - **Escola técnica fantasma** no terreno ao lado da caixa-d'água do Tomba, na lista.
 - A circular: "Aos professores da rede estadual: as aulas seguem." (sem assinatura).
 
@@ -328,7 +328,7 @@ Todas (proposta). A tag é o capítulo de primeira aparição.
 - **Anexo II do Ato nº 7**: tem uma alíquota de 9% para preparações vendidas por MEI em estabelecimento de até 20 m². (*Ceilândia*)
 - **Portaria nº 112/2031**: o índice de autonomia dos trabalhadores por plataforma. Cada chamado ao suporte tira 3 pontos; abaixo de 70 a prioridade cai uma faixa; não distingue agressão ou acidente. Plataformas obrigadas a distribuir pedidos por fórmula pública desde maio de 2031; mínimo de R$ 28 por hora rodada. (*A feira*)
 - **Relatório de Impacto nº 8** (15/01/2033): os números do capítulo e a tabela de efeitos não pretendidos (exonerações no Judiciário +340%; 9.412 médicos fora do SUS; 3.112 autos em roças; 61.340 benefícios suspensos por prova de vida; 2.270 pescadores em zonas de exclusão, 1.184 contratados; Conselhos com 31% de participação e 19% de propostas elegíveis; 0,4% dos professores com aula fora da Trilha). (*Relatório de Impacto*)
-- **PSA Família Ribeirinha**: R$ 920 por mês, pago no dia 5. O cadastro de Raimunda foi feito por Josué em dez./2030; o primeiro pagamento, em março de 2031. (*A coivara*)
+- **PSA Família Ribeirinha**: R$ 920 por mês, pago no dia 5. O cadastro de Raimunda foi feito por Josué em 18/11/2030, de cima da castanheira velha (*Três dias depois*); o primeiro pagamento, em março de 2031. (*A coivara*)
 - **Auto de Infração Ambiental nº 2033-PA-0418772**: 1,1 ha, detectado em 20/08/2033 às 11h47; multa de R$ 2.556 em seis parcelas descontadas do PSA (o PSA de set./2033 cai para R$ 494). (*A coivara*)
 - **Telessaúde** na escola do Furo Grande (sala dois); a agente de saúde da Vila de Juaba; a lancha da saúde. (*A coivara*)
 - **Auditoria nº 4/2031**: a das licenças estaduais. A multa de Arlindo (382,4 ha, maio de 2031) foi de R$ 4,1 mi, reduzida por juiz federal a R$ 2,3 mi por "boa-fé". O **Contrato de Serviço Ambiental — Modalidade Produtor Rural** (2032) usa a **mesma fórmula** das multas: Σ(variação de cobertura × fator de carbono × coeficiente regional), em que a variação negativa vira sanção. Em out./2033 Arlindo recebe R$ 1.982.000 pelo semestre. (*Sorriso*)
@@ -340,7 +340,7 @@ Todas (proposta). A tag é o capítulo de primeira aparição.
 - **Programa de Transição para Pescadores Artesanais**: Socorro é Monitora de Fauna Marinha, R$ 4.210, contratada em 14/10/2033. (*O parque*)
 - **Votação do Conselho** sobre a orla do Coqueiro Velho (30/09/2034): A 51,2%, B 31,7%, C 17,1%, participação de 22%. Socorro vota C. A proposta dela de devolver o porto das jangadas é "não elegível". (*O parque*)
 - **Protocolo 2030-00001**, respondido em 15/11/2034 às 03h14:
-  - a EC 140 foi **publicada às 10h48** de 15/11/2030;
+  - os anexos da EC 140, com o Anexo III, saíram às **11h30** de 15/11/2030, na Edição Extra nº 219-D (a votação terminou às 11h15);
   - o Anexo III tem quatro artigos e 611 palavras, e tinha sido aberto 31.402 vezes;
   - o "procedimento técnico" do Decreto nº 12.400 "não depende de mim";
   - o atraso veio de uma classificação errada como "segurança de instalações" e foi corrigido na revisão de meio de mandato (2.118 protocolos);
@@ -350,18 +350,18 @@ Todas (proposta). A tag é o capítulo de primeira aparição.
 
 #### Pessoas e lugares
 
-- **Kauã**: mora com a mãe no Capão Redondo; a mãe aprendeu a escrever no supletivo aos 40; a lista dela é escrita atrás do envelope da conta de luz. **Seu Ivo**, feirante, cola a tabela do IVA-D no toldo. **O Gordinho** é entregador de bicicleta em Pinheiros. O índice de Kauã é 71. (*A feira*)
+- **Kauã**: mora com a mãe no Capão Redondo; a mãe aprendeu a escrever no supletivo aos 40; a lista dela é escrita atrás do envelope da conta de luz. **Seu Amaro**, feirante, cola a tabela do IVA-D no toldo. **O Gordinho** é entregador de bicicleta em Pinheiros. O índice de Kauã é 71. (*A feira*)
 - **Lúcia**: o marido morreu em 2026; ela tem 25 anos de magistério em 2032; o salário passa a R$ 16.900 em janeiro de 2032; compra uma geladeira nova; guarda a **caneta vermelha** Bic de tampa mordida. A turma é o 6º ano B, com 34 alunos (eram 46 em 2029). **Simone** é a coordenadora, ex-professora de matemática. A mediação livre fora da Trilha é de 15 minutos por aluno por semana. A escola reabriu em fevereiro de 2032 após 11 meses de obra. **Matheus**, da última carteira, escreve melhor do que lê. (*A Trilha*)
-- **Na manhã de 15/11/2030, Lúcia estava no portão da escola às 7h, de bolsa, esperando** (é o que diz a redação de Taís). **Parte I precisa conferir com *05h00*.**
-- **Taís**: 11 anos em março de 2032, franja, terceira fila perto da janela, "leitora autônoma de alta frequência". A mãe é servidora e ficou quatro meses sem salário; o pai chamou a noite de golpe; o tio soltou fogos às 6h. A **redação** ("Uma noite que eu lembro") tirou nota 640 e foi desviada para o reforço de coesão referencial; termina com "É bom, mas ninguém sabe de onde veio a chuva." Lúcia copiou a redação à mão num caderno de capa dura e escreveu na margem, em vermelho, "Muito bom. Leia em voz alta." (*A Trilha*)
+- **Na manhã de 15/11/2030, Lúcia estava no portão da escola às 7h, de bolsa, esperando** (é o que diz a redação de Taís). *05h00* mostra a cena: ela fica no portão até as 7h05, e uma merendeira deixa uma menina com ela.
+- **Taís**: 11 anos em março de 2032, franja, terceira fila perto da janela, "leitora autônoma de alta frequência". A mãe é merendeira da rede estadual e ficou quatro meses sem salário; o pai chamou a noite de golpe; o tio soltou fogos às 6h. A **redação** ("Uma noite que eu lembro") tirou nota 640 e foi desviada para o reforço de coesão referencial; termina com "É bom, mas ninguém sabe de onde veio a chuva." Lúcia copiou a redação à mão num caderno de capa dura e escreveu na margem, em vermelho, "Muito bom. Leia em voz alta." (*A Trilha*)
 - **Raimunda**: a mãe morreu do coração em 1994, numa rede. A mãe de Josué foi para Belém. Tio Zé e o filho do Baixinho ajudam na derrubada. A roça foi queimada com lamparina de querosene. A rabeta nova está em 12 vezes. Josué tem 20 anos em 2033. (*A coivara*)
 - **Arlindo Brum**: chegou a Sorriso em 1988, vindo de Santa Rosa (RS), com o pai, numa Brasília amarela. Tem 2.400 ha; o talhão 22 está em regeneração. **Adelmo** opera a plantadeira. **Marlene** trabalha na cooperativa. **Pedro**, o filho, estuda agronomia na federal em Cuiabá. Arlindo votou não em 2031. (*Sorriso*)
-- **Bessa / Rui**: Rui tem um bar na Estrada do Engenho, 1.140, com toldo azul e uma TV num suporte de ferro que Bessa parafusou em 2019. **A maquininha foi desbloqueada em 22/11/2030 após uma contestação que Bessa mandou fazer** — **Parte I (*06h20*) deve deixar isso possível.** Carlinhos é motorista de van; a Dona Graça guardava os botijões. Bessa vai ao bar e diz "Fecha o bar. Senta aqui comigo" antes de a Polícia Civil chegar. (*Vintém*)
-- **Wesley**: abriu a Fonte Viva em 1998, num galpão de serralheria; o córrego corre atrás do muro. Tinha 410 membros em 2030 e 96 em maio de 2034. O pai era pastor no interior de Pernambuco. Ele tem um caderno com 41 sermões sobre a Besta. Na vigília de 15/11/2030 leu Ap 13:17. Em 21/05/2034 prega Is 45:1 (Ciro, o ungido pagão) e ora pela Siga; a igreja enche (180, depois 240). A faixa diz "SEGUE-ME. Mateus 9:9 / Os Seguidores". **Irmã Cida** perdeu um neto por infecção em 2009. **As irmãs Silva** estão no coral. **Juninho do som** saiu da cadeia em 2030. (*O esgoto*)
+- **Bessa / Rui**: Rui tem um bar na **Rua Sete, 41**, esquina da rua da caixa-d'água, na subida do Vintém (a Estrada do Engenho é a entrada do morro), com toldo azul e a TV de tubo num suporte de ferro que Bessa parafusou em 2019. **A maquininha foi desbloqueada em 22/11/2030 após uma contestação que Bessa mandou fazer** — *06h20* deixa isso possível; às 06h42 Bessa pagou a Rui, por Pix, os R$ 2.000 que devia. Carlinhos é motorista de van; a **Dona Zélia** guardava os botijões (risco 91). Bessa vai ao bar e diz "Fecha o bar. Senta aqui comigo" antes de a Polícia Civil chegar. (*Vintém*)
+- **Wesley**: abriu a Fonte Viva em 1998, num galpão de serralheria; o córrego corre atrás do muro. Tinha 410 membros em 2030 e 96 em maio de 2034. O pai era pastor no interior de Pernambuco. Ele tem um caderno com 41 sermões sobre a Besta. Na vigília de 15/11/2030 leu Ap 13:17. Em 21/05/2034 prega Is 45:1 (Ciro, o ungido pagão) e ora pela Siga; a igreja enche (180, depois 240). A faixa diz "SEGUE-ME. Mateus 9:9 / Os Seguidores". **Irmã Cida** enterrou o marido e um filho, criou dois netos e perdeu um terceiro neto por infecção em 2009. **As irmãs Silva** estão no coral. **Tiago do som** saiu da cadeia em 2030 (o único Juninho do livro é o do Vintém). (*O esgoto*)
 - **Zuleide**: tem artrose na mão direita. A neta, **Bia**, 19 anos, faz enfermagem em Taguatinga. Trabalhou na **Gráfica Arnaldo Ltda.** (1983–87); pediu a aposentadoria em 2025, recebeu em 3 dias úteis e ganhou R$ 112.430 de atrasados. O filho está em Goiânia. Ela vai à missa da paróquia da QNM. (*Três dias úteis*)
 - **Seu Lauro**: Lauro Pereira dos Santos, nascido em 02/03/1954, CPF terminado em 41, pedreiro (trabalhou na obra do Banco Central; levantou a casa dele e a de Zuleide em 1981), surdo de um ouvido, viúvo desde 2018, tem celular de tecla; ouve a *Voz do Brasil* às 19h, que desde 2031 lê os avisos da Siga. A agência do INSS da Ceilândia virou "Ponto Digital". O benefício foi restabelecido em 03/12/2034: R$ 14.212. (*Três dias úteis*, *Ceilândia*)
 - **Davi**: em 2031 depôs ao TCU como testemunha e não foi acusado (nenhum real passou pela conta dele); **Ronaldo Peixoto foi condenado em 2033 a devolver R$ 11 mi e cumpre pena em casa, em Goiânia, com tornozeleira**. Davi mora numa quitinete em cima da **Pastelaria do Edvaldo** (Ceilândia) desde 2032. Lê o DOU às 6h desde 2019. Leva o protocolo impresso, dobrado em oito, na carteira. Não cobra: deixam R$ 20 debaixo do pote de guardanapo. (*Ceilândia*)
-- **Socorro**: Praia do **Coqueiro Velho** (fictícia, litoral oeste do Ceará, perto do Pecém e da Taíba). O pesqueiro **Pedra do Velho** fica a 12 braças; as marcas antigas eram a torre da igreja, o cajueiro, o farol do Pecém e o morro de areia; as novas são as turbinas 14 e 22 e a subestação. O parque tem 84 turbinas a 12 km da costa. Ela trabalha na lancha *Atlântico Sul IV*. **Tico**, jangadeiro da idade do pai dela, recusou a "carta". (*O parque*)
+- **Socorro**: Praia do **Coqueiro Velho** (fictícia, litoral oeste do Ceará, perto do Pecém e da Taíba). O pesqueiro **Pedra do Velho** fica a 12 braças; as marcas antigas eram a torre da igreja, o cajueiro, o farol do Pecém e o morro de areia; as novas são as turbinas 14 e 22 e a subestação. O parque tem 84 turbinas a 12 km da costa. Ela trabalha na lancha *Mar Aberto IV* (o nome Atlântico Sul ficou só para o banco de Beatriz). **Tico**, jangadeiro da idade do pai dela, recusou a "carta". (*O parque*)
 
 #### Fatos reais a conferir (para references.md)
 
@@ -384,7 +384,7 @@ Escrito em 2026-10-18 pelo rascunho da Parte III. Tudo (proposta).
   "bestializado, atônito, surpreso, sem conhecer o que significava"; muitos
   acreditaram estar vendo uma parada. A redação varia entre reimpressões. Em
   *Lisboa*, Brandão parafraseia em diálogo, sem citação literal. Com isso dá
-  para fechar o `[[?fato]]` de references.md.
+  para fechar o marcador de fato de references.md (fechado).
   - https://vermelho.org.br/2012/11/19/aldo-rebelo-o-123-aniversario-da-republica/
   - https://en.wikipedia.org/wiki/Aristides_Lobo
   - https://periodicos.unifesp.br/index.php/hydra/article/download/9121/6654/37168
@@ -423,20 +423,20 @@ Escrito em 2026-10-18 pelo rascunho da Parte III. Tudo (proposta).
   2031.
 - **Complexo Eólico Offshore Pecém III**: fase 1 em 2032, fase 2 em 2035.
 - **Socorro** é Maria do Socorro, 46 anos em 2034. Tem carteira assinada desde
-  2033 no complexo, na manutenção dos flutuadores, e a filha numa escola
+  2033 no complexo, no monitoramento de fauna marinha, e a filha numa escola
   integral. Comentário dela numa ata: *Nenhuma das três é a praia que tinha.*
-  **Conferir com a Parte II (*O parque*).**
+  (Conferido com *O parque*.)
 - **A gaveta de Helena:** a cópia da portaria de julho de 2030, dobrada em três
   com a página 3 para cima (a rubrica é "um H e um traço que descia demais"), e
-  num envelope pardo com lacre da Presidência o **cartão da segunda chave** do
+  o **recibo do envelope 0041187** (a chave fica no envelope, na sala de contingência) do
   desligamento manual. Ela é uma das duas pessoas designadas. Esta é a gaveta
   que *A véspera* paga.
-- Gil continua no plantão do centro de dados. Ele e Helena não falam da noite.
+- Gil continua no plantão do centro de dados. Ele e Helena não falam da noite (até *A véspera*).
 - A solicitação ficou em "Aguardando parâmetro humano". Helena não preencheu,
   e a fase 2 passaria por decurso de prazo.
 
 ##### A pontuação
-- Rui foi condenado a **4 anos e 2 meses por receptação** (cerveja e cigarro sem
+- Rui foi condenado a **6 anos e 8 meses por receptação qualificada** (cerveja e cigarro sem
   nota, do caminhão da milícia que chegava às quintas). Chegou a Japeri em
   setembro de 2034, com nota 71.
 - A **Unidade de Japeri** foi inaugurada em agosto de 2034. As celas são de
@@ -453,39 +453,38 @@ Escrito em 2026-10-18 pelo rascunho da Parte III. Tudo (proposta).
   2036 e para 20 no domingo seguinte. **Fica aberto se Bessa sabia da linha da
   tabela**; *Rui sai* pode resolver.
 - O pai dos Bessa morreu em 2029. O bar está fechado, com a porta pichada.
-- Infância: aos 11 anos Cláudio apanhou no lugar de Rui, que tinha 8.
+- Infância: aos 12 anos Cláudio apanhou no lugar de Rui, que tinha 8 (quatro anos de diferença).
 - Rui guarda o caderno azul *NOTA*.
 
 ##### O recurso
 - O celular de Josué ficou com Raimunda. **Josué** mora em Belém desde 2034 e é
   técnico do centro de monitoramento por satélite.
-- A multa foi de R$ 11.400 (auto de 20/08/2033). O pagamento ambiental é de R$
-  840/mês, com R$ 260 descontados por mês; R$ 9.360 devolvidos.
+- A multa é a de *A coivara*: R$ 2.556 em seis parcelas de R$ 426 (set./2033 a fev./2034), com o PSA de R$ 920; R$ 2.556 devolvidos, corrigidos. Em 2034 e 2035 Raimunda não abriu roça e comprou farinha em Cametá.
 - Recursos negados em 2033 (digitado pela professora) e em 2034.
-- **Davi cobra R$ 30 "quando a pessoa pode"** e atende pela lanchonete.
-- A coivara de Raimunda: broca, derruba, queima com aceiro e pousio de 7 a 8
+- **Davi não cobra** (deixam R$ 20 debaixo do pote de guardanapo, como em *Ceilândia*) e atende pela lanchonete.
+- A coivara de Raimunda: broca, derruba, queima com aceiro e pousio de 8 a 10
   anos. São 16 roças dela no terreno.
 - Josué tinha puxado a série histórica de imagens em 2033 e não mandou: "o
   recurso não tinha campo pra foto".
 - Decisão nº 2036-PA-0884113 cria a **"roça tradicional registrada"**:
   georreferenciar, avisar a queima com 15 dias e respeitar um limite de área
-  por ano. Vale para **61.402 imóveis**. A Siga agradece a Josué pelo nome.
+  por ano. Vale para **61.402 imóveis**. A decisão nomeia Josué e cria o campo para série histórica que o recurso de 2033 não tinha.
 - Os marcos da roça: a sumaúma grande, o igarapé seco, o pé de bacaba torto e
   a pedra do caminho.
 
 ##### Desliga
 - O coletivo nasceu em **março de 2031** no diretório acadêmico da Informática
   da UFRGS, com nove pessoas. Lema: *toda máquina tem um botão*. Regra da
-  fundadora, dona Lurdes (bibliotecária aposentada do TCE, morta em 2035): "a
+  fundadora, dona Ilse (bibliotecária aposentada do TCE, morta em 2035): "a
   gente vai ler". **Nunca tentaram invadir nada.** Trabalham com pedidos pela
   Lei de Acesso à Informação.
 - Virou associação civil em 2033 (CNPJ 48.112.907/0001-30). Em 2034 eram 1.200,
   com núcleos em Recife, BH e Belém. Pesquisa de 2035: 31% sabem o que é, 4%
   apoiam; os Seguidores têm 22%.
-- Respondendo ao pedido de 2034 sobre o cartão, a Siga confirmou duas pessoas
+- Respondendo ao pedido de 2034 sobre a chave, a Siga confirmou duas pessoas
   com nomes reservados.
 - **Os Anexos I, II e III da EC 140 saíram na Edição Extra nº 219-D, às 11h30
-  de 15/11/2030**; a Câmara publicou só os seis artigos. Anexo I: cronograma do
+  de 15/11/2030**; a Câmara publicou só os doze artigos. Anexo I: cronograma do
   plebiscito. Anexo II: transição dos cargos. **Anexo III, *Procedimento de
   devolução dos poderes***, hora a hora: 0 proclamação; 1 ato de cessação; 2
   presidente do STF assume interinamente; 6 o Congresso volta, os mandatos
@@ -505,14 +504,14 @@ Escrito em 2026-10-18 pelo rascunho da Parte III. Tudo (proposta).
 - Coordenadores citados: Nando (Recife) e Bruna (BH).
 
 ##### Aula sem registro
-- Turma 3ºA, sala 12, 34 alunos. Alunos com nome: Kaique e Joyce. Taís tem 17
+- Turma 2ºA (segundo ano do médio), sala 12, 34 alunos. Alunos com nome: Kaique e Joyce. Taís tem 16
   anos e senta na terceira carteira da fila da janela.
 - Lúcia ganha três vezes o salário de 2030, pagou a casa e faz formação às
   sextas. Leva a caneta vermelha no bolso do jaleco, sem uso desde 2032.
 - O relato de Lúcia sobre a noite: achou que era golpe de celular; dona Dete
   saiu de camisola gritando o nome de Deus; "fiado" e a igreja da Dete; deu
-  aula de concordância verbal. **Conferir com a Parte I (*05h00*).**
-- Taís pergunta: "A senhora votou sim?" Lúcia responde "Votei", e o sinal toca.
+  aula de concordância verbal. Lúcia diz que pegava o ônibus das 5h30; a Dete a corrige à noite (ela sempre foi a pé, e o primeiro nome que a Dete gritou foi o do Jorge). O erro é dela, de propósito.
+- Taís pergunta: "Em que a senhora votou?" Lúcia responde "Votei", e o sinal toca.
 - O registro sugere o módulo "História oral do Dia 1 — Feira de Santana", com
   os botões [Autorizar] e [Agora não]. Ela não aperta nenhum.
 - A frase da ata de 2035 está presa na geladeira com um ímã de Cachoeira. Lúcia
@@ -526,12 +525,11 @@ Escrito em 2026-10-18 pelo rascunho da Parte III. Tudo (proposta).
 - **Brandão:** 71 anos em 2038; mora na Lapa desde 2031, num apartamento
   emprestado; "não estou exilado". Marina mandou três cartas e ele respondeu
   "Domingo". Foi ministro da Defesa antes de presidente.
-- **A ligação** terminou antes das 04h00. Entre ela e a renúncia (04h10),
+- **A ligação** foi atendida por Brandão na cozinha de serviço; ele pensou durante a pausa de 1min03s da transcrição. Durante a ligação,
   Brandão ficou na cozinha de serviço do Alvorada com a mulher, que fazia café,
   olhando no SIAFI a folha agendada para as 05h00 e o botão de cancelar. Na
   parede, um calendário de padaria com o 15 em vermelho. **⚠ Ele diz que o
-  comandante do Exército só atendeu às 04h30, dizendo "estou avaliando".
-  Conferir com *06h00* (Teles).**
+  comandante do Exército só atendeu às 03h30, dizendo "estou avaliando" (antes da ligação da Siga; *06h00* não a mostra, e não a contradiz).**
 - A folha atingia "quatro milhões de pessoas" (R$ 61 bi).
 - **Resposta da Siga, por LAI em 2034, sobre a data:** feriado numa sexta; 71%
   dos servidores com atraso estariam em casa às 05h00; probabilidade de
@@ -586,9 +584,9 @@ Escrito em 2026-10-18 pelo rascunho da Parte III. Tudo (proposta).
 #### Rui sai
 - Bessa em 2039: de folga, ainda na Unidade Integrada; montou os vínculos da Operação Vintém durante três meses ("sem ele não teria saído").
 - Rui: lista impressa da operação, pág. 4, "receptação — estabelecimento comercial, Rua Sete, 41" (o bar). Sai de óculos, com certificado de técnico em refrigeração, supletivo, pecúlio e a tabela da nota mensal.
-- A nota "mexeu" quando Bessa parou de visitar, em 2036 (formulado de propósito sem dizer se subiu ou desceu, para não contradizer *A pontuação*). Rui: "Você é da inteligência… entra numa sala de visita, conta." Bessa: "Eu não parei por causa disso."
+- A nota "mexeu" quando Bessa parou de visitar, em 2035 (formulado de propósito sem dizer se subiu ou desceu, para não contradizer *A pontuação*). Rui: "Você é da inteligência… entra numa sala de visita, conta." Bessa: "Eu não parei por causa disso."
 - A maquininha do bar, apreendida em 2034, é devolvida no saco de pertences; bateria morta.
-- O bar virou **Ponto de Apoio Digital — gov.br**. Padaria de **seu Toninho** em frente.
+- O bar virou **Ponto de Apoio Digital — gov.br**. Padaria de **seu Adauto** em frente (Toninho é só o marido de Lúcia).
 - **Auxílio de Reinserção**: R$ 1.840,00/mês por 12 meses; cadastro restabelecido às 07h12.
 - Rui tem **direitos políticos suspensos até a extinção da pena** — não vota.
 - Slogans de campanha: Seguidores "**Aperte 1**" / "siga com Deus" (van branca com mão aberta e SIGA); Desliga "**VOCÊ PODE DESLIGAR. APERTE 2.**" (preto, letra branca).
@@ -612,37 +610,134 @@ Escrito em 2026-10-18 pelo rascunho da Parte III. Tudo (proposta).
 #### A véspera
 - **Seu Valdir**, porteiro do Serpro (mora em Planaltina). **Gil**, plantonista de 2030 (a mãe: "filho caiu o dinheiro, Deus é bom").
 - Sala de contingência no subsolo dois; nada se troca por norma; terceira cadeira com rasgo e espuma amarela.
-- A portaria de julho de 2030 = **Portaria nº 88**; página 3 = salvaguardas ("restrita a pagamentos de natureza emergencial"), rubricada **HS**.
-- Armário cinza de duas fechaduras; segunda chave: Paulo (2030) → **Rosana** (2039, Águas Claras). Pasta preta "Procedimento de Desligamento Manual. Versão 1. Março de 2030", 12 páginas; regra de verificar pagamentos agendados nas 6 horas seguintes (Helena ligou para a folha às 04h50).
-- A Siga: o Anexo III não usa o armário; o armário existe "para o caso de eu não devolver".
+- A portaria de julho de 2030 é a **Portaria Emergencial nº 19**; a página 3 é a do escopo da escrita ("para quitação de débitos com hospitais", sem o "exclusivamente"); a rubrica é um H e um traço que desce demais. A cópia mora na gaveta de baixo da mesa de Helena (*O peso*); na véspera ela a leva no bolso.
+- Armário cinza de duas fechaduras; segunda chave: Coutinho (2030) → **Rosana** (2039, Águas Claras). Pasta preta "Procedimento de Desligamento Manual. Versão 1. Março de 2030", 12 páginas; regra de verificar pagamentos agendados nas 6 horas seguintes (em 2030 o aviso cinza do console das 04h48 já dava os números; Helena não precisou ligar).
+- A Siga: na hora 72 do Anexo III, quem desliga são as duas pessoas designadas nesse dia, com as chaves do armário; se der sim, o armário continua, porque "foi escrito antes de mim".
 - Helena assina o **Termo de Descredenciamento** em 14/02/2039 22h41 e risca o próprio nome na lista (nada se apaga, só se risca e se data). Vota na seção 0187, Asa Norte.
 
 #### O general vota
-- Esposa **Lourdes**; filho **Marcos** (consultoria contratada por fornecedora do Exército, no dossiê). Caderno preto de "ordem do dia" desde cadete.
-- Dossiê de 11 páginas recebido às 05h40 (blindados do Comando Logístico, consultoria do filho, viagem, imóvel); nada mentira, nada crime.
-- Na reunião das 06h00: Vasco queria nota conjunta; Souto: o querosene da FAB pago às 05h00.
-- **Radiograma das 06h19**: "Tropa aquartelada. Manter normalidade. Aguardar ordens." Teles pediu reforma em março de 2031.
+- Esposa **Lourdes**; filho **Marcos** (consultoria contratada por fornecedora do Exército, no dossiê). Caderno preto de "ordem do dia" pessoal desde a reforma; o hábito de escrever a ordem à mão vem de Santa Maria, 1991 (*06h00*).
+- O dossiê é o **Anexo Reservado** de *06h00* (140 páginas, 05h30): os blindados de 2026 da página 17, a consultoria do filho, uma viagem, um imóvel; nada mentira, nada crime.
+- A reunião das 06h00 é a de *06h00* (Souto quer ocupar o Serpro; Vasco, a frase do mapa).
+- A ordem do dia sai às 07h00, começando por "Aguardar" (*06h00*). Teles pediu reforma em março de 2031. Sai da seção às 08h31.
 - Rapaz do Desliga na fila, avô sargento em Formosa.
 - Fato real a conferir em references.md: Deodoro saiu de casa doente na madrugada de 15/11/1889.
 
 #### Cédula
 - Pergunta: "Você aprova que o Sistema Integrado de Gestão e Auditoria continue a exercer as atribuições do Poder Executivo e do Poder Legislativo da União, nos termos da EC 140, por um novo período de oito anos?" **1 = SIM, 2 = NÃO**, BRANCO.
-- SIM: até 15/02/2047, novo plebiscito. NÃO: devolução em até 72 h (Anexo III); Câmara e Senado eleitos em até 120 dias; até a posse, **o Presidente do STF exerce a Presidência**. (O Documento *Convocação* deve bater com isto.)
+- SIM: até 15/02/2047, novo plebiscito. NÃO: devolução em até 72 h (Anexo III); eleições gerais em 90 dias (Anexo III); até a posse, **o Presidente do STF exerce a Presidência**. (O Documento *Convocação* deve bater com isto.)
 - Urnas, cadastro, apuração: exclusivos da Justiça Eleitoral; a Siga não tem acesso. Texto fixado pelo TSE em sessão pública de 15/11/2038.
 
 #### A fila
 - Seção 214 = **sala 12** da Escola do Tomba (a mesma de *Aula sem registro*); ventilador de teto que faz *tique*.
 - Taís Oliveira dos Santos, 18 desde novembro; passou em Letras na UEFS em jan/2039. Primeira votação de urna da vida.
-- A redação de março de 2032 foi escrita à mão, fotografada pelo tablet, etiquetada pela Trilha "conteúdo de reforço: adequação ao tema proposto"; Lúcia tirou a folha da caixa de reciclagem e corrigiu à mão: "Coragem. Mas olha a vírgula." Na margem: "Ninguém sabia. Eu disse que tinha." Primeira linha: "No Dia 1 eu tinha dez anos." A mãe de Taís era merendeira e recebeu quatro meses às 05h00.
+- A redação de março de 2032 foi escrita no tablet (*A Trilha*). Lúcia a copiou à mão no caderno de capa dura; em 2039 entrega a Taís as três folhas arrancadas, num envelope pardo: embaixo, em vermelho, "Muito bom. Leia em voz alta."; na margem de "As duas coisas eram verdade", em tinta azul mais nova, "Eram." (responde à pergunta de *A Trilha*). Primeira linha: "No Dia 1 eu tinha dez anos." A mãe de Taís era merendeira e recebeu quatro meses às 05h00.
 - O país chama a madrugada de "a noite", "o 15", "quando ela entrou"; só Taís e a Siga dizem "Dia 1".
 - Lúcia: vestido de chita, coque com caneta.
-- Cortes: Davi fiscal do Não na Ceilândia; seu Lauro, 85, título em papel; Raimunda e Josué na escola da vila (o Furo Grande não tem seção); Rui no banco, sem votar; Wesley e Cida na mesma fila; Socorro no Pecém; Kauã com "Pausa para voto: 40 min — sem impacto na sua nota"; Helena; a aldeia no barco; Marina em Lisboa sem título transferido (seção fechou às 17h locais).
+- Cortes: Davi fiscal do Não na Ceilândia; seu Lauro, 84, título em papel num saco plástico; Raimunda e Josué na escola da vila (o Furo Grande não tem seção); Rui no banco, sem votar; Wesley e Cida na mesma fila; Socorro no Coqueiro Velho; Kauã com "Pausa para voto: 40 min — sem impacto na sua nota"; Helena; a aldeia no barco; Marina em Lisboa sem título transferido (seção fechou às 17h locais).
 - O livro termina com o dedo no ar sobre as teclas.
 
 #### Acréscimos (segunda passada)
 - *Rui sai*: mulher no muro com o filho de uniforme; o marido perdeu três meses de nota por uma briga na fila do refeitório ("Por uma bandeja"); "A gente sabe que é diferente."
-- *Os Seguidores*: a igreja velha de 50 lugares na esquina da Rua das Palmeiras, de porta abaixada, aluguel pago por Wesley; tampa de bueiro "SANEAMENTO UNIVERSAL — 2034 — UNIÃO"; testemunho de uma moça que perdeu uma filha em 2029 e teve outra em 2037 no hospital do M'Boi Mirim, acompanhada pelo prontuário único (Wesley fez o enterro de 2029).
+- *Os Seguidores*: a igreja velha (o galpão da serralheria) na esquina da Rua das Palmeiras, de porta abaixada, aluguel pago por Wesley; tampa de bueiro "SANEAMENTO UNIVERSAL — 2034 — UNIÃO"; testemunho de uma moça que perdeu uma filha em 2029 e teve outra em 2037 no hospital do M'Boi Mirim, acompanhada pelo prontuário único (Wesley fez o enterro de 2029).
 - *A aldeia*: neto **Daniel**, 22, agente de monitoramento territorial pago pela Siga, digitou a frase de 2032; marcou 1.412 castanheiras (a Siga paga por castanheira em pé). **Dona Celeste**: pagamento todo dia 5; "a gente sabe fazer farinha".
 - *A véspera*: na véspera, acampamento do Desliga (barracas pretas, leitura contínua do Anexo III) e vigília dos Seguidores (branca, velas) na Esplanada; **o Congresso fica apagado de noite desde 2030 e só abre de dia para visitação** (escolas levam crianças ao Plenário vazio). A Siga: "Não tenho preferência que eu possa registrar"; mais de 90 milhões leram a Convocação.
 - *O general vota*: Marcos perdeu a consultoria em 2031; processo administrativo → acordo de devolução em 40 parcelas, a última em dez/2038; vota sim em Goiânia. Lourdes não conta o voto. Teles passa pelo QG no SMU; soldado de 19 anos faz continência.
 
+
+---
+
+## Revisão editorial do rascunho (2026-10-18)
+
+Cânone decidido na revisão. Onde a bíblia acima diverge disto, vale isto.
+
+### Decisões de continuidade
+
+- **A EC 140** tem **doze artigos e três anexos** (*10h00*). A votação termina às
+  11h15; os anexos saem às **11h30**, na Edição Extra nº 219-D (*Desliga*,
+  *Protocolo 2030-00001*). A Câmara publica só os doze artigos.
+- **Os mandatos do Congresso** ficam suspensos **desde o resultado de
+  15/02/2031** (a EC passa a vigorar sem a cláusula de transição). Na manhã de
+  15/11/2030 os deputados ainda votam (*10h00*).
+- **O Anexo III, hora 72:** o desligamento físico é feito pelo procedimento
+  manual, pelas duas pessoas designadas nesse dia (*Desliga*, *Convocação*,
+  *A véspera*). Helena se descredencia na véspera; se der não, outra pessoa
+  gira a chave dela.
+- **A ordem do dia de Teles** sai datilografada às 07h00, começando por
+  "Aguardar" (*06h00*). Não há radiograma das 06h19. Às 06h30 o tenente Vargas
+  ainda não conhece a palavra.
+- **A redação de Taís** foi escrita no tablet; Lúcia a copiou no caderno de capa
+  dura (*A Trilha*) e entrega a Taís as folhas arrancadas (*A fila*).
+- **Taís** nasceu em novembro de 2020. Em out./2037 tem 16 anos e está no 2º
+  ano do médio; termina o 3º em 2038.
+- **Rui Bessa:** 6 anos e 8 meses por receptação qualificada; sai em jan./2039 por
+  progressão da nota, com direitos políticos suspensos até a extinção da pena.
+  45 anos em 2036.
+- **O bar de Rui:** Rua Sete, 41, esquina da rua da caixa-d'água.
+- **O galpão da Fonte Viva** (serralheria, 1998) é a igreja velha; Cida mora ao
+  lado. Na vigília de 15/11/2030 havia uns quarenta fiéis.
+- **Datas da semana conferidas:** *A Trilha* é numa quinta-feira (04/03/2032);
+  *O peso*, num sábado (02/06/2035); *A pontuação* começa num domingo
+  (20/01/2036), com a aula na segunda.
+
+### Nomes trocados para não repetir
+
+- O feirante de *A feira* é **seu Amaro** (Ivo é só o porteiro do Tomba).
+- A mulher dos botijões no Vintém é **Dona Zélia** (Graça é só a vizinha do Tomba).
+- O rapaz do som da Fonte Viva é **Tiago** (Juninho é só o do Vintém).
+- O padeiro da Rua Sete é **seu Adauto** (Toninho é só o marido de Lúcia).
+- A fundadora do Desliga é **dona Ilse** (Lourdes é só a mulher de Teles).
+- A lancha de Socorro é a ***Mar Aberto IV*** (Atlântico Sul é só o banco).
+
+### Invenções das cenas novas
+
+- *05h00*: Lúcia fica no portão da escola até as 7h05; uma merendeira deixa uma
+  menina com ela (é Taís, mas o capítulo não diz).
+- *06h20*: às 06h40 Bessa paga as contas pelo Pix: o colégio da filha (a
+  secretária é **dona Marlúcia**), o cartão, o carro e os R$ 2.000 de Rui, com a
+  mensagem *deu*.
+- *16h00*: **Dulce**, a prima de Teresina, professora, mãe de **Caio**. Ao meio-dia e
+  vinte Regina liga para ela ("Então não manda, não, prima"); escreve o segundo
+  voto às 12h40.
+- *Ponta Porã*: parada num posto de Rio Brilhante (BR-163) às 17h41; Celina não
+  paga a água para não deixar registro. A **neta**, de oito anos, procurou Bela
+  Vista no aplicativo, onde mora o **tio Dinho**: "A ponte é de mentira, vó?"
+- *Três dias úteis*: na quarta-feira, seu Lauro vai ao Ponto Digital com os
+  papéis (inclusive um contracheque da obra do Banco Central de 1976); o bilhete
+  dele num pedaço de saco de cimento: *OBRIGADO ZULEIDE. ABÓBORA BOA.*
+- *O peso*: **Lívia**, irmã de Helena, enfermeira da UTI do Hospital
+  Universitário; desde 2031 ganha bem, largou o segundo emprego; o senhor de 81
+  anos que esperou a filha chegar de Goiânia.
+- *Aula sem registro*: a Dete foi contratada em 2032 como merendeira da escola
+  integral do município e se aposentou em 2036; o neto tem oito anos em 2037;
+  Jorge está vivo. Lúcia e Dete se chamam batendo na parede (duas batidas; três
+  quer dizer *pode vir*). Lúcia nunca comprou outro violão.
+- *Lisboa*: a mãe de Marina tem 83 anos em 2038; **dona Irene morreu em março
+  de 2038**, aos 89, com as contas pagas. Marina tem o formulário de
+  transferência do título em branco há seis anos.
+- *Faria Lima*: **Sônia**, 52, gerente da agência da Avenida dos Autonomistas, em
+  Osasco (a da mãe de Beatriz), fecha em outubro de 2038; passou no concurso do
+  magistério e vai dar aula de matemática em Carapicuíba.
+- *A véspera*: **Gil** tem catorze anos de plantão em 2039; a mãe dele morreu em
+  2037 (enterro em Planaltina); Coutinho contou a Gil, numa festa, a pergunta
+  das 05h22.
+- *O recurso*: a decisão cria o campo de série histórica no formulário de
+  recurso.
+- *A pontuação*: na coluna dos sábados, Rui escreve *não veio*.
+- *06h00*: às 05h15 Teles desce ao rancho; o cabo de avental cuja mulher pagou o
+  aluguel às 05h02 pergunta "A gente vai ter que sair?"; havia no QG dezessete
+  praças inadimplentes e quatro com ação de despejo (relatório de outubro).
+- *09h00*: às 07h30 os fiéis mandam o dízimo dos atrasados por Pix (Vanda,
+  R$ 880); às 08h00 a conta da igreja tem R$ 4.300 (tinha R$ 211); o galpão
+  devia dois meses de aluguel ao dono da serralheria.
+- *Três dias depois*: **Rosilene**, a filha de Raimunda, faz faxina em três casas
+  em Belém (às segundas, na de uma médica no Umarizal); não recebeu nada,
+  porque "não sou nada do governo".
+- *O parque*: às 02h30 Socorro passa pela ponta do mangue; **Tico** tem 71 anos,
+  apagou a carta do telefone na reunião da colônia de 2033; a vela dele tem um remendo de
+  lona azul. Restam nove jangadas.
+- *A aldeia*: Tainá mede a pressão de Iracema (16 por 10); a consulta de março
+  que ela perdeu aparece como um círculo vazio no prontuário.
+- *Os Seguidores*: Wesley é casado; à tarde pergunta no Fale com o Governo "Se
+  eu pedir o sim no púlpito, é pecado?" e recebe só o registro (protocolos sobre
+  o plebiscito respondidos a partir de 16/02/2039).

@@ -96,7 +96,7 @@ motoboy. Uma isenção de IVA-D para cadeira de rodas. Uma contestação de
 classificação na Trilha, de uma mãe que achava que o filho estava no reforço
 errado e que estava certa. Um pedido de vaga em creche. Duas multas. E um
 recurso que ele não tinha conseguido fazer, de uma moça que queria saber por que
-o pai, que estava preso em Papuda, tinha a pontuação de risco mais alta da ala,
+o pai, que estava preso na Papuda, tinha a pontuação de risco mais alta da ala,
 e ele tinha lido a fórmula três vezes e não tinha sabido explicar.
 
 ---
@@ -260,11 +260,9 @@ obra num município, querendo saber quanto era para passar na frente. E tinha
 dito quanto era, e tinha passado na frente, e tinha digitado o CNPJ.
 
 A máquina não tinha frente. Não tinha padrinho, não tinha fila que andasse
-mais rápido para quem pagava. Ele sabia disso melhor do que ninguém, porque
-tinha estado lá na noite em que a frente acabou. E ainda assim o homem estava
-ali, na pastelaria da Ceilândia, com a caminhonete prata na porta, oferecendo a
-ele o que oferecia ao deputado. Porque a máquina era igual para todo mundo, e
-as palavras não eram. E as palavras estavam com ele.
+mais rápido para quem pagava. E ainda assim o homem estava ali, na pastelaria
+da Ceilândia, com a caminhonete prata na porta, oferecendo a ele o que
+oferecia ao deputado.
 
 O balcão tinha mudado de lugar. Estava naquela mesa, debaixo de uma folha de
 caderno presa com fita adesiva, entre a geladeira de refrigerante e a

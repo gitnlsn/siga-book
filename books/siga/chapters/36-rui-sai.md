@@ -77,10 +77,11 @@ saber de uma pessoa daquele jeito era fácil, e que o difícil era o resto.
 Ele tinha ido buscar muita gente em portão de cadeia na vida. Testemunha,
 informante, parente de colega. Nunca tinha ido buscar o irmão.
 
-A última vez que viu Rui de perto, sem vidro no meio, foi numa madrugada de
-fevereiro de 2034, no Vintém, com o colete da Unidade Integrada por cima da
-camisa e uma lista impressa na mão, porque a operação ainda imprimia lista, por
-garantia. A milícia tinha caído sem um tiro. Tinha caído pelo dinheiro: as
+A última vez que tinha visto Rui foi em novembro de 2035, numa mesa de plástico
+do pátio de visita, por vinte minutos. Antes disso, todos os sábados de um ano.
+E antes de tudo, numa tarde de fevereiro de 2034, no balcão do bar, com o colete
+da Unidade Integrada por cima da camisa e uma lista impressa no bolso, porque a
+operação ainda imprimia lista, por garantia. A milícia tinha caído sem um tiro. Tinha caído pelo dinheiro: as
 contas, as maquininhas, os imóveis, os gatos de luz e de internet, os carros,
 o gás, tudo bloqueado na mesma hora, e de manhã os homens que mandavam no bairro
 não tinham como pagar nem o próprio advogado. Bessa tinha passado três meses
@@ -104,8 +105,7 @@ que tinha ganhado lá dentro.
 Rui foi o nono.
 
 Estava mais magro e de óculos. Bessa não sabia que o irmão usava óculos. O
-cabelo estava curto de um jeito que não era corte de cadeia, era corte de
-quem tinha escolhido. Na pasta azul, Bessa ia ver depois, tinha um certificado
+cabelo estava curto, de um jeito escolhido, que não parecia de cadeia. Na pasta azul, Bessa ia ver depois, tinha um certificado
 de técnico em refrigeração, um histórico de supletivo concluído, um extrato
 de pecúlio de trabalho e um papel timbrado com uma tabela de números que
 subiam e desciam mês a mês, até o último, que era o motivo de ele estar ali
@@ -176,16 +176,16 @@ Na parede onde ficava o freezer de cerveja, um cartaz do Conselho Cidadão do
 bairro: *Vote nas prioridades de 2039.*
 
 Rui ficou na calçada olhando muito tempo. Depois atravessou para a padaria da
-frente, e seu Toninho, que estava mais branco e mais gordo, largou a pá de pão
+frente, e seu Adauto, que estava mais branco e mais gordo, largou a pá de pão
 em cima do balcão.
 
 — Rui?
 
-— Bom dia, seu Toninho.
+— Bom dia, seu Adauto.
 
 — Rapaz.
 
-Seu Toninho deu a volta no balcão e abraçou Rui com farinha e tudo, e depois
+Seu Adauto deu a volta no balcão e abraçou Rui com farinha e tudo, e depois
 pegou dois pães na chapa e um café, e não quis cobrar. Rui insistiu. Tirou do
 bolso um telefone novo, ainda com o plástico na tela, que tinha vindo na pasta
 azul.
@@ -208,7 +208,7 @@ eleitoral*.
 
 — Eu sei que é a lei, Cláudio. Eu estudei lá dentro.
 
-Pagou o café pelo Pix. Seu Toninho olhou a tela da maquininha dele com um
+Pagou o café pelo Pix. Seu Adauto olhou a tela da maquininha dele com um
 respeito que tinha ficado no bairro desde 2030, quando as maquininhas
 aprenderam a dizer não.
 
@@ -241,9 +241,9 @@ Rui pôs a maquininha no colo, em cima da pasta azul.
 
 — Tá bom. Sim ou não?
 
-Bessa olhou a rua. A quadra com luz, a porta de vidro com o brasão, o bueiro
-novo com a tampa de ferro onde antes corria a água preta da Rua Sete. Seu
-Toninho varrendo a farinha da calçada. O outdoor do Desliga, lá longe, em cima
+Bessa olhou a rua. A quadra com luz, a porta de vidro com o brasão, o poste
+novo onde antes ficava o emaranhado dos gatos de luz do Edinho. Seu
+Adauto varrendo a farinha da calçada. O outdoor do Desliga, lá longe, em cima
 do viaduto, e na esquina a van com a mão aberta pintada.
 
 Não respondeu. Rui não perguntou de novo. Ficou apertando o botão verde da

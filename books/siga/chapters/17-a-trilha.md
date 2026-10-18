@@ -29,7 +29,7 @@ papel higiênico no banheiro dos professores. Fazia três semanas que ela não
 corrigia nada no papel. Carregava mesmo assim.
 
 A Escola Estadual do Tomba tinha reaberto em fevereiro, depois de onze meses de
-obra, e às seis e cinquenta da manhã de uma terça-feira de março ainda cheirava
+obra, e às seis e cinquenta da manhã de uma quinta-feira de março ainda cheirava
 a tinta. A fachada era a mesma, o mesmo muro com o nome em letras de cimento,
 mas por trás do muro havia outra escola: dois andares novos, um refeitório com
 mesas compridas onde se servia café às sete, almoço ao meio-dia e lanche às
@@ -159,7 +159,7 @@ E embaixo da nota, uma linha que não aparecia nos outros vinte e oito textos:
 Fora da competência-alvo. Texto encaminhado para Trilha de reforço: coesão
 referencial, unidade 3.*
 
-Na terça-feira, às sete e dez, Lúcia abriu o painel e viu a linha de Taís em
+Naquela quinta-feira, às sete e dez, Lúcia abriu o painel e viu a linha de Taís em
 laranja. Na tela do tablet da menina, onde deveria estar o próximo texto
 narrativo da semana, estava um exercício de pronomes: *Substitua a palavra
 repetida pelo pronome adequado*. A Trilha tinha tirado a redação da semana dela
@@ -249,5 +249,5 @@ fazia três semanas:
 
 *Muito bom. Leia em voz alta.*
 
-Depois ficou um tempo olhando a frase, com a geladeira zumbindo na cozinha, sem
-saber em que hora da semana isso cabia.
+Na cozinha, a geladeira nova zumbia. Lúcia fechou o caderno e o guardou na
+bolsa, no bolso da frente, junto da caneta.

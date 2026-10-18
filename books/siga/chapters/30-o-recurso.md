@@ -39,14 +39,18 @@ olhar para o rio.
 
 ---
 
-A multa era de onze mil e quatrocentos reais. Raimunda nunca tinha visto onze
-mil reais juntos em lugar nenhum, a não ser na tela daquele celular, e na tela
-os onze mil estavam escritos com um sinal de menos na frente. Desde setembro de
-2033, todo mês, o pagamento por serviço ambiental caía na conta, oitocentos e
-quarenta reais, e no mesmo minuto saíam duzentos e sessenta para a multa. Ela
-recebia quinhentos e oitenta pela floresta que guardava e pagava duzentos e
-sessenta pela roça que fazia, e a roça e a floresta eram a mesma terra, uma do lado
-da outra, como a mãe dela tinha ensinado, e a avó da mãe.
+A multa tinha sido de dois mil quinhentos e cinquenta e seis reais, em seis
+vezes. De setembro de 2033 a fevereiro de 2034, todo dia cinco, o pagamento por
+serviço ambiental caía na conta, novecentos e vinte reais, e no mesmo minuto
+saíam quatrocentos e vinte e seis para a multa. Ela recebia pela floresta que
+guardava e pagava pela roça que fazia, e a roça e a floresta eram a mesma
+terra, uma do lado da outra, como a mãe dela tinha ensinado, e a avó da mãe.
+
+A multa estava paga. O resto não estava. Em 2034 e em 2035 Raimunda não tinha
+aberto roça nenhuma, com medo do quadradinho vermelho, e pela primeira vez na
+vida tinha comprado farinha em Cametá, em saco, de uma mandioca que ela não
+sabia de onde vinha. A capoeira de 2028 estava pronta desde o ano anterior,
+esperando.
 
 Tinha contestado. Em 2033, no próprio celular, com a ajuda da professora da
 escola, que digitou. A resposta tinha vindo em quatro minutos: indeferido, a
@@ -61,7 +65,7 @@ máquina como antes falava com deputado.
 
 — Égua, e ele cobra quanto?
 
-— Trinta reais, vó. Quando a pessoa pode.
+— Nada, vó. A pessoa deixa vinte reais debaixo do pote de guardanapo, se pode.
 
 — E se não pode?
 
@@ -113,7 +117,7 @@ de onde a roça saía.
 
 — Quanto tempo?
 
-— Sete anos. Oito. Até ficar capoeira grossa. Aí pode voltar nela.
+— Oito anos. Dez. Até ficar capoeira grossa. Aí pode voltar nela.
 
 — E a queima?
 
@@ -156,11 +160,11 @@ num lugar e a mancha do ano anterior ficava um pouco mais escura, e a de cinco
 anos antes já era verde, e a de oito anos antes não se distinguia mais do
 resto da floresta.
 
-— Essa aqui é de 1998 — disse Josué. — Essa é da bisavó.
+— Essa aqui é de 1990 — disse Josué. — Essa é da bisavó.
 
 Raimunda chegou o rosto perto da tela.
 
-— Essa eu ajudei. Eu tinha vinte e seis anos.
+— Essa eu ajudei. Eu tinha dezoito anos.
 
 — E essa aqui, vó, de 2033. É a da multa.
 
@@ -209,7 +213,7 @@ Decisão: deferido.
 A análise da série histórica apresentada demonstra uso rotativo com
 regeneração integral. A cobertura florestal do imóvel em 2036 é igual à de
 1985, com variação inferior a 2%. O auto de infração de 20/08/2033 é anulado.
-Os valores descontados, R$ 9.360,00, serão devolvidos em 24 horas, corrigidos.
+Os valores descontados, R$ 2.556,00, serão devolvidos em 24 horas, corrigidos.
 
 Fica criada, a partir desta decisão, a categoria "roça tradicional
 registrada". Imóveis que adotem a categoria não estarão sujeitos à sanção
@@ -222,8 +226,8 @@ automática por queima, desde que:
 A categoria se aplica, a partir de hoje, a 61.402 imóveis do país com padrão
 semelhante. Os titulares serão notificados.
 
-Agradeço à requerente e ao técnico Josué Ferreira pela série histórica. Ela
-deveria ter sido pedida em 2033.
+A série histórica foi apresentada pelo técnico Josué Ferreira. O formulário de
+recurso de 2033 não tinha campo para ela. O campo foi criado hoje.
 :::
 
 Davi leu em voz alta. Leu duas vezes a parte dos sessenta e um mil, e na segunda
@@ -272,7 +276,7 @@ apagar. Josué ficou mais um minuto.
 
 Ele pensou.
 
-— Agora a Siga agradeceu.
+— Agora tem campo.
 
 Raimunda riu, o riso de quem acha graça a contragosto, e mandou ele voltar ao
 trabalho.

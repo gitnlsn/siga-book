@@ -33,7 +33,7 @@ registros de ocorrência de duas décadas e encontrado o nome dele em quase
 todas as que envolviam o Vintém. Ninguém conhecia o morro como ele. Ele tinha
 dito ao capitão que não era analista, que não sabia mexer em planilha, e o
 capitão tinha respondido que a planilha a máquina fazia, que o que eles queriam
-era alguém que soubesse onde a Dona Graça guardava os botijões.
+era alguém que soubesse onde a Dona Zélia guardava os botijões.
 
 Na tela da frente, o painel da Operação Troco. Um relógio. Uma lista.
 
@@ -156,12 +156,12 @@ de zero a cem e uma recomendação.
 
 Bessa rolou a lista sem atenção, como se rola uma lista de presença. Uma
 borracharia que recebia das vans. Um depósito de material de construção. Um
-salão de beleza que lavava dinheiro de agiotagem. A Dona Graça dos botijões, com
+salão de beleza que lavava dinheiro de agiotagem. A Dona Zélia dos botijões, com
 risco 91.
 
 No número quarenta e sete, ele parou.
 
-*Bar do Rui. Rui Bessa. MEI. Estrada do Engenho, 1.140.*
+*Bar do Rui. Rui Bessa. MEI. Rua Sete, 41.*
 *Pontuação de risco: 62.*
 *Vendas recorrentes a perfis bloqueados: 1.204 transações em 36 meses.*
 *Armazenamento presumido de mercadoria da rede (cigarros sem nota fiscal,
@@ -205,10 +205,10 @@ O rapaz olhou para a tela, depois para ele, e fez o que era certo fazer:
 Ele não passou. Desceu os nove andares pela escada, pegou o carro e foi para o
 Vintém.
 
-Chegou à uma e dez. O bar do Rui ficava na Estrada do Engenho, a duzentos metros
-da praça, uma porta de aço com toldo azul, quatro mesas de plástico na calçada,
-um balcão de fórmica e uma televisão no alto da parede, presa num suporte de
-ferro que o próprio Bessa tinha parafusado em 2019. O bar estava cheio. O dia
+Chegou à uma e dez. O bar do Rui ficava na subida do Vintém, na esquina da Rua
+Sete com a rua da caixa-d'água, uma porta de aço com toldo azul, quatro mesas
+de plástico na calçada, um balcão de fórmica e a televisão de tubo no alto da
+parede, presa num suporte de ferro que o próprio Bessa tinha parafusado em 2019. O bar estava cheio. O dia
 tinha sido de festa no morro, e não tinha sido. Ninguém sabia ainda o que era.
 
 Rui estava atrás do balcão. Tinha engordado. Tinha a cara do pai.

@@ -29,7 +29,7 @@ a pôs em cima da mesa, destampada.
 
 ---
 
-Sala 12, terceiro ano, trinta e quatro alunos. O ar-condicionado novo, que
+Sala 12, segundo ano, trinta e quatro alunos. O ar-condicionado novo, que
 funcionava. As carteiras novas, que não balançavam. Na parede do fundo, onde
 antes ficava o mural de cartolina, uma tela grande com o painel da turma:
 proficiência média, frequência, engajamento, cada coisa com uma setinha verde
@@ -67,8 +67,8 @@ Lúcia foi até a porta e fechou.
 
 — Hoje não tem módulo — ela disse. — Hoje eu vou contar uma coisa.
 
-Taís estava na terceira carteira da fila da janela. Tinha dezessete anos, o
-cabelo preso num coque alto, e a mesma cara de quando tinha doze e tinha
+Taís estava na terceira carteira da fila da janela. Tinha dezesseis anos, o
+cabelo preso num coque alto, e a mesma cara de quando tinha onze e tinha
 escrito a redação que a Trilha tirou da sala. Lúcia evitava olhar para ela
 quando falava da noite. Olhou agora.
 
@@ -85,11 +85,11 @@ E contou.
 
 Contou que acordava às cinco para pegar o ônibus das cinco e meia. Que olhou o telefone
 para ver a hora e viu o banco. Que na conta tinha quatro meses de salário, de
-uma vez, e que ela achou que era golpe de celular, desses de mensagem, e
-desligou o telefone com medo, e ligou de novo, e o dinheiro continuava lá.
+uma vez, e que ela achou que era golpe de celular, desses de mensagem, e abriu
+o aplicativo do banco para conferir, e o dinheiro estava lá.
 Que a rua inteira acendeu as luzes. Que a vizinha dela, dona Dete, saiu de
-camisola na calçada gritando o nome de Deus. Que ela, Lúcia, sentou na cama
-e chorou, e não sabia se chorava pelo dinheiro ou pelos quatro meses.
+camisola na calçada gritando o nome de Deus. Que ela, Lúcia, deixou a água do
+café secar no fogo e não ouviu.
 
 — Quatro meses sem salário? — perguntou alguém do fundo.
 
@@ -102,7 +102,7 @@ frequentava.
 
 A sala riu um pouco. Ela deixou rir.
 
-Contou da mensagem aos professores, que chegou às seis e pouco: *As aulas
+Contou da mensagem aos professores, que chegou às cinco e quarenta: *As aulas
 seguem.* Que ninguém sabia quem tinha mandado seguir. Que ela foi assim
 mesmo, sem saber se ia encontrar a escola aberta, e encontrou, e que os alunos
 que apareceram naquele dia ficaram a manhã inteira perguntando se tinha
@@ -139,7 +139,7 @@ Taís não perguntou nada até o fim. Ficou com o queixo apoiado na mão, olhand
 Lúcia, e quando a sala ficou quieta por um instante ela falou, sem levantar a
 mão, como não se fazia mais:
 
-— A senhora votou sim?
+— Em que a senhora votou?
 
 Trinta e três cabeças viraram para Taís, e depois para Lúcia. Lúcia sentiu a
 caneta vermelha em cima da mesa, destampada, secando.
@@ -155,8 +155,8 @@ sala 12 era de madeira maciça, nova, da reforma. Lúcia tomou o café da garraf
 térmica, que era a única coisa da escola que continuava ruim, e guardou a
 caneta no bolso sem tampar, e manchou o jaleco.
 
-Pensou na pergunta. Pensou que Taís tinha perguntado *votou sim* e ela tinha
-respondido *votei*, e que a frase, assim, não dizia em quê, e que ela tinha
+Pensou na pergunta. Pensou que Taís tinha perguntado *em quê* e ela tinha
+respondido *votei*, e que a frase, assim, não dizia nada, e que ela tinha
 feito isso de propósito, ou o sinal tinha feito por ela. Pensou que trinta e
 quatro alunos tinham ido para casa achando que sabiam a resposta, e que pelo
 menos dezesseis achavam uma coisa e dezoito outra, e que nenhum ia perguntar
@@ -171,13 +171,59 @@ algumas pessoas leem o salmo do dia.
 
 ---
 
+À noite ela bateu na parede-meia, duas vezes, como fazia desde 2009, e a Dete
+respondeu com três, que queria dizer *pode vir*.
+
+A Dete estava aposentada desde o ano anterior. Em 2032 tinha sido contratada
+pela escola integral do município, merendeira de carteira assinada, com o
+salário que o Programa tinha mandado pagar à linha de frente, e em quatro anos
+de cozinha grande tinha juntado o que nunca tinha juntado em vinte de
+terceirizada. O neto, que em 2030 chorava de madrugada através da parede,
+tinha agora oito anos e fazia o dever na mesa da sala, no tablet cinza, com
+fone. Jorge dormia no sofá, de boca aberta, com a novela ligada.
+
+— Tu contou da noite pros meninos — disse a Dete, servindo o café. — O neto da
+Graça me disse. Tu contou que eu saí gritando o nome de Deus.
+
+— Contei.
+
+— Eu gritei o do Jorge primeiro, Lú. Deus foi o segundo. — A Dete sentou. — E
+tu contou que pegava o ônibus das cinco e meia. Tu nunca pegou ônibus pra
+escola. Tu vai a pé desde que eu te conheço. Eu te vi passar naquele dia, de
+bolsa.
+
+Lúcia riu. Depois parou de rir.
+
+— Na minha cabeça era o ônibus.
+
+— Na tua cabeça é tua. — A Dete mexeu o café. — Tá certo. Conta do teu jeito.
+
+O neto tirou o fone de um ouvido.
+
+— Vó, a Trilha tem isso. O Dia 1. Tem vídeo, tem o Programa, tem a hora de
+tudo.
+
+— Tem eu gritando o nome do teu avô? — disse a Dete.
+
+O menino pensou, com seriedade.
+
+— Não.
+
+— Então não tem tudo — disse a Dete, e ele pôs o fone de volta.
+
+Lúcia voltou para casa pela calçada, os dez passos de sempre, e na sala, antes
+de acender a luz, olhou para o prego torto na parede, vazio desde 2030. Tinha
+tido dinheiro para comprar outro violão muitas vezes. Nunca tinha comprado.
+
+---
+
 O registro chegou na terça, às seis e dez da manhã, no tablet da professora. Não
 era uma advertência. Não tinha cor. A Siga não punia nada, nunca tinha punido
 uma professora no Tomba, e Lúcia sabia disso, e mesmo assim abriu com a boca
 seca.
 
 ::: {.registro}
-Turma 3ºA — Escola Estadual do Tomba — 05/10/2037, 14h20–15h00.
+Turma 2ºA — Escola Estadual do Tomba — 05/10/2037, 14h20–15h00.
 
 Conteúdo não calibrado. 34 alunos. Tablets em repouso durante o período.
 Engajamento estimado pelo áudio ambiente: alto. Participação oral: 21 alunos.
@@ -192,18 +238,16 @@ Sugestão: gravar o relato e incorporá-lo à Trilha como módulo opcional
 [ Autorizar ]   [ Agora não ]
 :::
 
-Lúcia leu e ficou com o dedo no ar, em cima da tela.
+Lúcia leu duas vezes, com o tablet apoiado na pia.
 
-Pensou que era um elogio. Era o maior elogio que ela tinha recebido em trinta
+Era um elogio. Era o maior elogio que ela tinha recebido em trinta
 anos de magistério, maior que a placa da Secretaria de 2019, maior que o abraço
 da mãe do aluno que passou em medicina. Um milhão e duzentos mil alunos. Ela,
 contando a camisola da dona Dete para o Brasil inteiro, calibrada.
 
-Pensou que era isso, exatamente isso, o que ela tinha pedido na proposta não
-elegível. E pensou que, se apertasse o botão, a aula de porta fechada viraria um
-módulo de porta aberta, com objetivo e exercício no fim, e que na terça-feira
-seguinte ela não ia mais ter o que contar de porta fechada, porque não ia
-existir mais porta.
+Era também, palavra por palavra, o que ela tinha pedido na proposta não
+elegível. Se apertasse, a aula de porta fechada virava um módulo de porta
+aberta, com objetivo e exercício no fim.
 
 Não apertou nenhum dos dois.
 

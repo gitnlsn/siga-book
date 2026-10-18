@@ -37,7 +37,7 @@ O barco encostou no trapiche da comunidade às nove e pouco. Do Furo Grande até
 Cametá eram duas horas de rabeta, quatro de barco de linha, e o *Deus é Fiel*
 fazia a linha de segunda e de quinta, levando açaí, farinha e gente, trazendo
 gás, arroz, óleo, remédio da farmácia, as cartas do banco que ninguém lia e o
-jornal de Belém de três dias antes, que o Zé Pequeno deixava na escola para a
+jornal de Belém de dois dias antes, que o Zé Pequeno deixava na escola para a
 professora.
 
 Desceram primeiro as encomendas e depois a notícia, que o Zé Pequeno contava
@@ -162,6 +162,57 @@ Raimunda olhou o número de novo. Às cinco da manhã de sexta ela estava de pé
 como estava todo dia às cinco, botando a água do café no fogo de lenha e
 vendo o rio clarear. Tinha ouvido o motor de uma rabeta passar longe. Não
 tinha ouvido nada cair.
+
+---
+
+Às três, antes de subir para o roçado, ela pediu o celular ao neto e ligou para
+a filha.
+
+Não era Natal. Josué olhou para ela como quem vê a avó pôr o vestido de ir à
+cidade numa segunda-feira, e não disse nada. Procurou o número, apertou e
+devolveu o aparelho, e ela segurou com as duas mãos, longe da orelha, porque
+nunca sabia onde ficava a voz.
+
+Tocou muito. Depois a voz da Rosilene, assustada:
+
+— Mãe? Morreu alguém?
+
+— Ninguém morreu, mana. Égua. Eu só liguei.
+
+Do outro lado havia barulho de rua, de ônibus, de alguém gritando preço de
+alguma coisa. A Rosilene fazia faxina em três casas em Belém e às segundas
+ficava na de uma médica no Umarizal, que tinha cachorro e piscina.
+
+— A senhora tá doente?
+
+— Tô não. Caiu o dinheiro da bolsa. Os quatro meses. Tu viu isso do governo?
+
+— Vi, mãe. Todo mundo viu. — A filha baixou a voz, como se a patroa estivesse
+perto. — A doutora aqui chorou de manhã. Disse que agora sim. Os enfermeiros do
+hospital dela receberam tudo.
+
+— E tu?
+
+— Eu o quê?
+
+— Caiu pra ti?
+
+A Rosilene riu, um riso que Raimunda não ouvia desde que a filha era moça e
+ainda morava no furo.
+
+— Pra mim cai o quê, mãe? Eu não sou nada do governo. Eu sou da doutora. —
+Uma pausa. — Ela me deu cinquenta reais a mais hoje. Disse que era pra eu
+comemorar.
+
+Raimunda ficou quieta. Pela janela via o rio, o trapiche, o lugar onde o *Deus
+é Fiel* tinha encostado de manhã.
+
+— Manda o menino pra cá no Natal — disse a filha. — Que eu quero ver ele.
+
+— Ele vai. Pois é.
+
+Desligou apertando o botão vermelho com força, como se ele fosse fugir, e
+devolveu o celular a Josué, que estava fingindo que não tinha ouvido.
 
 ---
 

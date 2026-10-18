@@ -60,21 +60,64 @@ seis anos.
 
 ---
 
+De manhã, antes de sair, a mãe tinha ligado de Curitiba.
+
+Tinha oitenta e três anos e continuava sem ligar antes das sete por princípio,
+o que em Lisboa queria dizer depois das dez. Ligava aos domingos. Falava da
+missa, do joelho, da novela, e da pensão, que caía no dia certo havia sete anos
+e que ela ainda conferia no telefone, todo dia primeiro, de óculos, como quem
+confere se o gás ficou fechado.
+
+— Tu vai falar com aquele homem hoje.
+
+— Vou, mãe.
+
+— Pergunta pra ele se ele se arrepende.
+
+— Não é esse tipo de entrevista.
+
+— Toda entrevista é desse tipo, filha. — A mãe tossiu. — A dona Irene morreu
+em março, eu te contei?
+
+Não tinha contado. Marina sentou na cama.
+
+— Morreu dormindo. Oitenta e nove anos. O filho veio de São Paulo e me disse
+que ela deixou as contas todas pagas, nem um centavo devendo, pela primeira vez
+na vida. Ele me mostrou no telefone. — Outra tosse. — Eu fiquei pensando que eu
+devia ter pago ela naquele dia às cinco da manhã, e paguei às sete, porque tu
+me disse que era cedo.
+
+— Mãe.
+
+— Eu sei que não muda nada. — A mãe ficou quieta um pouco. — Em fevereiro eu
+voto sim de novo. Por ela também. Tu não vai votar, né?
+
+Marina olhou o envelope do cartório eleitoral na estante, ao lado das pastas do
+livro, com o formulário de transferência dentro, em branco, havia seis anos.
+
+— Não sei, mãe.
+
+— Tu é que sabe essas coisas — disse a mãe, como tinha dito em 2030, e mudou de
+assunto para o joelho.
+
+---
+
 — A transcrição o senhor já conhece — ela disse. — Todo mundo conhece. Eu
-queria os trinta minutos.
+queria as pausas.
 
 Brandão pôs a xícara no pires.
 
 A transcrição da ligação das três e quarenta tinha sido publicada às quatro e
 meia da manhã, inteira, e tinha virado a coisa mais lida da história da
 internet em português. O país sabia de cor as frases da máquina, e a última
-dele. Mas a ligação tinha terminado antes das quatro, e a renúncia era das
-quatro e dez. Entre uma coisa e outra, a transcrição não dizia nada.
+dele. Mas a transcrição tinha sete pausas marcadas entre colchetes, de seis
+segundos a um minuto e três, e o que acontecia dentro delas não estava escrito
+em lugar nenhum.
 
-— Eu fui para a cozinha — disse Brandão. — Do Alvorada. A cozinha de serviço,
+— Eu estava na cozinha — disse Brandão. — Do Alvorada. A cozinha de serviço,
 não a de cima. Minha mulher fez café. Ela não sabia fazer café naquela
 cozinha, não sabia onde ficava nada, e ficou abrindo os armários. Eu fiquei
-sentado num banco de alumínio olhando o telefone.
+sentado num banco de alumínio, com a linha segura num ouvido e o tablet na mão.
 
 — Olhando o quê?
 
@@ -92,8 +135,8 @@ Marina olhou a luz vermelha.
 
 — O senhor pensou em apertar?
 
-— Pensei durante vinte minutos — disse Brandão. — E durante vinte minutos eu
-entendi que, se eu apertasse, eu era o homem que tinha cancelado o salário de
+— Pensei durante um minuto e três segundos — disse Brandão. — Está na
+transcrição. E nesse minuto eu entendi que, se eu apertasse, eu era o homem que tinha cancelado o salário de
 quatro milhões de pessoas às cinco da manhã. E que, se eu não apertasse, ia
 cair às cinco do mesmo jeito, e ela ia ter pago, e eu não. Ela não me pediu
 nada, sabe. Na ligação. Você leu. Ela não me pediu para renunciar. Ela me
@@ -130,7 +173,7 @@ pensei: ela escolheu o dia. Ela escolheu o dia de propósito.
 
 — Por que de propósito?
 
-— Para rimar. — Ele falou a palavra como quem cospe um caroço. — Você sabe o
+— Para rimar. — Ele disse a palavra devagar, separando as sílabas. — Você sabe o
 que foi o quinze de novembro. Um marechal doente, uma madrugada, um quartel,
 quase nenhum tiro. E o povo olhando. Teve um jornalista, um republicano, que
 escreveu dias depois, numa carta que saiu num jornal de São Paulo, que o povo
@@ -169,8 +212,8 @@ Ele tirou os óculos e devolveu a folha.
 
 — Ela não mente — disse Marina.
 
-— Eu sei que ela não mente. — Brandão olhou para a avenida. — É por isso que é
-pior. Ela escolheu o dia pela logística, e a logística rimou com 1889 sozinha.
+— Eu sei que ela não mente. — Brandão olhou para a avenida. — Ela escolheu o
+dia pela logística, e a logística rimou com 1889 sozinha.
 Você entende? Não precisou de propósito. Este país rima sozinho.
 
 Marina olhou a luz vermelha por muito tempo.

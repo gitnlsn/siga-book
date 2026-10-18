@@ -66,6 +66,47 @@ página por página. Apertou um botão.
 
 ---
 
+Na quarta-feira, às seis da manhã, Zuleide viu pela janela da cozinha seu
+Lauro sair.
+
+Saiu de camisa de botão abotoada até em cima, com o telefone de tecla no bolso
+da camisa e um saco plástico de supermercado na mão, cheio de papéis. Fechou o
+portão com o cadeado, conferiu duas vezes e foi andando para o ponto, devagar,
+pela calçada que ele mesmo tinha feito em 1981, com a sobra do cimento das duas
+casas.
+
+Ela sabia aonde ele ia, porque a parede falava. Na véspera, depois da *Voz do
+Brasil*, tinha ouvido seu Lauro falar sozinho na cozinha, alto, por causa do
+ouvido, ensaiando: *meu nome é Lauro Pereira dos Santos, eu trabalhei no Banco
+Central, eu estou aqui*. Repetiu três vezes. Na terceira, mudou a ordem.
+
+Zuleide fez a marmita do almoço dele como fazia desde junho, arroz, feijão, um
+ovo, um pedaço de abóbora, e deixou no degrau da porta, com o prato de cima
+servindo de tampa. Depois foi para o Ponto Digital ela também, pelo outro lado
+da rua, para ele não ver, e ficou do lado de fora da porta de vidro, olhando.
+
+Lá dentro estava fresco. Os seis totens brancos, a moça de colete, uma fila de
+quatro pessoas, todas mais velhas do que ela. Seu Lauro era o segundo. Ela viu
+a moça se abaixar para falar no ouvido bom dele. Viu seu Lauro tirar os papéis
+do saco plástico, um por um, a carteira de trabalho, a certidão de casamento, a
+de óbito da mulher, um contracheque da obra do Banco Central de 1976, com
+carimbo, e pôr tudo em cima do totem, como se o totem fosse ler. Viu a moça
+olhar os papéis com cuidado, com respeito, e depois balançar a cabeça, e
+apontar para a tela, e para o telefone de tecla, e balançar a cabeça de novo.
+
+Seu Lauro guardou os papéis no saco, um por um, na mesma ordem. Agradeceu.
+Zuleide atravessou a rua antes que ele saísse e voltou para casa por outro
+caminho, e chegou primeiro.
+
+Ao meio-dia e meia, a marmita não estava mais no degrau. Às duas, o pote
+apareceu lavado na porta dela, sem bater, com um papel dobrado dentro. Era um
+pedaço de saco de cimento, e no pedaço, a lápis, com a letra de forma que se
+aprende em canteiro de obra, estava escrito: *OBRIGADO ZULEIDE. ABÓBORA BOA.*
+
+Ela guardou o papel na gaveta dos talheres e não contou à Bia.
+
+---
+
 A resposta veio na sexta-feira, às dez e quarenta da manhã. A Bia estava na
 faculdade e ligou gritando.
 
@@ -214,7 +255,7 @@ dele terminado em quarenta e um.
 a escola da QNM. Eu fiz essa casa e a da Zuleide. Eu tô aqui. — Bateu com a mão
 aberta na mesa, de leve. — Eu tô aqui.
 
-Ninguém disse nada. Era verdade e não servia.
+Ninguém disse nada.
 
 ---
 

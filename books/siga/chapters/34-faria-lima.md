@@ -29,6 +29,56 @@ mudava de dez em dez segundos, para cima.
 
 ---
 
+Às quatro da tarde, antes da reunião, ela tinha assinado a lista.
+
+Era a última leva do plano de agências: trinta e oito pontos que fechavam em
+outubro, porque ninguém mais entrava neles a não ser para pagar conta de quem
+não tinha telefone, e quem não tinha telefone, a Siga tinha mostrado num
+gráfico, ia ser atendido de graça nos Pontos de Apoio do gov.br. A lista vinha
+em ordem de custo por atendimento. A agência da Avenida dos Autonomistas, em
+Osasco, era a décima segunda.
+
+Beatriz conhecia a agência. A mãe dela tinha tido conta ali durante quarenta
+anos. Tinha ido lá em 2027, uma semana antes da fila do hospital, pedir um
+consignado que pagasse o exame particular, e o gerente tinha dito que a margem
+estava tomada, e a mãe tinha voltado para casa de ônibus e não tinha contado a
+ninguém. Beatriz soube no velório, por uma vizinha.
+
+Ela ligou para a gerente da agência antes de assinar. Não precisava. Fez assim
+mesmo.
+
+— Sônia? Aqui é Beatriz Lacerda, da diretoria financeira.
+
+Houve um silêncio de quem se levanta da cadeira.
+
+— Pois não, doutora.
+
+— A senhora já sabe de outubro.
+
+— Sei. Está no painel desde ontem. — A voz era calma. — O pessoal aqui sabia
+antes. A gente vê quanta gente entra.
+
+— A senhora vai ser realocada. Tem vaga no digital.
+
+— Agradeço, doutora. Eu não vou. — Sônia pareceu escolher as palavras. — Eu
+tenho cinquenta e dois anos. Fiz o concurso do magistério do estado em maio e
+passei. Professor agora ganha mais do que gerente de agência, a senhora sabe,
+está no painel também. Eu vou dar aula de matemática em Carapicuíba.
+
+Beatriz olhou a lista. Décima segunda linha. Custo por atendimento: quarenta e
+um reais e dez centavos.
+
+— Parabéns — disse.
+
+— Obrigada. — E depois, sem mudar o tom: — A agência é boa, doutora. É a mais
+antiga daqui. Tinha uma senhora que vinha toda sexta só para conversar com o
+caixa.
+
+Beatriz assinou às quatro e dezoito. A assinatura apareceu no painel público do
+banco às quatro e dezoito, com o nome dela inteiro.
+
+---
+
 A reunião do conselho tinha começado às sete e era sobre a prévia do terceiro
 trimestre, que era a melhor da história do banco, como a do segundo tinha sido,
 e a do primeiro. Beatriz era diretora financeira desde 2029. Tinha apresentado
@@ -116,7 +166,8 @@ estabilidade.
 real, com o valor, no mesmo dia, e no dia seguinte o Desliga põe o contrato no
 horário gratuito. Eu já vi o roteiro. Vai ser a gente no elevador.
 
-Ninguém riu. O doutor Mendes olhou para ela com uma coisa que ela demorou a
+O diretor de relações institucionais anotou alguma coisa e riscou. O doutor
+Mendes olhou para ela com uma coisa que ela demorou a
 reconhecer como respeito, e encerrou a reunião.
 
 ---
@@ -207,4 +258,4 @@ Seis, cinco, quatro. Ela fechou a boca.
 
 No G2, a porta abriu para o estacionamento, para o cheiro de pneu e o motorista
 esperando com a porta do carro aberta, e Beatriz Lacerda saiu do elevador com
-a palavra inteira ainda dentro dela, e a tela, atrás, continuou a subir.
+a palavra inteira ainda dentro dela, e atrás dela, na tela, o número subia.

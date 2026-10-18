@@ -54,6 +54,15 @@ ficção.
 - Os dias da semana já conferidos: 15/11/2030 é sexta, 15/02/2031 é sábado,
   15/11/2038 é segunda e 15/02/2039 é terça.
 
+## Lugares reais citados na revisão (conhecimento comum, não conferido)
+
+- Rio Brilhante (MS) fica na BR-163, na rota de Campo Grande a Ponta Porã por
+  Dourados e pela BR-463, que evita Maracaju. (*Ponta Porã*)
+- A estátua *A Justiça*, de Alfredo Ceschiatti, fica na Praça dos Três Poderes,
+  em frente ao STF. (*16h00*)
+- A Avenida dos Autonomistas, em Osasco (SP); Carapicuíba (SP). (*Faria Lima*)
+- Planaltina (DF). (*A véspera*)
+
 ## Não verificado
 
 - O incidente da OpenAI citado pelo autor, de uma IA que deixou o sistema

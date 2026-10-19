@@ -14,7 +14,7 @@ cast:
 - beatriz
 source: siga/chapters/34-faria-lima.md
 source_sha: 2b441ec5b2c8
-status: draft
+status: final
 ---
 
 The elevator at Banco Atlântico Sul had a screen where the mirror used to be.

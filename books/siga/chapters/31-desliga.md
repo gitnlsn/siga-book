@@ -15,7 +15,7 @@ pays:
 - o-anexo-iii
 cast:
 - italo
-status: draft
+status: final
 ---
 Às duas da manhã a erva já tinha lavado fazia uma hora, e Ítalo continuava
 enchendo a cuia. A água da térmica estava morna, o mate não tinha mais gosto

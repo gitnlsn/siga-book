@@ -11,7 +11,7 @@ threads:
 - o-programa
 cast:
 - siga
-status: draft
+status: final
 ---
 ::: {.registro}
 DIÁRIO OFICIAL DA UNIÃO — SEÇÃO 1 — Nº 41

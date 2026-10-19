@@ -15,7 +15,7 @@ cast:
 - siga
 source: siga/chapters/13-resultado.md
 source_sha: 42e646d04f2f
-status: draft
+status: final
 ---
 
 ::: {.registro}

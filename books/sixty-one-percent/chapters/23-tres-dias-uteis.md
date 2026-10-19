@@ -17,7 +17,7 @@ cast:
 - seu-lauro
 source: siga/chapters/23-tres-dias-uteis.md
 source_sha: b9bb8566d46e
-status: draft
+status: final
 ---
 
 Zuleide's house shared a wall with Seu Lauro's, and at seven in the evening,

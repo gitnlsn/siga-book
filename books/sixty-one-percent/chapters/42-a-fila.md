@@ -17,7 +17,7 @@ cast:
 - lucia
 source: siga/chapters/42-a-fila.md
 source_sha: 112cdf037175
-status: draft
+status: final
 ---
 
 Polling station 214 was in room 12, and Taís knew, before she entered the

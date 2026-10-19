@@ -14,7 +14,7 @@ pays:
 - a-lista
 cast:
 - celina
-status: draft
+status: final
 ---
 O táxi de Campo Grande cheirava a pinho e a cigarro escondido, e o rádio estava
 numa AM de Dourados que, desde as cinco da tarde, só fazia uma coisa: ler

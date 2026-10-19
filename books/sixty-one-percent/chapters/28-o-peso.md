@@ -15,7 +15,7 @@ cast:
 - helena
 source: siga/chapters/28-o-peso.md
 source_sha: 0cbf94768132
-status: draft
+status: final
 ---
 
 The impact assessment room was on the third floor of the Serpro building,

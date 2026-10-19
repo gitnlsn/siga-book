@@ -14,7 +14,7 @@ cast:
 - rui
 source: siga/chapters/36-rui-sai.md
 source_sha: 48a9417ba505
-status: draft
+status: final
 ---
 
 The gate of the Japeri Prison Unit opened at seven, and by six forty there were

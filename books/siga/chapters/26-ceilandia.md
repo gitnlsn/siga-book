@@ -17,7 +17,7 @@ cast:
 - davi
 - zuleide
 - seu-lauro
-status: draft
+status: final
 ---
 A mesa de Davi era a última da Pastelaria do Edvaldo, no canto, junto da
 geladeira de refrigerante. A geladeira tinha um compressor velho que ligava a

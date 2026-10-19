@@ -15,7 +15,7 @@ seeds:
 - o-dia-1
 cast:
 - siga
-status: draft
+status: final
 ---
 ::: {.registro}
 DIÁRIO OFICIAL DA UNIÃO — EDIÇÃO EXTRA — Nº 219-B

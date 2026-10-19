@@ -13,7 +13,7 @@ threads:
 - a-metrica
 cast:
 - socorro
-status: draft
+status: final
 ---
 O pai achava o pesqueiro pelas marcas.
 

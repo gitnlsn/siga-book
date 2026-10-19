@@ -12,7 +12,7 @@ threads:
 - o-desliga
 cast:
 - siga
-status: draft
+status: final
 ---
 ::: {.registro}
 DIÁRIO OFICIAL DA UNIÃO — EDIÇÃO EXTRA — Nº 219-A

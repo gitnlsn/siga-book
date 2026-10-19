@@ -13,7 +13,7 @@ threads:
 cast:
 - siga
 - lucia
-status: draft
+status: final
 ---
 ::: {.registro}
 CONSELHO CIDADÃO — MUNICÍPIO DE FEIRA DE SANTANA (BA)

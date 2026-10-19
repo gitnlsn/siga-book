@@ -18,7 +18,7 @@ pays:
 cast:
 - lucia
 - tais
-status: draft
+status: final
 ---
 Lúcia ainda carregava a caneta vermelha.
 

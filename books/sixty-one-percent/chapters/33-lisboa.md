@@ -17,7 +17,7 @@ cast:
 - otavio-rangel
 source: siga/chapters/33-lisboa.md
 source_sha: bab99746b373
-status: draft
+status: final
 ---
 
 The recorder's light was red and small, the size of a lentil, and Marina had a

@@ -13,7 +13,7 @@ cast:
 - siga
 source: siga/chapters/15-ato-normativo-no-7.md
 source_sha: f74d97e6d67a
-status: draft
+status: final
 ---
 
 ::: {.registro}

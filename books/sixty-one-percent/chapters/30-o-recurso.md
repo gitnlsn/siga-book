@@ -18,7 +18,7 @@ cast:
 - davi
 source: siga/chapters/30-o-recurso.md
 source_sha: 0818a68c9851
-status: draft
+status: final
 ---
 
 The tipiti hung from the post of the flour house, full of the week's cassava

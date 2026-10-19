@@ -15,7 +15,7 @@ seeds:
 cast:
 - zuleide
 - seu-lauro
-status: draft
+status: final
 ---
 A casa de Zuleide dividia a parede com a de seu Lauro, e às sete da noite, todo
 dia, a parede falava.

@@ -16,7 +16,7 @@ seeds:
 cast:
 - raimunda
 - josue
-status: draft
+status: final
 ---
 O *Deus é Fiel* apitou duas vezes na boca do furo, como apitava toda segunda,
 e Raimunda Ferreira soube pelo apito, antes de ver o barco, que ele vinha cheio

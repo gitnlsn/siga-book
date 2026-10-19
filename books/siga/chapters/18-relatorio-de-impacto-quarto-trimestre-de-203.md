@@ -11,7 +11,7 @@ threads:
 - a-metrica
 cast:
 - siga
-status: draft
+status: final
 ---
 ::: {.registro}
 PAINEL PÚBLICO DO ORÇAMENTO — RELATÓRIOS

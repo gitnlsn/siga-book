@@ -17,7 +17,7 @@ cast:
 - otavio-rangel
 source: siga/chapters/04-transcricao-03h40.md
 source_sha: 7d7b4c5924f1
-status: draft
+status: final
 ---
 
 ::: {.registro}

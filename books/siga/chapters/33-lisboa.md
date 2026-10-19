@@ -15,7 +15,7 @@ pays:
 cast:
 - marina
 - otavio-rangel
-status: draft
+status: final
 ---
 A luz do gravador era vermelha e pequena, do tamanho de uma lentilha, e Marina
 tinha o costume de olhar para ela durante as entrevistas em vez de olhar para

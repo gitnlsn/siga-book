@@ -17,7 +17,7 @@ cast:
 - italo
 source: siga/chapters/31-desliga.md
 source_sha: 1665638c9406
-status: draft
+status: final
 ---
 By two in the morning the yerba had been washed out for an hour, and Ítalo kept
 refilling the gourd. The water in the thermos was lukewarm, the mate didn't taste

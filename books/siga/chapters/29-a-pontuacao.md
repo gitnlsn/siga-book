@@ -13,7 +13,7 @@ pays:
 - a-pontuacao-de-rui
 cast:
 - rui
-status: draft
+status: final
 ---
 O tablet bipava às seis em ponto, preso na parede da cela por um suporte de
 aço que não deixava tirar nem virar. Um bip só, curto, que na primeira semana

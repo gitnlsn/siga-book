@@ -14,7 +14,7 @@ pays:
 - o-desligamento
 cast:
 - helena
-status: draft
+status: final
 ---
 Tinha saído de casa às nove e meia e dado a volta pela Esplanada sem
 precisar, porque o caminho mais curto até o Serpro não passava por lá.

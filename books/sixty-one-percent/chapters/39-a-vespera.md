@@ -16,7 +16,7 @@ cast:
 - helena
 source: siga/chapters/39-a-vespera.md
 source_sha: 844421d1a51b
-status: draft
+status: final
 ---
 
 She had left home at nine thirty and gone around by the Esplanada without

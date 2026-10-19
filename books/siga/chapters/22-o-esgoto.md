@@ -16,7 +16,7 @@ pays:
 cast:
 - wesley
 - irma-cida
-status: draft
+status: final
 ---
 O cheiro tinha chegado antes dele.
 

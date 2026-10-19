@@ -19,7 +19,7 @@ cast:
 - seu-lauro
 source: siga/chapters/26-ceilandia.md
 source_sha: 8717aeb6f70b
-status: draft
+status: final
 ---
 
 Davi's table was the last one in the Pastelaria do Edvaldo, in the corner, by

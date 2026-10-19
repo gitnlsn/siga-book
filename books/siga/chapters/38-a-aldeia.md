@@ -12,7 +12,7 @@ threads:
 - o-plebiscito
 cast:
 - iracema
-status: draft
+status: final
 ---
 O rio amanheceu verde. Iracema desceu até a beira antes de todo mundo, como
 fazia desde menina, e encheu a cuia e olhou contra a luz. Verde de rio, não

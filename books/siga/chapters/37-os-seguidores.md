@@ -13,7 +13,7 @@ threads:
 cast:
 - wesley
 - irma-cida
-status: draft
+status: final
 ---
 O templo novo dos Seguidores tinha sido erguido em cima do antigo campo de
 várzea do Jardim Ângela, e de noite, de cima do morro, parecia uma caixa de luz

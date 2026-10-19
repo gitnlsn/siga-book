@@ -14,7 +14,7 @@ cast:
 - siga
 source: siga/chapters/35-convocacao.md
 source_sha: 16c473efd59a
-status: draft
+status: final
 ---
 
 ::: {.registro}

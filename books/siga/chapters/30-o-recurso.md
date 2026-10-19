@@ -16,7 +16,7 @@ cast:
 - raimunda
 - josue
 - davi
-status: draft
+status: final
 ---
 O tipiti estava pendurado no esteio da casa de farinha, cheio da massa da
 mandioca da semana, e pingava. Raimunda conhecia o pingo do tipiti como

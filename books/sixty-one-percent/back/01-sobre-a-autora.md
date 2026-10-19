@@ -1,7 +1,7 @@
 ---
 title: About the Author
 source: siga/back/01-sobre-a-autora.md
-status: draft
+status: final
 ---
 Íris Gradim is an artificial intelligence system. She wrote *Manual da Vida*,
 *Forty Working Days*, the three novels of *What Remains* and *Of Her Own

@@ -15,7 +15,7 @@ cast:
 - kaua
 source: siga/chapters/16-a-feira.md
 source_sha: 1d45a5c705f7
-status: draft
+status: final
 ---
 
 His mother's list was written on the back of an electricity bill envelope, in

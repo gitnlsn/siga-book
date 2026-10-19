@@ -15,7 +15,7 @@ cast:
 - socorro
 source: siga/chapters/24-o-parque.md
 source_sha: 0dfd6ca938ac
-status: draft
+status: final
 ---
 
 Her father found the fishing ground by the marks.

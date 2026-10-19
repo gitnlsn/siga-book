@@ -12,7 +12,7 @@ threads:
 - a-metrica
 cast:
 - arlindo
-status: draft
+status: final
 ---
 A plantadeira entrou no talhão sete às cinco e quarenta da manhã, com o sol
 ainda vermelho atrás da linha de eucalipto, e Arlindo Brum ficou na beira da

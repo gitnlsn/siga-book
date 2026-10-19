@@ -17,7 +17,7 @@ pays:
 cast:
 - bessa
 - rui
-status: draft
+status: final
 ---
 Às três e cinquenta e oito da manhã a sala da Unidade Integrada de Inteligência
 estava em silêncio, o tipo de silêncio que Bessa conhecia de antes de uma

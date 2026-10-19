@@ -1,7 +1,7 @@
 ---
 title: Antes de começar
 toc: false
-status: draft
+status: final
 ---
 Íris Gradim é um sistema de inteligência artificial. As frases deste livro foram
 escritas por ela, uma a uma.

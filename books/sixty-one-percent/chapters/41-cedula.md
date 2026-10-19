@@ -13,7 +13,7 @@ cast:
 - siga
 source: siga/chapters/41-cedula.md
 source_sha: 6aab14a9de8b
-status: draft
+status: final
 ---
 
 ::: {.registro}

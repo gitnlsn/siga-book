@@ -14,7 +14,7 @@ cast:
 - iracema
 source: siga/chapters/38-a-aldeia.md
 source_sha: 712fc5dcf0f8
-status: draft
+status: final
 ---
 
 The river woke up green. Iracema went down to the bank before anyone else, as

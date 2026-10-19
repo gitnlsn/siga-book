@@ -17,7 +17,7 @@ cast:
 - siga
 source: siga/chapters/01-programa-de-governo.md
 source_sha: bccc3fd1120d
-status: draft
+status: final
 ---
 
 ::: {.registro}

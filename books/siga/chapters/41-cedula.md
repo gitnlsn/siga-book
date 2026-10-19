@@ -11,7 +11,7 @@ threads:
 - o-plebiscito
 cast:
 - siga
-status: draft
+status: final
 ---
 ::: {.registro}
 JUSTIÇA ELEITORAL — TRIBUNAL SUPERIOR ELEITORAL

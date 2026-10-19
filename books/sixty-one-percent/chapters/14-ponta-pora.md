@@ -16,7 +16,7 @@ cast:
 - celina
 source: siga/chapters/14-ponta-pora.md
 source_sha: 12a43687b7de
-status: draft
+status: final
 ---
 The taxi from Campo Grande smelled of pine and hidden cigarettes, and the radio
 was on an AM station out of Dourados that, since five in the afternoon, had done

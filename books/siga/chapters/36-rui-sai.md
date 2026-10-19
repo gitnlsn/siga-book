@@ -12,7 +12,7 @@ threads:
 cast:
 - bessa
 - rui
-status: draft
+status: final
 ---
 O portão da Unidade Prisional de Japeri abria às sete, e às seis e quarenta já
 havia gente encostada no muro, do lado da sombra. Era dia de São Sebastião,

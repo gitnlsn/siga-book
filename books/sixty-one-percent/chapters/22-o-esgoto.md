@@ -18,7 +18,7 @@ cast:
 - irma-cida
 source: siga/chapters/22-o-esgoto.md
 source_sha: 175cf6bfdb30
-status: draft
+status: final
 ---
 The smell had gotten there before him.
 

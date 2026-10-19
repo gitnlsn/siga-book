@@ -12,7 +12,7 @@ threads:
 - o-plebiscito
 cast:
 - beatriz
-status: draft
+status: final
 ---
 O elevador do Banco Atlântico Sul tinha uma tela no lugar do espelho. Até 2031
 tinha sido espelho, um espelho de verdade, com moldura de aço escovado, em que

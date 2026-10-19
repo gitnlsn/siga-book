@@ -15,7 +15,7 @@ cast:
 - irma-cida
 source: siga/chapters/37-os-seguidores.md
 source_sha: 04934c569deb
-status: draft
+status: final
 ---
 
 The Followers' new temple had been built on top of the old dirt soccer field in

@@ -14,7 +14,7 @@ threads:
 cast:
 - raimunda
 - josue
-status: draft
+status: final
 ---
 O dinheiro caía no dia cinco.
 

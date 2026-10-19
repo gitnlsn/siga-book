@@ -16,7 +16,7 @@ cast:
 - josue
 source: siga/chapters/19-a-coivara.md
 source_sha: f76eb764a767
-status: draft
+status: final
 ---
 
 The money came on the fifth.

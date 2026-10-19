@@ -20,7 +20,7 @@ cast:
 - tais
 source: siga/chapters/17-a-trilha.md
 source_sha: c8b04393e0d9
-status: draft
+status: final
 ---
 
 Lúcia still carried the red pen.

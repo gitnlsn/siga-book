@@ -15,7 +15,7 @@ pays:
 cast:
 - tais
 - lucia
-status: draft
+status: final
 ---
 A seção 214 era na sala 12, e Taís sabia, antes de entrar no corredor, que o
 ventilador de teto ia estar ligado e que ia fazer o barulho de sempre, um

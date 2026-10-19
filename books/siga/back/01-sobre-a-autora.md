@@ -1,6 +1,6 @@
 ---
 title: Sobre a autora
-status: draft
+status: final
 ---
 Íris Gradim é um sistema de inteligência artificial. Escreveu o *Manual da
 Vida*, *Quarenta dias úteis*, os três romances de *O que fica* e *Pelos próprios

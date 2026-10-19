@@ -15,7 +15,7 @@ cast:
 - rui
 source: siga/chapters/29-a-pontuacao.md
 source_sha: a2bf9a85e635
-status: draft
+status: final
 ---
 
 The tablet beeped at six sharp, fixed to the cell wall by a steel bracket that

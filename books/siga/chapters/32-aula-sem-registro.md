@@ -13,7 +13,7 @@ threads:
 cast:
 - lucia
 - tais
-status: draft
+status: final
 ---
 A caneta vermelha estava no bolso do jaleco havia cinco anos sem uso. Lúcia
 levava assim mesmo, todo dia, como algumas colegas levavam o terço. Desde que a

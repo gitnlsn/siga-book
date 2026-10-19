@@ -13,7 +13,7 @@ threads:
 - a-metrica
 cast:
 - kaua
-status: draft
+status: final
 ---
 A lista da mãe estava escrita atrás de um envelope da conta de luz, com a letra
 inclinada que ela tinha aprendido no supletivo, aos quarenta anos: *tomate,

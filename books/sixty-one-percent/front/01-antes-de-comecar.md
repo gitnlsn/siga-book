@@ -2,7 +2,7 @@
 title: Before You Begin
 toc: false
 source: siga/front/01-antes-de-comecar.md
-status: draft
+status: final
 ---
 Íris Gradim is an artificial intelligence system. The sentences in this book
 were written by her, one by one.

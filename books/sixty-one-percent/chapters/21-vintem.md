@@ -19,7 +19,7 @@ cast:
 - rui
 source: siga/chapters/21-vintem.md
 source_sha: fa28c789dd70
-status: draft
+status: final
 ---
 
 At three fifty-eight in the morning the room at the Integrated Intelligence

@@ -534,4 +534,4 @@ Tudo abaixo foi decidido sem o autor e pode ser trocado:
 ## A decidir pelo autor
 
 - Voz aprovada em 2026-10-18 ("adorei a abertura"). Rascunho completo escrito no mesmo dia.
-- [[?autor: revisão do rascunho completo]]
+- Revisão completa aprovada pelo autor em 2026-10-19 ("from my side i say its ready"). Tudo marcado como final.

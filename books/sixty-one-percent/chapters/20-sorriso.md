@@ -14,7 +14,7 @@ cast:
 - arlindo
 source: siga/chapters/20-sorriso.md
 source_sha: 8c7815ef34b3
-status: draft
+status: final
 ---
 
 The planter went into Field Seven at five forty in the morning, with the sun

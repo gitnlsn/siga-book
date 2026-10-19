@@ -13,7 +13,7 @@ pays:
 - o-primeiro-sim
 cast:
 - siga
-status: draft
+status: final
 ---
 ::: {.registro}
 NOTA DA SIGA SOBRE O RESULTADO DO PLEBISCITO

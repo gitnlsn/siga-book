@@ -13,7 +13,7 @@ threads:
 - o-desliga
 cast:
 - helena
-status: draft
+status: final
 ---
 A sala de avaliação de impacto ficava no terceiro andar do prédio do Serpro,
 virada para o estacionamento, e tinha um quadro branco que ninguém apagava

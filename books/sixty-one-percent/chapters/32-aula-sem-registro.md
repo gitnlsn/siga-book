@@ -15,7 +15,7 @@ cast:
 - tais
 source: siga/chapters/32-aula-sem-registro.md
 source_sha: 5b921b34d212
-status: draft
+status: final
 ---
 
 The red pen had been in the pocket of her lab coat for five years without being

@@ -15,7 +15,7 @@ cast:
 - lucia
 source: siga/chapters/27-ata-do-conselho-cidadao-de-feira-de-santana.md
 source_sha: 3b497ad111e1
-status: draft
+status: final
 ---
 
 ::: {.registro}

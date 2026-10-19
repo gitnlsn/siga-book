@@ -11,7 +11,7 @@ threads:
 - o-plebiscito
 cast:
 - teles
-status: draft
+status: final
 ---
 Às cinco e meia o general Afonso Teles acordou sem despertador, como acordava
 havia quarenta e oito anos, e antes de pôr os pés no chão já sabia que dia era.

@@ -15,7 +15,7 @@ seeds:
 cast:
 - siga
 - otavio-rangel
-status: draft
+status: final
 ---
 ::: {.registro}
 PRESIDÊNCIA DA REPÚBLICA — TRANSCRIÇÃO INTEGRAL

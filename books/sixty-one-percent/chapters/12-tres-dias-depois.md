@@ -18,7 +18,7 @@ cast:
 - josue
 source: siga/chapters/12-tres-dias-depois.md
 source_sha: 041e693081d3
-status: draft
+status: final
 ---
 
 The *Deus é Fiel* blew its whistle twice at the mouth of the channel, the way it

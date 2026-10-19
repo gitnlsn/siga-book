@@ -13,7 +13,7 @@ cast:
 - teles
 source: siga/chapters/40-o-general-vota.md
 source_sha: 0d18a6a3f5f1
-status: draft
+status: final
 ---
 
 At five thirty General Afonso Teles woke without an alarm, as he had for

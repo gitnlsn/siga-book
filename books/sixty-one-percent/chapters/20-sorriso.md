@@ -110,7 +110,7 @@ standing brush took out of the air, measured by satellite, every month. It paid
 more for the brush that came back than for what was already there, because what
 came back took out more. It paid a premium for soy that left the farm tracked,
 satellite to satellite, all the way to the port at Santarém, because buyers in
-Europe and China paid more for it now. And it paid a bonus for cutting
+Europe and China paid more for it now. And it paid a bonus for reducing
 fertilizer, which precision farming had cut by twenty-two percent.
 
 Added up, the year's carbon would come to more than the margin on the soy.
@@ -136,7 +136,7 @@ On the third page of the agribusiness portal there was a story he almost
 skipped. *Riverside families in Pará contest fines for traditional fields.* A
 photo of an older woman in a printed dress, on a wooden pier, with a brown river
 behind her, and the caption saying she had been fined for burning one hectare of
-secondary growth to plant manioc, as her family had done for generations. Her
+second growth to plant cassava, as her family had done for generations. Her
 name didn't appear. The story quoted the January Impact Report, *three thousand
 one hundred and twelve notices on subsistence plots*, and said the
 classification was under review.
@@ -191,11 +191,11 @@ was a joke his classmates made at school.
 
 Arlindo didn't laugh.
 
-"Pedro. You ever seen a riverside family's manioc field?"
+"Pedro. You ever seen a riverside family's cassava field?"
 
 "What?"
 
-"A field. Burning off the brush. In Pará."
+"A field. Burning off second growth. In Pará."
 
 "I've seen it in class. Why?"
 

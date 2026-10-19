@@ -31,8 +31,8 @@ grandfather had found the Pedra do Velho that way, and his father before him.
 
 At three forty in the morning on a Saturday in September, Socorro was standing
 on the aft deck of the *Mar Aberto IV*, an eighteen-meter aluminum-hulled support
-boat, in an orange life vest, a white hard hat, with a waterproof clipboard and
-a headlamp, looking at the coast. You couldn't see the church tower. You
+boat, in an orange life vest and a white hard hat, with a waterproof clipboard
+and a headlamp, looking at the coast. You couldn't see the church tower. You
 couldn't see the cashew tree. In front of her, as far as the eye could reach,
 there were red lights.
 

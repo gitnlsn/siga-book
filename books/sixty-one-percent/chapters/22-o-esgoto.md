@@ -20,7 +20,7 @@ source: siga/chapters/22-o-esgoto.md
 source_sha: 175cf6bfdb30
 status: draft
 ---
-The smell had got there before him.
+The smell had gotten there before him.
 
 When Wesley Ramos opened the Igreja Pentecostal Fonte Viva, in 1998, in a shed
 rented from a metal shop on the street below in Jardim Ângela, the creek already
@@ -166,7 +166,7 @@ He had taken by the right hand whoever was at hand.
 He hadn't decided where he was going. He heard his own voice getting there.
 
 "Twenty-six years I preached here with the smell of that creek," he said, and
-pointed behind him, at the wall, at the wall outside, at the water running out
+pointed behind him, at the wall, at the yard wall, at the water running out
 there without a smell. "And twenty-six years I asked God to take that smell
 away. And God did not take it away by my hand. Not by the hand of the
 councilman, or the deputy, or the mayor. He took it away by a hand I called the

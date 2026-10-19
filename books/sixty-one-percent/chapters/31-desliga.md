@@ -119,7 +119,7 @@ And then, hour by hour:
 *Hour 0. Proclamation of the result by the Superior Electoral Court.
 Hour 1. Publication, in the Official Gazette, of the act of cessation.
 Hour 2. Assumption of the Presidency of the Republic, on an interim basis, by
-the President of the Supreme Court.
+the Chief Justice of the Supreme Court.
 Hour 6. Restoration of the funds and voting systems of the National Congress,
 whose suspended mandates are extinguished, with general elections called within
 ninety days.
@@ -159,7 +159,7 @@ Nando, from Recife, who never slept:
 
 *Where?*
 
-*In the Gazette. Edition 219-D. It's been published since the day.*
+*In the Gazette. Edition 219-D. It's been published since that day.*
 
 *Man. That's it? It's the plebiscite?*
 

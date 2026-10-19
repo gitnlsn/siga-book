@@ -157,7 +157,7 @@ Gercino, no banco da frente, abaixou o rádio sem que ninguém pedisse.
 
 — Ah — disse a neta, satisfeita, e devolveu o telefone para a mãe.
 
-Gercino aumentou o rádio de novo. Mato Grosso do Sul, oitenta e um por cento
+Gercino aumentou o rádio de novo. Mato Grosso do Sul, noventa e oito por cento
 das seções apuradas.
 
 ---

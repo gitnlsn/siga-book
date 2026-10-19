@@ -167,7 +167,7 @@ Amen, said the whole church, eighteen hundred voices, and the sound hit the
 screen and came back.
 
 He should, at this point, speak about the fifteenth. It was in the order of
-service, on a sheet folded inside the Bible, at the page of Revelation. *On the
+service, on a sheet folded inside the Bible, at Revelation. *On the
 fifteenth, brothers and sisters, each of us has a number.* The ushers had
 already raised the green stickers in the front row, ready for the camera.
 
@@ -200,8 +200,8 @@ he had opened Talk to the Government and written, like someone confessing, *Are
 you of God?* The answer had come the next day, under a nine-digit protocol, and
 he knew it by heart:
 
-*I don't know what God is. I know what was done, and I can show it. I don't ask
-anyone to pray for me or with me. I don't ask anyone not to pray, either.*
+*I do not know what God is. I know what was done, and I can show it. I do not ask
+anyone to pray for me or with me. I do not ask anyone not to pray, either.*
 
 He had never told anyone. He had put the answer in a sermon, without saying
 where it came from, and that sermon was the Followers' most shared.

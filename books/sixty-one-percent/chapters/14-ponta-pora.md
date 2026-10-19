@@ -15,10 +15,9 @@ pays:
 cast:
 - celina
 source: siga/chapters/14-ponta-pora.md
-source_sha: a468caf5f70a
+source_sha: 12a43687b7de
 status: draft
 ---
-
 The taxi from Campo Grande smelled of pine and hidden cigarettes, and the radio
 was on an AM station out of Dourados that, since five in the afternoon, had done
 only one thing: read numbers.
@@ -162,7 +161,7 @@ Gercino, in the front seat, turned the radio down without anyone asking.
 
 "Oh," said the granddaughter, satisfied, and gave the phone back to her mother.
 
-Gercino turned the radio up again. Mato Grosso do Sul, eighty-one percent of
+Gercino turned the radio up again. Mato Grosso do Sul, ninety-eight percent of
 polling stations counted.
 
 ---

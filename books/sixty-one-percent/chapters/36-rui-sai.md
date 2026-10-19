@@ -106,7 +106,7 @@ clipboard.
 At twelve past seven the glass gate opened and the released men came out one at
 a time, called by name over a polite loudspeaker. Each one carried a
 transparent plastic bag with the things that had gone in with him and a blue
-folder with the things he had earned inside.
+folder with the things he had been given inside.
 
 Rui was the ninth.
 
@@ -142,7 +142,7 @@ window like a tourist.
 
 "I know. Inside, we watched the news."
 
-"There's sewage. There's a health post open at night. The dirt field's a court
+"There's sewage. There's a health post open at night. The field's a court
 with lights now."
 
 "I know, Cláudio."

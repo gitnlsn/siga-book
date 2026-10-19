@@ -24,7 +24,7 @@ onions, green herbs, bananas, one chicken, bar soap*. Kauã put the envelope in
 the inside pocket of his jacket, the one that closed with a zipper, with the
 papers for the motorcycle.
 
-The street market on the street below, in Capão Redondo, was on Fridays, from
+The street market one street down, in Capão Redondo, was on Fridays, from
 six to one. He got there at eleven thirty, between the first lunch delivery and
 the second, with the insulated bag on his back and the helmet in his hand, and
 the stallholders already knew he had no time to choose.
@@ -58,7 +58,7 @@ his head was what he did all day, kilometer and minute and tip. It came to
 almost twelve reais less than the same list in September of last year. Twelve
 reais was a lunch. It was half a day's gas.
 
-He put the bags in the insulated bag, on top of the restaurant's empty box, and
+He put the plastic bags in the insulated bag, on top of the restaurant's empty box, and
 got on the bike.
 
 ---
@@ -83,7 +83,7 @@ whoever had less than forty could go sell water at the traffic lights.
 
 What Kauã knew was what he saw. Before the formula, the platform sent him across
 the Marginal at rush hour to deliver an açaí, and he went, because turning it
-down knocked his rating. Now the route came drawn for him, shorter, with the
+down hurt his rating. Now the route came drawn for him, shorter, with the
 synchronized lights the city and the Siga had worked out at the start of the
 year, and with a minimum rate per hour on the road that nobody had managed to
 get in ten years of strikes. Twenty-eight reais an hour, even standing still. He
@@ -147,7 +147,7 @@ under Ordinance No. 112/2031.*
 
 He read the line twice, the way he read a route.
 
-He didn't send it. He left the form, which was saved as a draft, and opened
+He didn't send it. He closed the form, which was saved as a draft, and opened
 Talk to the Government, which everybody said answered everything. He wrote,
 with his thumb, without accents:
 

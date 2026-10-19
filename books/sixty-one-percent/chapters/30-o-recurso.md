@@ -51,8 +51,8 @@ the way her mother had taught her, and her mother's grandmother.
 
 The fine was paid. The rest wasn't. In 2034 and in 2035 Raimunda hadn't opened
 any plot at all, afraid of the little red square, and for the first time in her
-life she had bought cassava flour in Cametá, in a sack, made from cassava she
-didn't know where it came from. The second growth from 2028 had been ready since
+life she had bought cassava flour in Cametá, in a sack, made from cassava that
+came from she didn't know where. The second growth from 2028 had been ready since
 the year before, waiting.
 
 She had appealed. In 2033, on the phone itself, with the help of the teacher at
@@ -64,7 +64,7 @@ the answer asked her to rephrase.
 
 It was Josué who told her about the man in Brasília. One who did appeals for
 other people. One who used to be in politics, he said, and now talked to the
-machine the way he used to talk to congressmen.
+machine the way he used to talk to deputies.
 
 "Égua, and how much does he charge?"
 

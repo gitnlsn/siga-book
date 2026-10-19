@@ -92,7 +92,7 @@ Davi read it every day, at six in the morning, since 2019. It was the one
 Brasília habit he had left.
 
 He didn't charge. People left twenty reais on the table, under the napkin
-holder, or paid for his pastel, or brought a cake, a chicken, a sack of manioc.
+holder, or paid for his pastel, or brought a cake, a chicken, a sack of cassava.
 He didn't ask and didn't refuse.
 
 That afternoon he had done seven already. A review of a motorcycle courier's
@@ -125,7 +125,7 @@ Davi looked at Seu Lauro.
 
 Davi opened the laptop, waited for the fridge's jolt to pass and asked for the
 CPF. Seu Lauro said it from memory. On the screen, the same answer Dona
-Zuleide's granddaughter had got in July, which she had copied out by hand and
+Zuleide's granddaughter had gotten in July, which she had copied out by hand and
 brought in the plastic bag, with the papers:
 
 *Status: benefit suspended since 04/2034. Record: no proof of life since
@@ -209,7 +209,7 @@ holder, where he had seen the others put theirs.
 
 "There's no need, Seu Lauro."
 
-"There's need," said Seu Lauro.
+"There is," said Seu Lauro.
 
 Davi left the bill where it was.
 
@@ -244,7 +244,7 @@ bag and the pastel wrapped in bakery paper.
 
 The man who came next wasn't in the line.
 
-He was about fifty, in a short-sleeved dress shirt, a big watch, and had parked
+He was about fifty, in a short-sleeved dress shirt and a big watch, and had parked
 a silver pickup at the door of the pastel shop. He stood beside the table,
 without sitting.
 

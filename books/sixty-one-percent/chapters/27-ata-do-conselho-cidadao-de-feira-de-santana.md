@@ -26,16 +26,16 @@ Closed: April 10, 2035, 18:00.
 AGENDA
 
 Use of the after-hours period in the full-time schools of the municipal public
-network, from the second semester of 2035 onward. Two and a half hours a day,
+school system, from the second semester of 2035 onward. Two and a half hours a day,
 38 schools, 29,640 students.
 
 PARTICIPATION
 
 Voters in the municipality eligible to vote: 412,880.
 Participants: 41,207 (9.98%).
-Participants who declared a child, grandchild or ward enrolled in the network:
+Participants who declared a child, grandchild or ward enrolled in the system:
 27,115.
-Participants who declared they work in the network: 1,904.
+Participants who declared they work in the system: 1,904.
 
 HOW THE OPTIONS WERE DESIGNED
 
@@ -58,7 +58,7 @@ the authors for their information. No author asked to withdraw.
 
 OPTIONS AND RESULT
 
-A — Reading, writing and mathematics reinforcement, calibrated by the Track.
+A — Remedial reading, writing and mathematics, calibrated by the Track.
 Estimated effect: +11 points in average reading proficiency, within 24 months.
 Votes: 19,842 (48.2%).
 

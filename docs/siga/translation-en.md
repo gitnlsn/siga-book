@@ -259,6 +259,14 @@ was corrected and the English restamped):
   Corrigida, as in *09h00*.
 - *Lisboa*: Rangel "fui ministro da Defesa" → recorded in the bible.
 
+Resolved after the editor's pass (2026-10-19):
+
+- *Ponta Porã*: the radio count went backwards (92%, then 81%) → the later
+  count is now 98% in both editions.
+- *Convocação* in Edição Extra nº 219-A, the same number as the 2030 audit:
+  deliberate. The document itself says it is published "com o mesmo número de
+  edição" so that nobody has to search.
+
 Left as written, on purpose: Lúcia's wrong memory of the 5:30 bus in *Aula sem
 registro*; Raimunda's "sessenta anos quase" at 58; Gil's "catorze anos de
 madrugada".
@@ -293,12 +301,12 @@ above. Binding like the rest of this file.
 - **fiado** → on a tab / without running a tab.
 - **merendeira** → lunch lady.
 - **reposição** → make-up day.
-- **professora** (as address) → teacher.
+- **professora** (as address) → *Professora* (superseded; see Editor's pass).
 - **"filha"** (Marina's mother) → sweetheart.
 
 #### Deviations from the contract
 
-- **"Então pediu certo."** The contract fixes *Then he asked right.* The subject
+- **"Então pediu certo."** (Resolved: the table now has *Then it asked right.*) The contract fixed *Then he asked right.* The subject
   is the computer (Dete is answering Lúcia's "um computador tinha pedido …
   educadamente"), so it is rendered **Then it asked right.**, both times.
   Recommend correcting the contract.
@@ -351,7 +359,7 @@ above. Binding like the rest of this file.
   federação" → *units of the federation* in the body.
 - Dates in documents, US form: *11/15/2030 05:00*, *03/17/2031*.
 - Raimunda's world: *jirau* → washing platform; *rabeta* → longtail;
-  *voadeira* → speedboat; *barco de linha* → riverboat; *capoeira* → regrowth;
+  *voadeira* → speedboat; *barco de linha* → riverboat; *capoeira* → second growth;
   *castanheira* → Brazil nut tree; *igarapé* → creek (but *Seu Antônio do
   Igarapé* stays as a name); *farinha* → flour; *mandioca* → cassava;
   *tarefa* (land measure) stays *tarefa(s)*, unglossed; *bolsa* → the benefit.
@@ -510,19 +518,14 @@ into docs/siga/translation-en.md.
 
 ### Translation notes — chapters 36–42 (Rui Gets Out … The Line)
 
-#### The plebiscite question (Ballot) — reconcile with Summons
+#### The plebiscite question (Ballot) — reconciled
 
-My exact English for the question on SCREEN 2, translated from the Portuguese:
-
-> Do you approve that the Integrated Management and Audit System continue to
-> exercise the powers of the Executive Branch and of the Legislative Branch of
-> the Union for eight more years, under the terms of Constitutional Amendment
-> No. 140?
+Ballot uses the fixed wording in the table above, word for word.
 
 Other Ballot choices: *Enter 1 for YES. / Enter 2 for NO.*; key labels BRANCO →
 **BLANK**, CORRIGE → **CORRECT**; "Até a posse" → *Until the new officeholders
-take office*; "eleições gerais para 90 dias" → *General elections will be called
-for 90 days from then.* The Line quotes *Enter 1 for YES. Enter 2 for NO.*,
+take office*; "eleições gerais para 90 dias" → *General elections will be called, to be
+held in 90 days.* (Summons: *are called, to be held in 90 days*) The Line quotes *Enter 1 for YES. Enter 2 for NO.*,
 *Executive Branch*, *Legislative Branch*, *for eight more years*.
 
 #### Terms added (not in the contract)
@@ -537,7 +540,7 @@ for 90 days from then.* The Line quotes *Enter 1 for YES. Enter 2 for NO.*,
 | O general do aguardar | The stand-by general | The General Votes |
 | Cumprido. | Done. | The General Votes |
 | formatura (Lourdes' joke) | a parade | The General Votes |
-| Anexo Reservado do Comando do Exército | the Army Command's Reserved Annex | The General Votes |
+| Anexo Reservado do Comando do Exército | the Army Command's Confidential Annex | The General Votes |
 | Setor Militar Urbano | the Military Sector | The General Votes |
 | Auxílio de Reinserção | Reintegration Allowance | Rui Gets Out |
 | situação eleitoral | voter status | Rui Gets Out |
@@ -556,7 +559,7 @@ for 90 days from then.* The Line quotes *Enter 1 for YES. Enter 2 for NO.*,
 | Você é de Deus? | *Are you of God?* | The Followers |
 | vó (address, Tainá to Iracema) | Grandma | The Village |
 | a língua | the language | The Village |
-| castanhal / castanheira | Brazil-nut grove / Brazil-nut tree | The Village |
+| castanhal / castanheira | Brazil nut grove / Brazil nut tree | The Village |
 | atravessador | middleman | The Village |
 | motor rabeta | longtail motor | The Village |
 | os brancos | white people | The Village |
@@ -571,12 +574,12 @@ for 90 days from then.* The Line quotes *Enter 1 for YES. Enter 2 for NO.*,
 | Letras (UEFS) | Literature | The Line |
 | vestido de chita | calico dress | The Line |
 | carro de som | sound truck | The Line |
-| poita | mooring stone | The Line |
+| poita | anchor stone (as in *The Wind Farm*) | The Line |
 | Pausa para voto: 40 min — sem impacto na sua nota | *Voting break: 40 min — no impact on your rating* | The Line |
 
 Dates in documents and on-screen text use US order (*02/14/2039, 22:41*).
-"Quarenta graus" kept metric as *forty degrees Celsius* (one added word, so a
-US reader does not read cold).
+"Quarenta graus" → *forty degrees* (the editor removed *Celsius*: the next
+lines say it is the heat).
 
 #### Found in the Portuguese
 
@@ -593,3 +596,57 @@ US reader does not read cold).
   same minutes … at which he had said the word" — timeline has "Aguardar" at
   06h31, so the minutes match. Fine.
 
+
+### Editor's pass (2026-10-19)
+
+One editor read the whole English book against the Portuguese after the five
+batches. Where the batch notes above disagree, this section wins.
+
+- **Forms of address.** *professora* as address → **Professora** (roman,
+  capitalized, like *Dona* and *Seu*); *pró* → **Teach**. *doutor* + surname →
+  **Dr.** (*Dr. Pimentel*, *Dr. Mendes*); *doutora* as a nickname or honorific
+  (Socorro, Helena, the doctor on the screen) → **Doctor**; *doutora* as
+  corporate deference (*Faria Lima*) → **ma'am**.
+- **Escola Estadual do Tomba** → **Tomba State School** (the façade joke in
+  *5:00 a.m.* keeps the Portuguese letters).
+- **Vintém** takes no article (*in Vintém*, never *the Vintém*).
+- **capoeira** (vegetation) → **second growth**; *capoeira grossa* → thick second
+  growth. **castanheira / castanhal** → **Brazil nut tree / Brazil nut grove**.
+  **mandioca** → **cassava**; *farinha* → flour (never *manioc*).
+- **jirau** and **fiado** stay by context (washing platform / raised platform;
+  on a tab / on credit / without running a tab).
+- **caiu** (money arriving) → **came in** (*It came in.*); *chegou* → *it came*;
+  *saiu* (a benefit approved) → *came through*.
+- **Anexo Reservado** → **Confidential Annex**, in *6:00 a.m.* and *The General
+  Votes*.
+- **Presidente do STF** → **the Chief Justice of the Supreme Court**, in Annex
+  III as well (*Unplug*, *Summons*, *Ballot*). **Presidente da República** → *the
+  President* in narration and in the Siga's prose; headers and signatures keep
+  *President/Presidency of the Republic*.
+- **emendas parlamentares** → **congressional earmarks** (never
+  *parliamentary*). **deputado** → **deputy**, never *congressman*, in dialogue
+  too.
+- **Justiça Eleitoral** → **the Electoral Courts** (*ELECTORAL COURTS —
+  SUPERIOR ELECTORAL COURT* in the Ballot header).
+- **publicidade** (of payments) → **public disclosure**.
+- **rede (pública) de ensino** → **the public school system** / *the state
+  system*, never *network*.
+- **Pois é** → **That's right**, for every speaker.
+- **carteira assinada** → **on the books**.
+- **uma madrugada** (1889, 1974, the night) → **the small hours**.
+- **Hospital Regional de Itaberaí** → **Itaberaí Regional Hospital**.
+- **The Siga uses no contractions** in documents, on the terminal or in her
+  answers (*I do not know*, *It does not depend*).
+- **Taís's essay**, quoted in *The Track* and *The Line*, uses the wording of
+  *The Track* in both (*the money dropping out of the sky … like rain on top of
+  Tomba*).
+- **The Program's quoted lines** (*Program of Government* is the source; *9:00
+  a.m.*, *4:00 p.m.* and *The Weight* quote it): *This document describes what
+  will be done, in what order and by what criterion.* / *I have no personal
+  ambition, no corporate interest and no election to contest.* / *All
+  compensation above the constitutional ceiling is abolished, in any branch,
+  under any title.* / *Organized crime will be fought through money.* /
+  *Universal basic sanitation, water and sewage, as a priority of prevention.* /
+  *without ideological attachment*.
+- **CNPJ / CPF** stay by context: the acronym where the character would say it,
+  *company registration numbers* / *company number* / *tax number* in narration.

@@ -43,14 +43,14 @@ Osasco, was twelfth.
 
 Beatriz knew the branch. Her mother had had an account there for forty years.
 She had gone there in 2027, a week before the hospital line, to ask for a payroll
-loan to pay for the private test, and the manager had said her margin was used
+loan to pay for the test privately, and the manager had said her margin was used
 up, and her mother had gone home on the bus and told no one. Beatriz found out at
 the wake, from a neighbor.
 
 She called the branch manager before signing. She didn't need to. She did it
 anyway.
 
-"Sônia? This is Beatriz Lacerda, from the finance directorate."
+"Sônia? This is Beatriz Lacerda, from Finance."
 
 There was the silence of someone getting up from a chair.
 

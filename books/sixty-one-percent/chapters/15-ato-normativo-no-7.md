@@ -23,7 +23,7 @@ Brasília, Saturday, March 1, 2031. Published: 00:00.
 NORMATIVE ACT NO. 7, OF MARCH 1, 2031
 
 On the Digital Value-Added Tax, the abolition of pay components above the
-constitutional ceiling, and the publicity of the State's payments.
+constitutional ceiling, and the public disclosure of the State's payments.
 
 Basis: Constitutional Amendment No. 140, Art. 2, ratified by the plebiscite of
 February 15, 2031, by 61.3% of valid votes.

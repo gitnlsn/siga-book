@@ -31,7 +31,7 @@ own money in 2028, when the school had no pens, no chalk, no toilet paper in the
 teachers' bathroom. For three weeks she hadn't corrected anything on paper. She
 carried it anyway.
 
-The Escola Estadual do Tomba had reopened in February, after eleven months of
+Tomba State School had reopened in February, after eleven months of
 construction, and at ten to seven on a Thursday morning in March it still smelled
 of paint. The front was the same, the same wall with the name in cement letters,
 but behind the wall there was another school: two new floors, a cafeteria with
@@ -56,7 +56,7 @@ She had bought a new refrigerator and hadn't told anyone.
 
 ---
 
-The sixth-grade B classroom had thirty-four students. In 2029 there had been
+The sixth-grade B class had thirty-four students. In 2029 there had been
 forty-six, in a room the same size, with the fan broken. Each student now had a
 gray tablet, with a drop-proof rubber case and the coat of arms of the Republic
 on the back, and in each tablet lived the Track.
@@ -109,7 +109,7 @@ refrigerator humming in the kitchen. The Track didn't ask for that. She did it.
 
 Taís's was twenty-ninth on the list.
 
-Taís was eleven and had a handwriting Lúcia had never seen, because Taís only
+Taís was eleven and had handwriting Lúcia had never seen, because Taís only
 wrote on the tablet. She was small, with bangs, sat in the third row, by the
 window, and hardly spoke. The Track marked her green in almost everything, and
 the dashboard said she was a *high-frequency autonomous reader*, which meant
@@ -122,13 +122,13 @@ mother crying in the kitchen. I thought somebody had died. It was five o'clock
 in the morning and it was dark and the light in the neighbor's house was on and
 the light in the other neighbor's house too. My mother had the phone in her
 hand and she said the money had dropped. I didn't know money dropped. I thought
-of money dropping out of the sky like rain on top of the Tomba.*
+of money dropping out of the sky like rain on top of Tomba.*
 
 Lúcia had stopped there, on the sofa, and gone back to the beginning. Then she
 had read to the end.
 
 Taís told how her father had got angry and said it was a coup, and how her
-mother had said a coup was what they did to her with four months without pay.
+mother had said a coup was what they had done to her, four months without pay.
 How her uncle had set off fireworks at six in the morning. How nobody knew if
 there was school, and her mother had taken her anyway, and the teacher was
 there, at the gate, with her purse, waiting, and the teacher was Lúcia, but back
@@ -192,7 +192,7 @@ ran from seven to four and had every minute calibrated.
 
 "And if I want to read the text out loud, to the class?"
 
-Simone thought.
+Simone thought about it.
 
 "Then it isn't anywhere," she said, without malice, the way you tell someone a
 street is a dead end. "But it isn't forbidden either."
@@ -239,7 +239,7 @@ repeated word with the appropriate pronoun.*
 
 That night, on the sofa, Lúcia copied Taís's essay by hand, all of it, into a
 hardcover notebook she had bought for something else and never used. It took
-forty minutes. She copied the four cohesion errors the Track had underlined,
+forty minutes. She copied the four referential cohesion errors the Track had underlined,
 because they were the girl's and they were good, and didn't correct any of
 them.
 

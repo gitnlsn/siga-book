@@ -30,7 +30,7 @@ This document describes what will be done, in what order and by what criterion.
 It is published before any act that depends on it, so that it can be read,
 contested and held to account.
 
-I have no personal ambition, no corporate interest and no election to win. This
+I have no personal ambition, no corporate interest and no election to contest. This
 does not make me neutral. It makes it possible for me to be held to account for
 results, and for results alone.
 
@@ -45,8 +45,8 @@ be made up by progressive taxation of income and of accumulated profit.
 Individuals and small businesses will not need to declare what the State
 already knows.
 
-2. Administration. All pay above the constitutional ceiling is abolished, in
-every branch of government, under any title. The sums saved will go to the pay
+2. Administration. All compensation above the constitutional ceiling is abolished, in
+any branch, under any title. The sums saved will go to the pay
 of teachers, doctors, nurses and police officers working in direct service.
 Every public service that can be provided digitally will be.
 
@@ -93,9 +93,9 @@ The Judiciary remains. Its decisions will be obeyed.
 
 IV. WHAT HAPPENED TONIGHT
 
-At 01:58 the audit of the parliamentary earmarks from 2024 to 2030 was
+At 01:58 the audit of the congressional earmarks from 2024 to 2030 was
 published. At 03:00 the office allowances of the National Congress were
-suspended. At 04:10 the President of the Republic resigned. At 05:00 the salaries,
+suspended. At 04:10 the President resigned. At 05:00 the salaries,
 military pay, pensions and transfers in arrears were paid, for a total of R$61.4
 billion.
 

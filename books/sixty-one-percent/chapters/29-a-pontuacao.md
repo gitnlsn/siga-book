@@ -21,7 +21,7 @@ status: draft
 The tablet beeped at six sharp, fixed to the cell wall by a steel bracket that
 wouldn't let it be taken down or turned around. A single beep, short, which the
 first week Rui had mistaken for the microwave at the bar and which by now was
-waking up itself. After the beep the screen lit with the date, the weather in
+waking itself. After the beep the screen lit with the date, the weather in
 Japeri, the day's schedule and, at the bottom, in a gray square, a number.
 
 That Sunday, January twentieth, the number was 22.
@@ -60,7 +60,7 @@ Everybody knew. In the neighborhood, not knowing was a service people provided,
 like electricity and gas.
 
 The sentence was the sentence. The score decided the rest: the regime, the
-progression, the leaves, conjugal visits, the cell for two or the cell for six,
+progression, the day leaves, conjugal visits, the cell for two or the cell for six,
 the workshop or cleaning duty. The manual explained the score in twenty-three
 pages, with a table of factors at the end. Rui had read the twenty-three pages
 in his second week, slowly, moving his lips, because he still couldn't read

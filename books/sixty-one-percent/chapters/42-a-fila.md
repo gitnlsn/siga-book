@@ -24,7 +24,7 @@ Polling station 214 was in room 12, and Taís knew, before she entered the
 corridor, that the ceiling fan would be on and would be making its usual noise, a
 small *tick* on every turn, like a clock that wasn't sure of the time.
 
-It was forty degrees Celsius in Feira de Santana at four in the afternoon.
+It was forty degrees in Feira de Santana at four in the afternoon.
 The line came out of room 12, crossed the corridor of block B under the
 brown-paper murals and turned at the stairs. Forty people, maybe fifty. People in
 flip-flops, people in church clothes, a young woman with a baby asleep tied to her
@@ -100,8 +100,8 @@ moving with it without looking.
 *On the night of November 15 I woke up with my mother crying in the kitchen. I
 thought somebody had died.*
 
-She knew it by heart without knowing she knew it. The money falling from the sky
-like rain on Tomba. Her uncle setting off fireworks at six. The lady with the
+She knew it by heart without knowing she knew it. The money dropping out of the sky
+like rain on top of Tomba. Her uncle setting off fireworks at six. The lady with the
 purse at the gate at seven in the morning, waiting for someone to say whether she
 could go in.
 
@@ -117,7 +117,7 @@ to see the mark.
 
 At the end of the essay, the eleven-year-old girl had written: *To this day I
 don't know if that night was good or bad. My mother says it was good. My father
-says it was bad. I think it's like the money falling from the sky. It's good, but
+says it was bad. I think it's like the money dropping out of the sky. It's good, but
 nobody knows where the rain came from.*
 
 And underneath, in red, in the hand of someone who hadn't graded by hand in three
@@ -126,7 +126,7 @@ weeks: *Very good. Read it out loud.*
 ---
 
 In Ceilândia, at ten past four, the line at the Escola Classe went around the
-block, and Davi was at the door, in the vest of a poll watcher for the No and with
+block, and Davi was at the door, wearing the vest of a poll watcher for the No, with
 a clipboard, counting people with a pencil. Dona Zuleide went past him arm in arm
 with Seu Lauro, who was eighty-four and had his voter card printed on a sheet of
 paper, inside a plastic supermarket bag, because he didn't trust the phone, and
@@ -153,11 +153,11 @@ He looked at the back of her neck the whole time.
 
 In Coqueiro Velho, Socorro voted in a room from whose window you could see the
 blades of the turbines turning at sea, above the place where her father used to
-drop his mooring stone. She came out of the booth and stood at the window for a
+drop his anchor stone. She came out of the booth and stood at the window for a
 minute, looking, until the poll worker asked her to clear the room.
 
 In Capão Redondo, Kauã leaned his motorcycle against the curb at a state school
-with his helmet under his arm and the insulated delivery backpack on. On his
+with his helmet under his arm and the insulated backpack on his back. On his
 phone, the delivery app showed, in green, *Voting break: 40 min — no impact on
 your rating*. He didn't know anymore whether he believed that. He got in line
 anyway.
@@ -198,7 +198,7 @@ paper against her leg, and went into the booth.
 
 ---
 
-The booth was gray cardboard, with the coat of arms of the Electoral Justice and
+The booth was gray cardboard, with the coat of arms of the Electoral Courts and
 a notice stuck on the inside, the Court's notice, which she read all the way
 through because it was in front of her face. *The vote is secret.* The voting
 machine was on a wooden stand, the screen lit.

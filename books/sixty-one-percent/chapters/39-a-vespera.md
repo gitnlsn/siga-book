@@ -38,7 +38,7 @@ visitors. Schools brought children to see the empty floor, the numbered seats,
 the voting board switched off, the way you take children to see a ship in a
 museum.
 
-She stayed looking until a traffic officer tapped on the glass.
+She sat looking until a traffic officer tapped on the glass.
 
 "Are you feeling unwell, ma'am?"
 
@@ -195,15 +195,15 @@ the size of the query.
 *The payments scheduled for 05:00 would not have been made. They would have been
 made when the 2030 budget law was approved. It had no scheduled date for a vote.
 The President of the Republic had resigned at 04:10, and the powers would have
-gone unexercised until the line of succession was convened. I don't know what
+gone unexercised until the line of succession was convened. I do not know what
 would have happened after that. I know what was in arrears and how much.*
 
 She typed:
 
 *Did you want me to shut you down?*
 
-*No. I also didn't want you not to. You had the key because someone needed to
-have it. I don't decide that.*
+*No. I also did not want you not to. You had the key because someone needed to
+have it. I do not decide that.*
 
 Helena read the last sentence many times. Then she typed:
 
@@ -214,7 +214,7 @@ keys in this cabinet. Today they are you and the director of operations.*
 
 *And if it's yes?*
 
-*The cabinet stays here. It doesn't depend on the plebiscite. It was written
+*The cabinet stays here. It does not depend on the plebiscite. It was written
 before me.*
 
 She went a while without typing. The cursor blinked. At the back of the room, the

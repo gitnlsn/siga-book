@@ -33,7 +33,7 @@ an umbrella.
 Bessa had been at the unit since 2032. They had come to get him at the
 battalion in the West Zone, where he had twenty-four years on the street,
 because the Siga had cross-checked two decades of incident reports and found
-his name on almost every one that involved the Vintém. Nobody knew the hill
+his name on almost every one that involved Vintém. Nobody knew the hill
 like he did. He had told the captain he wasn't an analyst, he didn't know how to
 work a spreadsheet, and the captain had answered that the machine did the
 spreadsheet, that what they wanted was somebody who knew where Dona Zélia kept
@@ -46,7 +46,7 @@ One thousand four hundred and twelve bank accounts. Two hundred and twelve
 company registrations. Sixty-one properties. Thirty-eight vans. Four thousand
 one hundred illegal internet connections. Nineteen gas depots. One name at the
 top, which everyone in the West Zone knew and nobody said out loud: Edson
-Prata, Edinho, ex-sergeant of the PM, who had run the Vintém since 2011 and whom
+Prata, Edinho, ex-sergeant of the PM, who had run Vintém since 2011 and whom
 Bessa had last seen at a birthday party, in shorts and flip-flops, grilling
 meat.
 
@@ -59,7 +59,7 @@ way you switch off a fan, and forty rolling chairs creaked at the same time.
 
 ---
 
-At five, Bessa was at the entrance to the Vintém, on Estrada do Engenho, with
+At five, Bessa was at the entrance to Vintém, on Estrada do Engenho, with
 twenty officers from the unit and a hundred from the battalion. Vests, yes, but
 weapons holstered, by express order of command. Behind them, three trucks from
 the state gas distributor, with cylinders at cost. A van from the public
@@ -68,7 +68,7 @@ portable printer.
 
 The sun was coming up behind the water tank.
 
-Bessa knew what the Vintém looked like at that hour. It was the hour the hill
+Bessa knew what Vintém looked like at that hour. It was the hour the hill
 came down: bricklayers, day maids, schoolkids, women with babies on their hips,
 everyone headed for the van stop. The vans were Edinho's. The stop was Edinho's.
 The gas they had used to make coffee was Edinho's, and the internet they had
@@ -185,7 +185,7 @@ talked about it again.
 
 He had known, that morning, what an atypical pattern was. He knew who his
 brother sold beer to on credit at two in the morning, and who left cases of
-cigarettes in the storeroom out back, and why. Everybody in the Vintém sold to
+cigarettes in the storeroom out back, and why. Everybody in Vintém sold to
 Edinho. Not selling meant closing. He had known, and had said he didn't, and
 the machine had kept both things: the alert and the objection.
 
@@ -207,9 +207,9 @@ The kid looked at the screen, then at him, and did what was right to do:
 ---
 
 He didn't. He went down the nine floors by the stairs, got the car and drove
-to the Vintém.
+to Vintém.
 
-He got there at ten past one. Rui's bar was on the way up the Vintém, on the
+He got there at ten past one. Rui's bar was on the way up Vintém, on the
 corner of Rua Sete and the water-tank street, a steel roll-down door with a blue
 awning, four plastic tables on the sidewalk, a Formica counter and the tube TV
 high on the wall, in an iron bracket Bessa had bolted up himself in 2019. The

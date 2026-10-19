@@ -25,7 +25,7 @@ water.
 In 2031 you couldn't. In 2031 the Tapajós ran past the village the color of
 coffee with milk, morning to night, because of the mining barges upriver, and
 the children had hair tests with mercury numbers that the doctor from the Health
-Department read in a low voice, as if the number were his fault. The last barge
+Department read in a low voice, as if the number were her fault. The last barge
 had stopped in August 2032. Not because of the police. Nobody from the
 government came. The gold simply stopped being sellable: the Siga blocked, in the
 same week, every purchase of gold that couldn't say where it came from, and the
@@ -50,7 +50,7 @@ somebody's grandma. She sat on the wooden bench. Tainá fastened the cuff on her
 arm with the care of someone who had learned it in Santarém, in an
 air-conditioned room, and pressed the button. The cuff filled, squeezed, let go.
 
-"Hundred sixty over a hundred," said Tainá. "It's high."
+"One sixty over a hundred," said Tainá. "It's high."
 
 "It's the assembly."
 
@@ -65,7 +65,7 @@ blue dots, the appointments on the screen at the health post, the ones she had
 gone to and one, in March, with an empty circle. "She sent the post three
 messages. Then she booked it again."
 
-"In March I was at the Brazil-nut grove."
+"In March I was at the Brazil nut grove."
 
 "I know, Grandma. She doesn't scold. She just books."
 
@@ -120,10 +120,10 @@ She dictated, he wrote.
 
 It was the land registry. She had seen it many times. He slid his finger and
 opened the layers one by one: the boundaries, the rivers, each family's plot
-with its area in hectares, the trails, the fishing spots, the Brazil-nut trees
+with its area in hectares, the trails, the fishing spots, the Brazil nut trees
 counted one by one, each with a number.
 
-"I'm the one who marked the Brazil-nut trees," he said. "One thousand four
+"I'm the one who marked the Brazil nut trees," he said. "One thousand four
 hundred and twelve. She pays per tree standing."
 
 "I know."
@@ -132,9 +132,9 @@ hundred and twelve. She pays per tree standing."
 
 He didn't say it as a bad thing. He said it with pride, like someone showing
 work well done, and it was. Iracema looked at the lit map in her grandson's
-hand, the fourteen hundred Brazil-nut trees turned into little green dots on the
+hand, the fourteen hundred Brazil nut trees turned into little green dots on the
 screen, and then looked at the dark of the forest on the other side of the
-clearing, where the real Brazil-nut trees were, and where you couldn't see a
+clearing, where the real Brazil nut trees were, and where you couldn't see a
 single one.
 
 "And what else does she know?" she asked.
@@ -170,7 +170,7 @@ asking for work.
 
 Dona Celeste, who was Iracema's age and had raised seven children there, talked
 about money. She said she had never had money in her hand that didn't come from
-selling manioc flour in town, at the price the middleman named. Now she had,
+selling flour in town, at the price the middleman named. Now she had,
 every month, on the fifth, an amount that didn't depend on anyone, and with it
 she had bought the new motor for the canoe, the solar panel on the roof and the
 glasses she now wore to sew. She said the Siga had never come to the village,
@@ -223,8 +223,8 @@ The young men at the posts looked at one another. Tainá smiled.
 Nobody said anything. Outside, a longtail motor went by on the river, far off.
 
 "A government of people promises and doesn't deliver. We know how to fight that.
-We've been fighting it for five hundred years." She put her hand on the switched
-off tablet. "But if one day she says something about us that isn't good, she'll
+We've been fighting it for five hundred years." She put her hand on the
+switched-off tablet. "But if one day she says something about us that isn't good, she'll
 deliver that too. On the day she says. And there won't be a tent in front of
 anyone, because there isn't anyone."
 

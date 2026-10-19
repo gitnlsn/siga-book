@@ -104,8 +104,8 @@ then the two of them had a habit of not talking about it.
 
 "One to one of what, Gil? One job is worth one beach?"
 
-He shrugged, the way people who work with machines shrug, envying the people
-who work with people.
+He shrugged, like someone who works with machines and envies the people who
+work with people.
 
 "It's worth whatever you put. That's why you get paid what you get paid."
 

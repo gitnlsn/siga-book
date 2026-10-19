@@ -76,8 +76,8 @@ afterward. Today it's my turn not to tell."
 ---
 
 On November 15, 2030, at five thirty in the morning, he had received in his
-official mail the Army Command's Reserved Annex. A hundred and forty pages. On
-the seventeenth, the armored vehicle contract from 2026, signed when he headed
+official mail the Army Command's Confidential Annex. A hundred and forty pages. On
+page seventeen, the armored vehicle contract from 2026, signed when he headed
 the Logistics Department, eleven percent above average. Further on, a
 consultancy of his son's, Marcos, hired by a company that sold to the Army. A
 trip. A property. None of the pages said he had committed a crime. All of them
@@ -92,7 +92,7 @@ shorts and combat boots, singing the Infantry anthem at five thirty in the
 morning, phones in hand.
 
 At six, in the meeting room at Army Headquarters, in the Military Sector, there
-were himself, Admiral Vasco, Brigadier Souto and the chief of staff. Each with
+were himself, Admiral Vasco, Air Brigadier Souto and the chief of staff. Each with
 his phone face down on the table.
 
 Souto, in a running tracksuit, wanted to occupy Serpro: one building, one door,
@@ -195,7 +195,7 @@ him anymore, not even himself.
 
 ---
 
-The poll worker was a young woman in glasses with an Electoral Court badge
+The poll worker was a young woman in glasses with a Superior Electoral Court badge
 hanging around her neck. She read his name on the voter card and looked at him
 with the polite curiosity of someone who recognizes the name and not the face.
 

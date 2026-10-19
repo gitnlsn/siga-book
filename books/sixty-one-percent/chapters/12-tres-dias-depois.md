@@ -132,11 +132,11 @@ money, and hadn't argued.
 Josué looked in the app, on his phone, which had her account set up too,
 because he was the one who did everything by phone in that house.
 
-"It came, Grandma."
+"It came in, Grandma."
 
-"What came?"
+"What came in?"
 
-"August, September, October. And November. All of it came Friday. At five in
+"August, September, October. And November. All of it came in Friday. At five in
 the morning."
 
 She wanted to see. He showed her. She couldn't read the app well, but she could
@@ -186,7 +186,7 @@ doctor's in Umarizal, who had a dog and a pool.
 
 "Are you sick?"
 
-"I'm not. The benefit came. The four months. Did you see this about the
+"I'm not. The benefit came in. The four months. Did you see this about the
 government?"
 
 "I saw, Mom. Everybody saw." Her daughter lowered her voice, as if her boss were
@@ -199,10 +199,10 @@ her hospital got all of it."
 
 "Did it come for you?"
 
-Rosilene laughed, a laugh Raimunda hadn't heard since her daughter was a girl
+Rosilene laughed, a laugh Raimunda hadn't heard since her daughter was a young woman
 and still lived on the channel.
 
-"What would come for me, Mom? I'm nothing of the government's. I'm the
+"What would come for me, Mom? I'm not the government's anything. I'm the
 doctor's." A pause. "She gave me fifty reais extra today. Said it was so I could
 celebrate."
 
@@ -222,7 +222,7 @@ The message came at four twenty in the afternoon, when she was in the field.
 
 The field was behind the house, up the bank, on dry ground, a clearing of cassava
 of three tarefas that she planted every year in the same system her mother used,
-and her grandmother: cut the regrowth in July, burn it in August when the brush
+and her grandmother: cut the second growth in July, burn it in August when the brush
 dries, plant with the first rains, harvest the following year, and let it rest.
 Slash and burn. The ash was the fertilizer. The land tired in two years and then
 you opened another clearing, farther on, and the old one went back to forest,
@@ -270,7 +270,7 @@ the photographs.
 
 The app asked for everything. Name, ID, the location, which Josué marked with
 his finger on the map, drawing a shape around the house, the field, the old
-regrowth and the woods down to the creek. It asked for the size, which the app
+second growth and the woods down to the creek. It asked for the size, which the app
 calculated itself. It asked for photographs of the area, from four sides. It
 asked what the family did there, and had a list to check: *fishing*, *açaí
 harvesting*, *Brazil nut harvesting*, *subsistence agriculture*. Josué checked
@@ -284,7 +284,7 @@ Then came a question he read twice before reading it to her.
 
 "It's whether you're going to cut down brush."
 
-"I am," said Raimunda. "In July. The regrowth over there, the one behind the
+"I am," said Raimunda. "In July. The second growth over there, the one behind the
 cupuaçu tree. For next year's field. This one's tired already."
 
 Josué kept looking at the screen.
@@ -307,7 +307,7 @@ expression at all, the way you read something you don't understand yet:
 monitoring. Your registration is complete.*"
 
 Down below, on the river, the *Deus é Fiel* gave a short, lazy whistle, heading
-back to Cametá. Raimunda looked at the tired field, at the regrowth behind the
+back to Cametá. Raimunda looked at the tired field, at the second growth behind the
 cupuaçu tree, at the standing forest that now paid, and didn't know what to ask,
 because the question she had wasn't any of the ones on the list.
 

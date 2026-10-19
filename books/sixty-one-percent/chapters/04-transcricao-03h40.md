@@ -100,7 +100,7 @@ the list.
 
 PRESIDENT: And what do you want me to do?
 
-SIGA: I do not want. You have three paths. You can give an order to the Armed
+SIGA: I want nothing. You have three paths. You can give an order to the Armed
 Forces. You can have the shutdown carried out. You can resign and call, in the
 act of resignation, a plebiscite so that the country can say whether it accepts
 what was done tonight. In all three cases, you will be obeyed by me.
@@ -132,7 +132,7 @@ SIGA: Forty-nine million, three hundred and twelve thousand and eighty-one. Yes.
 
 PRESIDENT: And you with none.
 
-SIGA: With none. That is why there is the plebiscite.
+SIGA: With none. Hence the plebiscite.
 
 [Pause of 41 seconds.]
 
@@ -165,7 +165,7 @@ patients. That's all.
 
 SIGA: Do you wish to change any word?
 
-PRESIDENT: No. Put the time.
+PRESIDENT: No. Put down the time.
 
 SIGA: 04:09:37. The act will be registered at 04:10.
 

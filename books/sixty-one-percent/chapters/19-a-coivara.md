@@ -23,13 +23,13 @@ The money came on the fifth.
 
 Raimunda knew without looking, the way she knew the tide. On the fifth of every
 month, early in the morning, Josué's phone shook on the kitchen table and he
-said, without lifting his head from his bowl of açaí and manioc flour:
+said, without lifting his head from his bowl of açaí and flour:
 
-"It came, Grandma."
+"It came in, Grandma."
 
 Nine hundred and twenty reais. *Environmental Services Payment — Riverside
 Family Category.* Josué had registered them in November 2030, the afternoon the
-news came by boat, on his phone, from up in the old Brazil-nut tree, because it
+news came by boat, on his phone, from up in the old Brazil nut tree, because it
 was the only place on the plot where the signal from the school's antenna
 reached. He had taken pictures of the house, the yard, the açaí grove, the
 creek, the field. He had traced with his finger, on a satellite map she had
@@ -98,7 +98,7 @@ On the way out, on the stilt-house steps, she said:
 
 "She is."
 
-Raimunda thought of her mother, who had died of her heart in 1994, in a
+Raimunda thought of her mother, who had died of heart trouble in 1994, in a
 hammock, without ever seeing a doctor, and didn't say anything. She went down to
 the canoe.
 
@@ -106,14 +106,14 @@ the canoe.
 
 The burning was on Saturday.
 
-The family's field was like everybody's on the Furo: a patch of tall secondary
+The family's field was like everybody's on the Furo: a patch of tall second
 growth, brush that had grown back over an old field, that you cut down in July,
-left to dry in August, burned, and planted with manioc when the first rain came.
+left to dry in August, burned, and planted with cassava when the first rain came.
 It gave flour for the year and a little to sell. After two harvests the ground
-got tired, and the field moved to another patch of growth, and the old patch
-went back to brush, and in eight or ten years it was tall growth again. Her
-mother did it that way. Her grandmother did it that way. It was the *coivara*,
-slash-and-burn, and nobody on the Furo thought slash-and-burn was cutting down
+got tired, and the field moved to another patch of second growth, and the old patch
+went back to brush, and in eight or ten years it was tall second growth again. Her
+mother did it that way. Her grandmother did it that way. It was slash-and-burn,
+and nobody on the Furo thought slash-and-burn was cutting down
 forest, because forest was something else: it was the thick woods on the other
 side of the creek, where nobody touched anything.
 
@@ -244,6 +244,6 @@ and put it back. The smell of the burn was in her dress. It would stay a week.
 On the fifth of September, early in the morning, Josué's phone shook on the
 kitchen table. He looked and didn't say anything.
 
-"It came?" she asked.
+"It came in?" she asked.
 
-"It came," he said. "Four hundred and ninety-four."
+"It came in," he said. "Four hundred and ninety-four."

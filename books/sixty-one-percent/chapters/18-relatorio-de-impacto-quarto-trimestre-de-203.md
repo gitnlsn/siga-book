@@ -50,8 +50,8 @@ origin: Normative Act No. 7, Art. 4. Under monitoring.
 Doctors who left the SUS: 9,412. Probable origin: end of combined pay above the
 ceiling. Under monitoring.
 
-Remittances abroad by individuals: +190%. Probable origin: publicity of
-payments. Under monitoring.
+Remittances abroad by individuals: +190%. Probable origin: public disclosure
+of payments. Under monitoring.
 
 Environmental violation notices issued to subsistence plots using fire: 3,112.
 Origin: satellite monitoring with automatic sanction. The classification does

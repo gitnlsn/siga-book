@@ -127,7 +127,7 @@ had been afraid. Of whom. Whether their mothers had been. What the teachers said
 in the teachers' room that week. Whether anyone had been arrested. Whether she
 knew anyone on the list.
 
-"I didn't know anybody on the list. Nobody here knew a congressman."
+"I didn't know anybody on the list. Nobody here knew a deputy."
 
 "But what about the hospital here, the one that never got finished?" a girl
 asked, Joyce. "My grandma says it was on the list."
@@ -181,7 +181,7 @@ At night she knocked on the shared wall, twice, as she had since 2009, and Dete
 answered with three, which meant *come on over*.
 
 Dete had been retired since the year before. In 2032 she had been hired by the
-municipality's full-time school, a lunch cook with a signed work card, at the
+municipality's full-time school, a lunch lady on the books, at the
 salary the Program had ordered paid to the front line, and in four years in a big
 kitchen she had saved what she had never saved in twenty as a contract worker.
 Her grandson, who in 2030 had cried at dawn through the wall, was eight now and

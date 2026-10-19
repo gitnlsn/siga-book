@@ -176,8 +176,8 @@ thought: she chose the day. She chose the day on purpose."
 "Why on purpose?"
 
 "To rhyme." He said the word slowly, separating the syllables. "You know what
-November fifteenth was. A sick marshal, one night before dawn, a barracks, hardly
-a shot. And the people watching. There was a journalist, a republican, who wrote
+November fifteenth was. A sick marshal, the small hours, a barracks, hardly a
+shot. And the people watching. There was a journalist, a republican, who wrote
 a few days later, in a letter that came out in a São Paulo paper, that the people
 watched it stupefied, not knowing what it meant, thinking it was a parade. You
 know the line."
@@ -228,7 +228,7 @@ Marina looked at the red light for a long time.
 
 Rangel picked up the cup, saw it was cold, and set it back down.
 
-"Write in your book that the first one to say yes declined to answer."
+"Write in your book that the first one to say yes wouldn't answer."
 
 ---
 
@@ -242,7 +242,7 @@ Rangel stopped at the stand and bought a carnation. He paid in coins, counting
 slowly.
 
 "It was a coup here too, you know," he said, without looking at her.
-"Seventy-four. Captains. One night before dawn, a song on the radio, hardly a
+"Seventy-four. Captains. The small hours, a song on the radio, hardly a
 shot. And the people put flowers in the rifle barrels. It became a holiday. Nobody
 here calls it a coup."
 

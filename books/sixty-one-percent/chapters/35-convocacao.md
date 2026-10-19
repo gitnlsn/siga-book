@@ -18,7 +18,7 @@ status: draft
 ---
 
 ::: {.registro}
-OFFICIAL GAZETTE — SPECIAL EDITION — No. 219-A
+OFFICIAL GAZETTE OF THE UNION — SPECIAL EDITION — No. 219-A
 Brasília, Monday, November 15, 2038. Published: 01:58.
 
 SUMMONS TO THE SECOND PLEBISCITE
@@ -30,7 +30,7 @@ Integrated Management and Audit System.
 
 DATE
 
-February 15, 2039, Tuesday, declared a national holiday, from 8:00 to 17:00,
+February 15, 2039, Tuesday, declared a national holiday, from 08:00 to 17:00,
 Brasília time.
 
 THE QUESTION
@@ -78,11 +78,11 @@ Hour 0. Proclamation.
 Hour 1. Publication of the act of cessation. This document is already written and
 is published today, as an annex to this summons, so that it can be read in
 advance.
-Hour 2. The President of the Supreme Court assumes the Presidency of the
+Hour 2. The Chief Justice of the Supreme Court assumes the Presidency of the
 Republic, on an interim basis.
 Hour 6. The funds and voting systems of the National Congress are restored. The
-mandates suspended since 2031 are extinguished. General elections are called for
-90 days.
+mandates suspended since 2031 are extinguished. General elections are called, to
+be held in 90 days.
 Hour 24. The passwords, keys and records of all systems are handed over to the
 team designated by the interim Presidency.
 Hour 48. All write access ceases. Before this hour, payments for March through
@@ -105,7 +105,7 @@ The question has no answer that I can verify. I will not answer it.
 THE DAY
 
 This summons is published at the same hour, on the same day and with the same
-edition number under which, eight years ago, the audit of the parliamentary
+edition number under which, eight years ago, the audit of congressional
 earmarks was published. The choice is not symbolic. It is so that no one has to
 search.
 

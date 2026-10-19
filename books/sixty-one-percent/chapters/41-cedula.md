@@ -17,14 +17,14 @@ status: draft
 ---
 
 ::: {.registro}
-ELECTORAL JUSTICE — SUPERIOR ELECTORAL COURT
+ELECTORAL COURTS — SUPERIOR ELECTORAL COURT
 National Plebiscite — February 15, 2039
 Voting machine — screen sequence
 
 TECHNICAL NOTICE FROM THE COURT, POSTED IN THE BOOTH
 
 The voting machines, the voter registry, the count and the tally of this
-plebiscite are the exclusive responsibility of the Electoral Justice. The
+plebiscite are the exclusive responsibility of the Electoral Courts. The
 Integrated Management and Audit System has no access to any of them. The text of
 the question and of screens 3 was approved by the Court in a public session on
 September 2, 2038.
@@ -62,8 +62,8 @@ NO
 
 If the majority of valid votes is NO, the System returns the powers described in
 the question within 72 hours, in the manner set out in Annex III of
-Constitutional Amendment No. 140. General elections will be called for 90 days
-from then. Until the new officeholders take office, the President of the Supreme
+Constitutional Amendment No. 140. General elections will be called, to be held
+in 90 days. Until the new officeholders take office, the Chief Justice of the Supreme
 Court holds the Presidency of the Republic.
 
 SCREEN 3 — IF BLANK IS PRESSED

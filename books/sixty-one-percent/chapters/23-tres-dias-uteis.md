@@ -70,8 +70,8 @@ in. She took pictures of the work booklets, page by page. She pressed a button.
 
 ---
 
-On Wednesday, at six in the morning, Zuleide saw Seu Lauro go out through the
-kitchen window.
+On Wednesday, at six in the morning, Zuleide saw from the kitchen window Seu
+Lauro go out.
 
 He went out in a button-up shirt buttoned to the top, with his push-button phone
 in his shirt pocket and a plastic supermarket bag in his hand, full of papers.
@@ -149,7 +149,7 @@ She was. She cried the way she cried at Mass, without a sound, her good hand
 squeezing her bad one.
 
 Nine years. She thought of Seu Arnaldo, who had died in 2003, and who had paid
-in her FGTS, properly, every month, from 1983 to 1987, and who would never know it
+into her FGTS, properly, every month, from 1983 to 1987, and who would never know it
 had been worth something. She thought of the elastic-band folder. She thought of
 the INSS clerks, all of them, nine years of clerks, a different one each time,
 who said *you'll have to wait for the board, ma'am*, and who weren't bad people,
@@ -199,7 +199,7 @@ without knocking.
 
 "But you're alive."
 
-"There you go," said Seu Lauro, and laughed, and it wasn't a good laugh.
+"That's right," said Seu Lauro, and laughed, and it wasn't a good laugh.
 
 ---
 

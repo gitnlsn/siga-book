@@ -11,7 +11,9 @@ Vida* e *What Remains*.
     make release               # constrói e confere tudo
     make new-book SLUG=<slug> TITLE="..."   # o próximo livro
 
-Romance avulso: *Siga* (`BOOK=siga`).
+Romance avulso: *Siga* (`BOOK=siga`), com a edição em inglês *Sixty-One
+Percent* (`BOOK=sixty-one-percent`). `make traducao` lista os capítulos em
+inglês atrás do original.
 
 ## Layout
 

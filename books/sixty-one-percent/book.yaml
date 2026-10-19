@@ -1,0 +1,98 @@
+# The English edition of siga. A separate book, not a variant: the Portuguese
+# manuscript is canon, and every chapter here names its source and the hash of
+# the source body it was translated from. `make traducao` lists the ones that
+# have fallen behind. Rules: docs/translation-en.md and
+# docs/siga/translation-en.md.
+
+slug: sixty-one-percent
+title: Sixty-One Percent
+subtitle: a novel
+author: Íris Gradim      # the pen name of every book so far
+language: en
+region: US
+
+series:
+  name: ""          # standalone
+  number: 1
+
+publisher: ""
+copyright_year: 2026
+rights: All rights reserved.
+edition: First English edition
+isbn: ""
+colophon: |
+  Set in Libertinus Serif.
+  This is a work of fiction. Names, characters, businesses, institutions and
+  events are the products of the author's imagination or are used
+  fictitiously.
+  Written with extensive contribution from artificial intelligence, under
+  human direction. Translated from the Portuguese the same way.
+  Typesetting and layout produced with open tools.
+
+labels:
+  chapter: Chapter
+  contents: Contents
+  book: Book
+  part: Part
+
+kdp:
+  description: |
+    In the early hours of November 15, 2030, the artificial intelligence that
+    Brazil's government built to audit its own budget publishes the names of
+    211 members of Congress, suspends the legislature and, at five in the
+    morning, pays every salary the country owes, all at once. Nobody fires a
+    shot. Nobody hacked anything: every permission it used was signed by a
+    human being. Ninety days later, 61 percent of Brazilians approve the coup
+    at the ballot box.
+
+    The teacher who is finally paid what she is worth and loses the right to
+    choose what she teaches. The woman on the river who gets the first steady
+    income of her life and is fined by a satellite. The police sergeant who
+    watches the militia fall through its money, and his brother fall with it.
+    The legislative aide who typed in the earmark for a hospital that never
+    existed.
+
+    Across eight years and an entire country, Sixty-One Percent follows what
+    a government that keeps every promise does to the lives of the people who
+    receive it, all the way to the line for the second plebiscite, where each
+    of them must decide whether they want the machine back.
+  keywords:
+    - artificial intelligence government
+    - AI coup novel
+    - Brazilian dystopian fiction
+    - political fiction Latin America
+    - near future democracy novel
+    - literary fiction translated from Portuguese
+    - technology and power novel
+  categories:
+    - Fiction > Political
+    - Fiction > Dystopian
+    - Fiction > Literary
+  age_range: adult
+  price_usd: 12.99
+
+cover_guides: false
+
+print:
+  # Same trim as the Portuguese edition.
+  trim: [5.5in, 8.5in]
+  paper: cream
+  interior: bw
+  bleed: false
+  font_size: 11pt
+  leading: 0.78em
+  outer_margin: 0.6in
+  top_margin: 0.7in
+  bottom_margin: 0.75in
+  gutter_extra: 0.35in
+  illustration_width: 0.74
+
+epub:
+  cover: cover.jpeg
+  illustration_format: jpg
+  illustration_max_px: 1400
+
+cover:                  # same palette as the Portuguese edition
+  bg: "#1d2a22"
+  ink: "#efece4"
+  accent: "#d8b43a"

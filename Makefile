@@ -20,9 +20,9 @@
 BOOK  ?= siga
 BOOKS := $(notdir $(wildcard books/*))
 # Series order, for release. Books not listed here are appended.
-SERIES := siga
+SERIES := siga sixty-one-percent
 # The English editions. Each chapter names its Portuguese source and its hash.
-TRANSLATIONS :=
+TRANSLATIONS := sixty-one-percent
 SERIES += $(filter-out $(SERIES),$(BOOKS))
 # `make release` does the whole series; `make release BOOK=x` does one book.
 RELEASE := $(if $(filter command line environment,$(origin BOOK)),$(BOOK),$(SERIES))

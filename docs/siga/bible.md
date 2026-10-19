@@ -151,7 +151,7 @@ O eixo do livro: cada promessa aparece primeiro num Documento e depois numa vida
 
 ### As vozes de um capítulo
 
-- **Otávio Rangel**, Presidente fictício. Renuncia às 04h10.
+- **Otávio Rangel**, Presidente fictício. Foi ministro da Defesa antes de ser eleito (*Lisboa*). Renuncia às 04h10.
 - **Ronaldo Peixoto**, deputado fictício (GO), nome 154 da lista.
 - **Regina Albuquerque**, ministra fictícia do STF. Desempata.
 - **Celina Baraúna**, deputada fictícia (MS), nome 87 da lista.

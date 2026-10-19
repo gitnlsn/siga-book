@@ -71,8 +71,8 @@ Wesley se lembrou. Tinha sido na manhã de 15 de novembro de 2030, no fim da
 vigília do feriado. Ele tinha subido ao púlpito com o Programa de Governo no
 telefone e tinha lido em voz alta, com a voz das genealogias, os trechos sobre
 o imposto, sobre o dinheiro, sobre o crime que seria combatido pelo dinheiro. E
-tinha dito de cabeça o capítulo treze: *e que ninguém pudesse comprar ou
-vender, senão aquele que tivesse o sinal*. A igreja tinha dito amém. E depois
+tinha dito de cabeça o capítulo treze: *para que ninguém possa comprar ou
+vender, senão aquele que tiver o sinal*. A igreja tinha dito amém. E depois
 da leitura, a irmã Cida, na cadeira da ponta, a da janela do córrego, tinha
 levantado a mão como uma aluna e perguntado:
 

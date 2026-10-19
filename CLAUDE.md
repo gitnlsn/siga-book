@@ -1,7 +1,7 @@
 # CLAUDE.md
 
-Production repo for ***Siga***, a standalone novel by Íris Gradim (pt-BR, no
-English edition yet). Markdown manuscript builds to a KDP-ready EPUB and a
+Production repo for ***Siga***, a standalone novel by Íris Gradim (pt-BR), and
+its English edition ***Sixty-One Percent*** (`sixty-one-percent`). Markdown manuscript builds to a KDP-ready EPUB and a
 print-ready PDF, with the toolchain of *Quarenta dias úteis*
 (`../artificial-intelligence-a-dystopia`) and `../new-series`. The plan is
 approved in `docs/siga/outline.md`; the world is in `docs/siga/bible.md`.
@@ -47,6 +47,20 @@ behalf are marked (proposta) and listed at the end of the outline.
 - **Sobre a autora** (back) keeps "Trabalha sob direção humana." and **three
   debts**, all to real works. It **never mentions or credits the person who
   directed the book**.
+
+## English edition — *Sixty-One Percent*
+
+A separate book in `books/sixty-one-percent/` (US English; title chosen by the
+author on 2026-10-19). **The Portuguese is canon**; docs are never translated.
+Each English chapter has the same filename as its source, the Portuguese
+planning notes in its front matter, and `source:` + `source_sha:`.
+`make traducao` lists chapters whose source changed, and `make release` stops on
+a stale one. Rules: `docs/translation-en.md` (general) and
+`docs/siga/translation-en.md` (titles, glossary, fixed sentences, *Found in the
+Portuguese*). **Revise the Portuguese first, then carry the change into the
+English** and restamp: `python3 scripts/check-translation.py sixty-one-percent
+--stamp <file>`. The art is shared through an `illustrations` symlink.
+"About the Author" never mentions the person who directed the book.
 
 ## O mundo é canônico — docs/<slug>/bible.md
 

@@ -225,7 +225,7 @@ das duas pesava mais.
 
 Ele levantou, foi até a cozinha e jogou fora a erva lavada na lixeira da pia.
 Encheu a cuia de erva nova, até a borda, inclinou, molhou o pé com água fria
-como o pai ensinava, e pôs a térmica no fogo para esquentar de novo, sem
+como o pai ensinava, e pôs a água no fogo para esquentar de novo, sem
 deixar ferver.
 
 Enquanto a água esquentava, ele voltou à sala e, com cuidado, sem misturar as
